@@ -1,0 +1,1 @@
+vamos abrir o Visual Studio Code e criar nosso 1º código
