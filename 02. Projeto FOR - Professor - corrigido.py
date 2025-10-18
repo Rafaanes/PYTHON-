@@ -38,17 +38,14 @@ dias_uteis = ['segunda-feira', 'terça-feira', 'quarta-feira', 'quinta-feira', '
 total_salario = 0
 
 # 2o passo - For e cálculos
-for dia_semana in dias_uteis:
-    salario_dia = float (input(f'Digite o salário da {dia_semana}: R$ '))
-    
+for diasemana in dias_uteis:
+    salario_dia = float(input(f'Digite o salário do dia {diasemana}, valor R$ :'))
     total_salario += salario_dia
 
-
+    
 # 3o passo - saída
 # Exibir o total acumulado do dia da semana
-
-print(f'\nSalário total da semana: R$ {total_salario: .2f}')
-
+print(f'\nSalário total da semana: R$ {total_salario:.2f}')
 
 
 
