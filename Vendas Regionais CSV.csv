@@ -1,0 +1,2149 @@
+﻿Data;Regiao;Vendedor;Secao;Vendas;Total com imposto
+02/01/2010;Centro;Simone;Cama, Mesa e Banho;4135,06;4962,07
+02/01/2010;Oeste;Ana Maria;Eletrodomésticos;1409,31;1691,17
+03/01/2010;Sul;Carolina;Eletrônicos;363,44;436,13
+04/01/2010;Nordeste;João Carlos;Cine e Foto;399,76;479,71
+05/01/2010;Sudeste;Carolina;Cama, Mesa e Banho;814,39;977,27
+05/01/2010;Oeste;Ricardo;Casa e Construção;2870,73;3444,88
+05/01/2010;Sul;Ana Maria;Cine e Foto;1102,66;1323,19
+06/01/2010;Centro;Ana Maria;Móveis e Decoração;2575,83;3091,00
+06/01/2010;Sul;Ana Maria;Eletrônicos;3193,66;3832,39
+08/01/2010;Centro;Carolina;Eletrônicos;324,90;389,88
+08/01/2010;Centro;Roberto;Esporte e Lazer;2183,97;2620,76
+10/01/2010;Nordeste;Carolina;Cama, Mesa e Banho;622,01;746,41
+11/01/2010;Sul;Ana Maria;Cama, Mesa e Banho;2231,92;2678,30
+11/01/2010;Centro;Adriana;Eletrônicos;2542,59;3051,11
+11/01/2010;Leste;Carolina;Casa e Construção;4855,44;5826,53
+12/01/2010;Sudeste;João Carlos;Utilidades Domésticas;3780,35;4536,42
+12/01/2010;Sul;Ana Maria;Esporte e Lazer;1840,98;2209,18
+16/01/2010;Norte;João Carlos;Casa e Construção;2546,93;3056,32
+16/01/2010;Oeste;Carolina;Móveis e Decoração;1322,58;1587,10
+16/01/2010;Centro;Carolina;Roupas e Acessórios;4284,20;5141,04
+16/01/2010;Nordeste;Simone;Móveis e Decoração;4475,25;5370,30
+16/01/2010;Sudeste;Carolina;Eletrônicos;2666,45;3199,74
+16/01/2010;Centro;Carolina;Cama, Mesa e Banho;2725,30;3270,36
+18/01/2010;Nordeste;Ricardo;Casa e Construção;4925,77;5910,92
+19/01/2010;Nordeste;Carolina;Eletrônicos;3727,13;4472,56
+19/01/2010;Nordeste;Ana Maria;Cine e Foto;2628,42;3154,10
+21/01/2010;Sudeste;Carolina;Utilidades Domésticas;818,46;982,15
+22/01/2010;Sul;João Carlos;Eletrônicos;4491,09;5389,31
+23/01/2010;Centro;Ricardo;Cama, Mesa e Banho;2424,22;2909,06
+24/01/2010;Leste;Carolina;Móveis e Decoração;4363,02;5235,62
+24/01/2010;Sul;Roberto;Eletrodomésticos;4928,01;5913,61
+24/01/2010;Sudeste;Carolina;Utilidades Domésticas;4764,84;5717,81
+25/01/2010;Centro;Roberto;Roupas e Acessórios;4920,82;5904,98
+26/01/2010;Sudeste;Simone;Eletrônicos;4647,49;5576,99
+26/01/2010;Centro;João Carlos;Cama, Mesa e Banho;1089,47;1307,36
+26/01/2010;Nordeste;João Carlos;Esporte e Lazer;4489,94;5387,93
+28/01/2010;Sul;José Luiz;Cama, Mesa e Banho;3009,49;3611,39
+28/01/2010;Norte;Ricardo;Cine e Foto;1963,00;2355,60
+28/01/2010;Centro;Ana Maria;Roupas e Acessórios;4375,52;5250,62
+29/01/2010;Centro;Ricardo;Cine e Foto;2942,77;3531,32
+29/01/2010;Centro;José Luiz;Cama, Mesa e Banho;1432,64;1719,17
+30/01/2010;Nordeste;Carolina;Eletrônicos;1017,62;1221,14
+30/01/2010;Oeste;Ana Maria;Eletrônicos;390,03;468,04
+30/01/2010;Sul;Ana Maria;Eletrodomésticos;2927,62;3513,14
+31/01/2010;Sudeste;Ricardo;Roupas e Acessórios;2951,67;3542,00
+01/02/2010;Oeste;Carolina;Cama, Mesa e Banho;3956,24;4747,49
+02/02/2010;Sudeste;João Carlos;Esporte e Lazer;2359,56;2831,47
+02/02/2010;Oeste;Ana Maria;Cama, Mesa e Banho;1219,08;1462,90
+02/02/2010;Sul;Carolina;Cine e Foto;3918,15;4701,78
+04/02/2010;Sudeste;José Luiz;Cine e Foto;3431,24;4117,49
+05/02/2010;Centro;Carolina;Eletrônicos;4863,33;5836,00
+06/02/2010;Leste;Adriana;Eletrodomésticos;4249,10;5098,92
+06/02/2010;Nordeste;Ricardo;Móveis e Decoração;4909,82;5891,78
+07/02/2010;Nordeste;Ana Maria;Móveis e Decoração;4010,53;4812,64
+07/02/2010;Norte;Ana Maria;Esporte e Lazer;4640,33;5568,40
+09/02/2010;Sudeste;Roberto;Eletrodomésticos;695,78;834,94
+09/02/2010;Leste;Ricardo;Utilidades Domésticas;2019,00;2422,80
+10/02/2010;Norte;Roberto;Roupas e Acessórios;4641,17;5569,40
+10/02/2010;Sudeste;Carolina;Esporte e Lazer;2754,56;3305,47
+11/02/2010;Norte;João Carlos;Utilidades Domésticas;4263,76;5116,51
+11/02/2010;Sudeste;João Carlos;Eletrodomésticos;4282,78;5139,34
+12/02/2010;Norte;Carolina;Eletrônicos;2827,14;3392,57
+12/02/2010;Centro;Roberto;Eletrônicos;2324,41;2789,29
+13/02/2010;Sudeste;Carolina;Eletrodomésticos;2384,59;2861,51
+13/02/2010;Centro;Ricardo;Casa e Construção;3607,23;4328,68
+13/02/2010;Oeste;Carolina;Cama, Mesa e Banho;1045,71;1254,85
+13/02/2010;Norte;Roberto;Esporte e Lazer;3064,67;3677,60
+13/02/2010;Nordeste;Carolina;Eletrônicos;2592,96;3111,55
+15/02/2010;Sudeste;João Carlos;Cine e Foto;4785,79;5742,95
+15/02/2010;Sul;Simone;Casa e Construção;4427,87;5313,44
+16/02/2010;Sul;Roberto;Eletrônicos;3420,61;4104,73
+16/02/2010;Leste;Ricardo;Utilidades Domésticas;1250,81;1500,97
+17/02/2010;Sudeste;Ricardo;Utilidades Domésticas;2033,53;2440,24
+17/02/2010;Norte;Ricardo;Cine e Foto;2015,16;2418,19
+17/02/2010;Centro;Adriana;Eletrônicos;3431,01;4117,21
+18/02/2010;Centro;Simone;Utilidades Domésticas;4502,80;5403,36
+18/02/2010;Norte;João Carlos;Roupas e Acessórios;4527,20;5432,64
+19/02/2010;Nordeste;Roberto;Eletrodomésticos;3041,97;3650,36
+21/02/2010;Centro;João Carlos;Utilidades Domésticas;4063,99;4876,79
+21/02/2010;Oeste;Ricardo;Eletrônicos;434,65;521,58
+21/02/2010;Centro;Adriana;Eletrônicos;1006,11;1207,33
+21/02/2010;Sul;Ricardo;Esporte e Lazer;3427,76;4113,31
+26/02/2010;Norte;Ricardo;Casa e Construção;4433,51;5320,21
+27/02/2010;Sudeste;Ana Maria;Casa e Construção;2827,28;3392,74
+27/02/2010;Sudeste;João Carlos;Casa e Construção;2852,32;3422,78
+28/02/2010;Centro;Carolina;Cama, Mesa e Banho;3245,26;3894,31
+28/02/2010;Centro;Carolina;Esporte e Lazer;2438,41;2926,09
+01/03/2010;Nordeste;Ricardo;Cama, Mesa e Banho;4169,38;5003,26
+01/03/2010;Leste;Ricardo;Esporte e Lazer;1820,60;2184,72
+01/03/2010;Oeste;Ricardo;Móveis e Decoração;1982,63;2379,16
+01/03/2010;Sul;Ricardo;Cine e Foto;2911,14;3493,37
+02/03/2010;Sul;João Carlos;Eletrônicos;749,42;899,30
+02/03/2010;Centro;Carolina;Cama, Mesa e Banho;2598,33;3118,00
+03/03/2010;Nordeste;João Carlos;Eletrônicos;2501,77;3002,12
+04/03/2010;Centro;Ricardo;Esporte e Lazer;4227,02;5072,42
+05/03/2010;Centro;Ana Maria;Eletrodomésticos;3063,11;3675,73
+05/03/2010;Centro;Carolina;Roupas e Acessórios;4289,13;5146,96
+05/03/2010;Sudeste;Adriana;Utilidades Domésticas;4821,01;5785,21
+05/03/2010;Oeste;Ricardo;Móveis e Decoração;233,04;279,65
+06/03/2010;Sul;Ricardo;Roupas e Acessórios;2480,03;2976,04
+08/03/2010;Centro;Ricardo;Eletrodomésticos;2316,82;2780,18
+08/03/2010;Nordeste;José Luiz;Eletrônicos;368,35;442,02
+10/03/2010;Norte;João Carlos;Eletrônicos;4332,31;5198,77
+11/03/2010;Sudeste;Carolina;Utilidades Domésticas;3923,18;4707,82
+11/03/2010;Norte;Ana Maria;Eletrodomésticos;2039,08;2446,90
+11/03/2010;Oeste;Ricardo;Esporte e Lazer;828,14;993,77
+12/03/2010;Sudeste;Carolina;Esporte e Lazer;3014,41;3617,29
+12/03/2010;Nordeste;Carolina;Cine e Foto;376,41;451,69
+14/03/2010;Sul;Carolina;Utilidades Domésticas;4712,12;5654,54
+16/03/2010;Norte;Adriana;Móveis e Decoração;1254,81;1505,77
+18/03/2010;Sudeste;Ana Maria;Eletrodomésticos;1478,63;1774,36
+18/03/2010;Norte;Simone;Roupas e Acessórios;1187,07;1424,48
+19/03/2010;Nordeste;Ana Maria;Eletrodomésticos;305,58;366,70
+20/03/2010;Centro;Simone;Cama, Mesa e Banho;829,61;995,53
+20/03/2010;Nordeste;João Carlos;Cine e Foto;4803,57;5764,28
+20/03/2010;Sul;José Luiz;Utilidades Domésticas;1444,03;1732,84
+20/03/2010;Sul;Ricardo;Eletrônicos;2205,99;2647,19
+21/03/2010;Sul;Ana Maria;Casa e Construção;4797,13;5756,56
+21/03/2010;Sul;Roberto;Esporte e Lazer;3747,44;4496,93
+22/03/2010;Sudeste;Ana Maria;Eletrônicos;1179,97;1415,96
+22/03/2010;Sudeste;João Carlos;Utilidades Domésticas;1475,02;1770,02
+22/03/2010;Leste;Simone;Roupas e Acessórios;3378,07;4053,68
+22/03/2010;Sudeste;João Carlos;Casa e Construção;1013,01;1215,61
+23/03/2010;Oeste;Carolina;Eletrodomésticos;1711,37;2053,64
+23/03/2010;Leste;Ana Maria;Cama, Mesa e Banho;1941,19;2329,43
+25/03/2010;Sul;João Carlos;Esporte e Lazer;3462,17;4154,60
+25/03/2010;Leste;Ana Maria;Eletrodomésticos;3025,09;3630,11
+26/03/2010;Sudeste;José Luiz;Roupas e Acessórios;2692,83;3231,40
+26/03/2010;Centro;Roberto;Móveis e Decoração;1655,22;1986,26
+27/03/2010;Sul;Ana Maria;Cama, Mesa e Banho;1056,31;1267,57
+27/03/2010;Norte;Carolina;Casa e Construção;2832,11;3398,53
+27/03/2010;Nordeste;João Carlos;Cine e Foto;931,47;1117,76
+29/03/2010;Sul;Simone;Casa e Construção;3209,07;3850,88
+29/03/2010;Sudeste;Ricardo;Cama, Mesa e Banho;2127,83;2553,40
+30/03/2010;Leste;Ricardo;Casa e Construção;3471,48;4165,78
+30/03/2010;Sudeste;Roberto;Móveis e Decoração;2606,85;3128,22
+31/03/2010;Nordeste;Carolina;Móveis e Decoração;771,32;925,58
+31/03/2010;Sul;João Carlos;Casa e Construção;1225,62;1470,74
+31/03/2010;Sudeste;João Carlos;Cine e Foto;308,67;370,40
+02/04/2010;Sudeste;José Luiz;Cama, Mesa e Banho;3848,72;4618,46
+02/04/2010;Norte;Carolina;Móveis e Decoração;430,13;516,16
+03/04/2010;Norte;Carolina;Utilidades Domésticas;815,42;978,50
+03/04/2010;Leste;Carolina;Casa e Construção;2981,18;3577,42
+05/04/2010;Oeste;João Carlos;Roupas e Acessórios;246,01;295,21
+05/04/2010;Oeste;Ricardo;Cine e Foto;2241,81;2690,17
+06/04/2010;Oeste;Simone;Roupas e Acessórios;710,98;853,18
+06/04/2010;Sul;Ricardo;Esporte e Lazer;1446,37;1735,64
+06/04/2010;Centro;Carolina;Esporte e Lazer;2303,66;2764,39
+07/04/2010;Nordeste;Ana Maria;Casa e Construção;4768,11;5721,73
+07/04/2010;Sudeste;Ana Maria;Cama, Mesa e Banho;3080,76;3696,91
+08/04/2010;Oeste;Ricardo;Utilidades Domésticas;1968,14;2361,77
+09/04/2010;Centro;João Carlos;Roupas e Acessórios;1164,44;1397,33
+12/04/2010;Leste;Roberto;Esporte e Lazer;3386,65;4063,98
+12/04/2010;Oeste;Adriana;Eletrodomésticos;747,55;897,06
+14/04/2010;Centro;Carolina;Eletrodomésticos;775,84;931,01
+14/04/2010;Oeste;João Carlos;Cama, Mesa e Banho;2964,55;3557,46
+15/04/2010;Oeste;Ana Maria;Cine e Foto;3105,27;3726,32
+15/04/2010;Nordeste;Carolina;Esporte e Lazer;2481,71;2978,05
+15/04/2010;Nordeste;João Carlos;Cama, Mesa e Banho;2067,09;2480,51
+15/04/2010;Sul;João Carlos;Móveis e Decoração;2836,00;3403,20
+16/04/2010;Nordeste;Ana Maria;Casa e Construção;4658,48;5590,18
+17/04/2010;Sudeste;Ana Maria;Roupas e Acessórios;3698,73;4438,48
+17/04/2010;Norte;João Carlos;Eletrônicos;4914,11;5896,93
+17/04/2010;Norte;João Carlos;Casa e Construção;478,72;574,46
+19/04/2010;Sudeste;Roberto;Eletrodomésticos;4897,83;5877,40
+19/04/2010;Oeste;João Carlos;Roupas e Acessórios;1628,36;1954,03
+19/04/2010;Centro;Ricardo;Cine e Foto;3692,04;4430,45
+21/04/2010;Nordeste;Simone;Cama, Mesa e Banho;3908,31;4689,97
+21/04/2010;Nordeste;Simone;Eletrodomésticos;2126,60;2551,92
+22/04/2010;Norte;João Carlos;Utilidades Domésticas;2695,54;3234,65
+22/04/2010;Oeste;Ricardo;Cine e Foto;995,75;1194,90
+23/04/2010;Centro;João Carlos;Cama, Mesa e Banho;1565,86;1879,03
+23/04/2010;Nordeste;Ricardo;Cine e Foto;3334,01;4000,81
+25/04/2010;Centro;Carolina;Cama, Mesa e Banho;2832,74;3399,29
+25/04/2010;Nordeste;José Luiz;Casa e Construção;3114,01;3736,81
+25/04/2010;Oeste;Ricardo;Casa e Construção;3106,62;3727,94
+25/04/2010;Sudeste;Ana Maria;Cine e Foto;946,75;1136,10
+27/04/2010;Centro;João Carlos;Casa e Construção;388,45;466,14
+29/04/2010;Nordeste;Ricardo;Eletrodomésticos;3611,89;4334,27
+29/04/2010;Centro;José Luiz;Eletrodomésticos;4243,71;5092,45
+29/04/2010;Sul;João Carlos;Eletrônicos;3601,13;4321,36
+30/04/2010;Nordeste;Roberto;Cine e Foto;3602,60;4323,12
+01/05/2010;Leste;João Carlos;Cine e Foto;1966,86;2360,23
+01/05/2010;Centro;João Carlos;Utilidades Domésticas;2562,53;3075,04
+02/05/2010;Sul;Carolina;Cine e Foto;2803,60;3364,32
+03/05/2010;Centro;João Carlos;Utilidades Domésticas;3105,32;3726,38
+03/05/2010;Sudeste;João Carlos;Cine e Foto;3552,79;4263,35
+03/05/2010;Sudeste;Adriana;Roupas e Acessórios;1346,21;1615,45
+04/05/2010;Centro;Simone;Móveis e Decoração;361,24;433,49
+05/05/2010;Sudeste;Carolina;Cine e Foto;914,63;1097,56
+05/05/2010;Sudeste;Simone;Utilidades Domésticas;2545,46;3054,55
+06/05/2010;Norte;João Carlos;Casa e Construção;3594,21;4313,05
+07/05/2010;Sudeste;Roberto;Eletrônicos;459,07;550,88
+07/05/2010;Centro;João Carlos;Móveis e Decoração;1279,54;1535,45
+08/05/2010;Norte;Ana Maria;Eletrônicos;2084,03;2500,84
+08/05/2010;Sudeste;Ana Maria;Eletrônicos;2419,87;2903,84
+09/05/2010;Oeste;Ana Maria;Roupas e Acessórios;3607,89;4329,47
+10/05/2010;Sudeste;Roberto;Roupas e Acessórios;687,01;824,41
+13/05/2010;Centro;Carolina;Móveis e Decoração;1916,95;2300,34
+14/05/2010;Sul;Carolina;Cama, Mesa e Banho;1946,89;2336,27
+16/05/2010;Centro;João Carlos;Cama, Mesa e Banho;1348,14;1617,77
+17/05/2010;Oeste;Carolina;Eletrônicos;231,20;277,44
+18/05/2010;Centro;João Carlos;Móveis e Decoração;1309,57;1571,48
+19/05/2010;Nordeste;Ana Maria;Eletrônicos;4584,56;5501,47
+19/05/2010;Sul;Ana Maria;Cama, Mesa e Banho;1381,97;1658,36
+20/05/2010;Sudeste;João Carlos;Esporte e Lazer;2041,60;2449,92
+21/05/2010;Oeste;Adriana;Utilidades Domésticas;3632,89;4359,47
+21/05/2010;Centro;Ricardo;Casa e Construção;2833,28;3399,94
+22/05/2010;Oeste;Carolina;Casa e Construção;3743,85;4492,62
+22/05/2010;Nordeste;Carolina;Casa e Construção;2451,99;2942,39
+22/05/2010;Oeste;Carolina;Móveis e Decoração;3376,08;4051,30
+23/05/2010;Nordeste;Ricardo;Casa e Construção;3644,10;4372,92
+23/05/2010;Sudeste;Carolina;Casa e Construção;2550,12;3060,14
+24/05/2010;Nordeste;José Luiz;Esporte e Lazer;453,40;544,08
+24/05/2010;Nordeste;João Carlos;Cama, Mesa e Banho;436,08;523,30
+24/05/2010;Leste;Carolina;Esporte e Lazer;4252,59;5103,11
+25/05/2010;Nordeste;Ana Maria;Móveis e Decoração;840,12;1008,14
+26/05/2010;Sudeste;João Carlos;Esporte e Lazer;3628,50;4354,20
+27/05/2010;Norte;Ricardo;Eletrodomésticos;546,72;656,06
+27/05/2010;Sudeste;José Luiz;Roupas e Acessórios;369,86;443,83
+27/05/2010;Sudeste;Roberto;Eletrodomésticos;2381,40;2857,68
+28/05/2010;Oeste;Carolina;Móveis e Decoração;1444,25;1733,10
+28/05/2010;Sudeste;Carolina;Casa e Construção;961,35;1153,62
+29/05/2010;Centro;Carolina;Eletrônicos;1732,83;2079,40
+29/05/2010;Leste;Carolina;Cine e Foto;2603,32;3123,98
+30/05/2010;Nordeste;Ricardo;Roupas e Acessórios;765,32;918,38
+30/05/2010;Oeste;Adriana;Eletrodomésticos;4379,84;5255,81
+31/05/2010;Centro;Ana Maria;Esporte e Lazer;2465,52;2958,62
+31/05/2010;Nordeste;Ana Maria;Esporte e Lazer;4692,60;5631,12
+31/05/2010;Centro;Adriana;Cama, Mesa e Banho;3567,34;4280,81
+01/06/2010;Centro;Ricardo;Móveis e Decoração;4266,69;5120,03
+01/06/2010;Centro;João Carlos;Eletrodomésticos;1661,41;1993,69
+02/06/2010;Norte;Adriana;Móveis e Decoração;2876,35;3451,62
+02/06/2010;Sul;Simone;Eletrodomésticos;877,73;1053,28
+02/06/2010;Leste;Simone;Cama, Mesa e Banho;2642,77;3171,32
+03/06/2010;Sudeste;Carolina;Móveis e Decoração;4880,93;5857,12
+03/06/2010;Sudeste;Carolina;Cama, Mesa e Banho;2958,40;3550,08
+04/06/2010;Nordeste;Carolina;Cine e Foto;2951,67;3542,00
+04/06/2010;Nordeste;Simone;Eletrodomésticos;1784,98;2141,98
+04/06/2010;Sudeste;Ana Maria;Eletrônicos;273,12;327,74
+05/06/2010;Sudeste;Carolina;Móveis e Decoração;3015,83;3619,00
+06/06/2010;Leste;João Carlos;Utilidades Domésticas;4973,69;5968,43
+06/06/2010;Sul;Simone;Utilidades Domésticas;1141,15;1369,38
+06/06/2010;Norte;Carolina;Cama, Mesa e Banho;1356,33;1627,60
+08/06/2010;Centro;Carolina;Esporte e Lazer;3453,90;4144,68
+10/06/2010;Nordeste;Ana Maria;Esporte e Lazer;2322,27;2786,72
+10/06/2010;Sul;Simone;Utilidades Domésticas;4362,34;5234,81
+11/06/2010;Centro;Roberto;Cine e Foto;3548,35;4258,02
+12/06/2010;Nordeste;Roberto;Cine e Foto;4748,69;5698,43
+12/06/2010;Norte;José Luiz;Esporte e Lazer;1596,73;1916,08
+12/06/2010;Oeste;Roberto;Móveis e Decoração;4914,42;5897,30
+13/06/2010;Sudeste;Adriana;Eletrônicos;396,29;475,55
+14/06/2010;Oeste;Ricardo;Cine e Foto;3515,74;4218,89
+14/06/2010;Sudeste;Ana Maria;Eletrônicos;1304,81;1565,77
+14/06/2010;Oeste;Ana Maria;Esporte e Lazer;1789,89;2147,87
+15/06/2010;Leste;Carolina;Roupas e Acessórios;1851,96;2222,35
+16/06/2010;Oeste;João Carlos;Utilidades Domésticas;3046,13;3655,36
+16/06/2010;Nordeste;Carolina;Cine e Foto;2435,26;2922,31
+18/06/2010;Leste;Simone;Cama, Mesa e Banho;4989,70;5987,64
+18/06/2010;Sudeste;João Carlos;Cama, Mesa e Banho;2154,92;2585,90
+20/06/2010;Sul;Carolina;Eletrônicos;1446,56;1735,87
+20/06/2010;Centro;João Carlos;Cine e Foto;4670,02;5604,02
+21/06/2010;Centro;Roberto;Móveis e Decoração;362,43;434,92
+21/06/2010;Sul;João Carlos;Casa e Construção;3174,17;3809,00
+22/06/2010;Centro;Simone;Esporte e Lazer;518,52;622,22
+22/06/2010;Sudeste;Carolina;Eletrônicos;3037,60;3645,12
+24/06/2010;Sudeste;Carolina;Utilidades Domésticas;2462,32;2954,78
+25/06/2010;Centro;Ana Maria;Esporte e Lazer;1348,70;1618,44
+26/06/2010;Sudeste;Ricardo;Roupas e Acessórios;1768,02;2121,62
+26/06/2010;Centro;Ana Maria;Esporte e Lazer;1370,13;1644,16
+27/06/2010;Norte;João Carlos;Eletrônicos;1573,65;1888,38
+27/06/2010;Nordeste;João Carlos;Utilidades Domésticas;746,86;896,23
+28/06/2010;Oeste;João Carlos;Esporte e Lazer;1314,69;1577,63
+29/06/2010;Sudeste;Carolina;Esporte e Lazer;327,23;392,68
+29/06/2010;Sudeste;Ana Maria;Móveis e Decoração;1226,14;1471,37
+29/06/2010;Oeste;Simone;Móveis e Decoração;3215,16;3858,19
+30/06/2010;Norte;Simone;Cine e Foto;2003,52;2404,22
+30/06/2010;Centro;Ricardo;Móveis e Decoração;2423,08;2907,70
+01/07/2010;Sudeste;Ricardo;Esporte e Lazer;3119,44;3743,33
+01/07/2010;Sudeste;Adriana;Móveis e Decoração;2697,62;3237,14
+01/07/2010;Oeste;Ana Maria;Casa e Construção;1484,34;1781,21
+01/07/2010;Leste;Ricardo;Eletrodomésticos;4581,62;5497,94
+01/07/2010;Leste;Simone;Cama, Mesa e Banho;3900,69;4680,83
+01/07/2010;Centro;Simone;Roupas e Acessórios;490,50;588,60
+02/07/2010;Sudeste;Simone;Móveis e Decoração;4050,99;4861,19
+03/07/2010;Oeste;Ana Maria;Esporte e Lazer;3710,94;4453,13
+03/07/2010;Nordeste;José Luiz;Cama, Mesa e Banho;3599,70;4319,64
+03/07/2010;Sudeste;Carolina;Cama, Mesa e Banho;4447,09;5336,51
+05/07/2010;Norte;Carolina;Esporte e Lazer;2582,46;3098,95
+05/07/2010;Sudeste;João Carlos;Cama, Mesa e Banho;2610,34;3132,41
+06/07/2010;Sudeste;José Luiz;Esporte e Lazer;2212,68;2655,22
+06/07/2010;Centro;João Carlos;Móveis e Decoração;3724,17;4469,00
+07/07/2010;Sudeste;Adriana;Cama, Mesa e Banho;1658,41;1990,09
+07/07/2010;Leste;Ana Maria;Cine e Foto;3993,86;4792,63
+10/07/2010;Sudeste;Ana Maria;Móveis e Decoração;4911,17;5893,40
+10/07/2010;Norte;Carolina;Cama, Mesa e Banho;4142,19;4970,63
+12/07/2010;Sul;Carolina;Móveis e Decoração;4488,49;5386,19
+12/07/2010;Sudeste;João Carlos;Eletrônicos;1875,06;2250,07
+12/07/2010;Sul;Simone;Eletrodomésticos;1439,13;1726,96
+13/07/2010;Sul;Ana Maria;Móveis e Decoração;2129,69;2555,63
+13/07/2010;Centro;José Luiz;Eletrodomésticos;1883,87;2260,64
+14/07/2010;Sul;João Carlos;Móveis e Decoração;1540,81;1848,97
+15/07/2010;Sudeste;José Luiz;Roupas e Acessórios;1788,01;2145,61
+17/07/2010;Sudeste;João Carlos;Roupas e Acessórios;3721,49;4465,79
+19/07/2010;Centro;Ana Maria;Eletrônicos;3856,35;4627,62
+19/07/2010;Leste;João Carlos;Esporte e Lazer;3367,91;4041,49
+20/07/2010;Centro;João Carlos;Cine e Foto;4124,52;4949,42
+21/07/2010;Sul;Carolina;Eletrônicos;1646,93;1976,32
+21/07/2010;Nordeste;Ana Maria;Eletrodomésticos;4203,23;5043,88
+21/07/2010;Sul;Ricardo;Móveis e Decoração;4960,30;5952,36
+22/07/2010;Centro;Ricardo;Eletrônicos;1086,37;1303,64
+22/07/2010;Sudeste;João Carlos;Cama, Mesa e Banho;253,13;303,76
+23/07/2010;Sudeste;Carolina;Casa e Construção;4882,61;5859,13
+23/07/2010;Centro;João Carlos;Cine e Foto;4286,86;5144,23
+24/07/2010;Oeste;Ana Maria;Casa e Construção;3617,62;4341,14
+25/07/2010;Sudeste;José Luiz;Roupas e Acessórios;3227,45;3872,94
+25/07/2010;Leste;João Carlos;Cama, Mesa e Banho;1674,88;2009,86
+26/07/2010;Leste;João Carlos;Móveis e Decoração;4053,29;4863,95
+27/07/2010;Leste;João Carlos;Eletrodomésticos;2203,50;2644,20
+27/07/2010;Sudeste;Ricardo;Cama, Mesa e Banho;4688,48;5626,18
+28/07/2010;Sul;João Carlos;Móveis e Decoração;1638,34;1966,01
+29/07/2010;Centro;Ricardo;Casa e Construção;2400,36;2880,43
+30/07/2010;Sudeste;João Carlos;Cine e Foto;3995,67;4794,80
+30/07/2010;Centro;Carolina;Eletrodomésticos;1638,68;1966,42
+30/07/2010;Leste;Adriana;Casa e Construção;209,43;251,32
+31/07/2010;Centro;Carolina;Cine e Foto;4047,52;4857,02
+01/08/2010;Centro;João Carlos;Roupas e Acessórios;4532,31;5438,77
+02/08/2010;Norte;José Luiz;Cine e Foto;1428,03;1713,64
+03/08/2010;Oeste;Adriana;Casa e Construção;2090,53;2508,64
+03/08/2010;Sudeste;Ricardo;Utilidades Domésticas;3497,93;4197,52
+05/08/2010;Sudeste;João Carlos;Utilidades Domésticas;1106,46;1327,75
+05/08/2010;Nordeste;João Carlos;Utilidades Domésticas;2383,13;2859,76
+06/08/2010;Centro;Roberto;Cama, Mesa e Banho;3012,45;3614,94
+07/08/2010;Sudeste;José Luiz;Cine e Foto;4666,75;5600,10
+07/08/2010;Sudeste;Simone;Móveis e Decoração;883,87;1060,64
+07/08/2010;Sudeste;Roberto;Eletrônicos;262,76;315,31
+07/08/2010;Sul;Ana Maria;Esporte e Lazer;1022,24;1226,69
+08/08/2010;Nordeste;José Luiz;Utilidades Domésticas;4544,95;5453,94
+08/08/2010;Sudeste;Carolina;Cine e Foto;3400,62;4080,74
+09/08/2010;Centro;João Carlos;Cine e Foto;3132,89;3759,47
+09/08/2010;Leste;Ricardo;Utilidades Domésticas;729,02;874,82
+10/08/2010;Nordeste;Ricardo;Esporte e Lazer;2388,05;2865,66
+10/08/2010;Sudeste;José Luiz;Esporte e Lazer;202,71;243,25
+10/08/2010;Centro;Simone;Esporte e Lazer;4024,52;4829,42
+11/08/2010;Sul;Ana Maria;Casa e Construção;1674,20;2009,04
+12/08/2010;Sudeste;Adriana;Utilidades Domésticas;2526,41;3031,69
+12/08/2010;Leste;Ana Maria;Cine e Foto;3807,52;4569,02
+13/08/2010;Sudeste;João Carlos;Roupas e Acessórios;1887,44;2264,93
+13/08/2010;Centro;João Carlos;Eletrodomésticos;2489,46;2987,35
+14/08/2010;Nordeste;Carolina;Eletrônicos;3833,38;4600,06
+15/08/2010;Sul;Adriana;Utilidades Domésticas;351,73;422,08
+15/08/2010;Sul;José Luiz;Eletrodomésticos;4778,92;5734,70
+15/08/2010;Sudeste;João Carlos;Cama, Mesa e Banho;4531,40;5437,68
+16/08/2010;Norte;Adriana;Utilidades Domésticas;1815,25;2178,30
+17/08/2010;Sul;Simone;Móveis e Decoração;3307,32;3968,78
+18/08/2010;Sudeste;Simone;Eletrônicos;3583,02;4299,62
+18/08/2010;Centro;Carolina;Eletrodomésticos;251,38;301,66
+18/08/2010;Nordeste;Ricardo;Móveis e Decoração;4515,95;5419,14
+19/08/2010;Sudeste;Adriana;Eletrodomésticos;1337,18;1604,62
+20/08/2010;Leste;Ana Maria;Casa e Construção;890,26;1068,31
+22/08/2010;Sudeste;Ana Maria;Eletrodomésticos;3911,57;4693,88
+22/08/2010;Leste;João Carlos;Roupas e Acessórios;2165,89;2599,07
+22/08/2010;Sudeste;João Carlos;Utilidades Domésticas;2552,66;3063,19
+23/08/2010;Norte;Simone;Cama, Mesa e Banho;4628,43;5554,12
+24/08/2010;Norte;João Carlos;Roupas e Acessórios;3217,13;3860,56
+25/08/2010;Oeste;João Carlos;Eletrodomésticos;3952,74;4743,29
+25/08/2010;Leste;João Carlos;Cama, Mesa e Banho;3840,37;4608,44
+26/08/2010;Sudeste;Ricardo;Cine e Foto;3190,96;3829,15
+27/08/2010;Sul;João Carlos;Eletrodomésticos;2979,55;3575,46
+27/08/2010;Nordeste;Roberto;Casa e Construção;3185,51;3822,61
+28/08/2010;Leste;João Carlos;Cine e Foto;906,54;1087,85
+29/08/2010;Sudeste;Ricardo;Cine e Foto;3625,77;4350,92
+30/08/2010;Leste;Carolina;Eletrodomésticos;3841,32;4609,58
+30/08/2010;Oeste;Carolina;Eletrônicos;1322,46;1586,95
+01/09/2010;Nordeste;João Carlos;Casa e Construção;3112,65;3735,18
+02/09/2010;Sul;Ricardo;Cine e Foto;2728,95;3274,74
+03/09/2010;Centro;Ana Maria;Roupas e Acessórios;2528,01;3033,61
+04/09/2010;Leste;Ricardo;Cine e Foto;1368,53;1642,24
+05/09/2010;Sudeste;Ana Maria;Eletrodomésticos;4884,02;5860,82
+06/09/2010;Centro;João Carlos;Roupas e Acessórios;2554,00;3064,80
+07/09/2010;Sudeste;Carolina;Móveis e Decoração;988,60;1186,32
+08/09/2010;Sudeste;Ricardo;Esporte e Lazer;2274,67;2729,60
+09/09/2010;Sul;Ricardo;Eletrodomésticos;3162,46;3794,95
+09/09/2010;Norte;João Carlos;Esporte e Lazer;4544,43;5453,32
+10/09/2010;Sul;João Carlos;Móveis e Decoração;309,74;371,69
+11/09/2010;Centro;José Luiz;Eletrônicos;3964,01;4756,81
+11/09/2010;Nordeste;Carolina;Cine e Foto;2397,99;2877,59
+12/09/2010;Centro;Ana Maria;Móveis e Decoração;4638,30;5565,96
+13/09/2010;Sudeste;João Carlos;Eletrônicos;4906,34;5887,61
+14/09/2010;Sudeste;Carolina;Utilidades Domésticas;1677,48;2012,98
+14/09/2010;Sul;Ana Maria;Utilidades Domésticas;249,28;299,14
+14/09/2010;Sudeste;João Carlos;Esporte e Lazer;1412,84;1695,41
+15/09/2010;Sudeste;Carolina;Roupas e Acessórios;2576,36;3091,63
+17/09/2010;Nordeste;Ricardo;Utilidades Domésticas;4722,47;5666,96
+17/09/2010;Nordeste;Roberto;Roupas e Acessórios;3393,21;4071,85
+17/09/2010;Centro;Ana Maria;Cine e Foto;4123,99;4948,79
+19/09/2010;Sudeste;Carolina;Cama, Mesa e Banho;1202,92;1443,50
+22/09/2010;Nordeste;Adriana;Móveis e Decoração;2693,46;3232,15
+23/09/2010;Oeste;João Carlos;Esporte e Lazer;1192,20;1430,64
+23/09/2010;Centro;Carolina;Esporte e Lazer;1585,25;1902,30
+23/09/2010;Centro;Carolina;Esporte e Lazer;3895,91;4675,09
+23/09/2010;Nordeste;Ana Maria;Eletrônicos;2183,25;2619,90
+26/09/2010;Leste;José Luiz;Roupas e Acessórios;2917,83;3501,40
+26/09/2010;Sudeste;Carolina;Casa e Construção;4210,21;5052,25
+26/09/2010;Sudeste;Ana Maria;Casa e Construção;239,69;287,63
+27/09/2010;Nordeste;José Luiz;Eletrônicos;4320,54;5184,65
+27/09/2010;Sul;José Luiz;Casa e Construção;3059,45;3671,34
+28/09/2010;Nordeste;Ana Maria;Móveis e Decoração;1899,72;2279,66
+28/09/2010;Nordeste;José Luiz;Eletrônicos;1938,34;2326,01
+28/09/2010;Nordeste;João Carlos;Cama, Mesa e Banho;1286,60;1543,92
+29/09/2010;Sudeste;Roberto;Roupas e Acessórios;796,16;955,39
+29/09/2010;Nordeste;Carolina;Cama, Mesa e Banho;3051,86;3662,23
+29/09/2010;Sudeste;Carolina;Utilidades Domésticas;4031,54;4837,85
+29/09/2010;Centro;Ana Maria;Utilidades Domésticas;1573,94;1888,73
+29/09/2010;Centro;Carolina;Esporte e Lazer;1391,69;1670,03
+30/09/2010;Centro;Carolina;Esporte e Lazer;1869,88;2243,86
+03/10/2010;Centro;Roberto;Cama, Mesa e Banho;4093,79;4912,55
+03/10/2010;Centro;Ana Maria;Móveis e Decoração;360,22;432,26
+04/10/2010;Sul;João Carlos;Cama, Mesa e Banho;1599,40;1919,28
+04/10/2010;Centro;Ana Maria;Cama, Mesa e Banho;2361,53;2833,84
+05/10/2010;Nordeste;Carolina;Cama, Mesa e Banho;1871,45;2245,74
+06/10/2010;Centro;Simone;Casa e Construção;2668,22;3201,86
+06/10/2010;Norte;Carolina;Eletrônicos;2227,39;2672,87
+06/10/2010;Nordeste;José Luiz;Casa e Construção;4247,70;5097,24
+07/10/2010;Nordeste;Carolina;Roupas e Acessórios;538,81;646,57
+07/10/2010;Nordeste;Ricardo;Roupas e Acessórios;4200,02;5040,02
+07/10/2010;Oeste;Carolina;Utilidades Domésticas;2787,45;3344,94
+11/10/2010;Centro;João Carlos;Casa e Construção;1902,99;2283,59
+11/10/2010;Oeste;João Carlos;Cama, Mesa e Banho;1452,52;1743,02
+12/10/2010;Centro;Adriana;Móveis e Decoração;2626,43;3151,72
+13/10/2010;Nordeste;João Carlos;Móveis e Decoração;2413,43;2896,12
+13/10/2010;Sudeste;Ana Maria;Móveis e Decoração;4345,39;5214,47
+13/10/2010;Centro;Ricardo;Móveis e Decoração;3689,67;4427,60
+14/10/2010;Nordeste;João Carlos;Cama, Mesa e Banho;3947,95;4737,54
+14/10/2010;Sul;Ricardo;Utilidades Domésticas;3973,01;4767,61
+17/10/2010;Sul;Roberto;Móveis e Decoração;2298,15;2757,78
+18/10/2010;Sudeste;Ricardo;Eletrodomésticos;3318,93;3982,72
+19/10/2010;Sul;Adriana;Roupas e Acessórios;3114,50;3737,40
+19/10/2010;Norte;Simone;Cama, Mesa e Banho;966,99;1160,39
+21/10/2010;Sul;Simone;Móveis e Decoração;816,06;979,27
+22/10/2010;Leste;Adriana;Casa e Construção;3785,59;4542,71
+22/10/2010;Sul;Ricardo;Cine e Foto;2926,76;3512,11
+23/10/2010;Norte;Ana Maria;Móveis e Decoração;340,11;408,13
+23/10/2010;Nordeste;Ana Maria;Eletrônicos;1458,92;1750,70
+25/10/2010;Sudeste;Simone;Roupas e Acessórios;2710,43;3252,52
+25/10/2010;Centro;Ricardo;Casa e Construção;980,85;1177,02
+27/10/2010;Sul;João Carlos;Cine e Foto;3512,08;4214,50
+27/10/2010;Sudeste;Simone;Roupas e Acessórios;1506,25;1807,50
+27/10/2010;Sudeste;João Carlos;Eletrodomésticos;4996,73;5996,08
+27/10/2010;Centro;Ana Maria;Móveis e Decoração;1355,37;1626,44
+28/10/2010;Sul;Carolina;Esporte e Lazer;3150,14;3780,17
+29/10/2010;Norte;Ricardo;Casa e Construção;1816,42;2179,70
+29/10/2010;Nordeste;Adriana;Eletrodomésticos;3353,33;4024,00
+29/10/2010;Sudeste;Ricardo;Esporte e Lazer;1065,28;1278,34
+30/10/2010;Sul;Simone;Cama, Mesa e Banho;738,58;886,30
+30/10/2010;Nordeste;Ricardo;Casa e Construção;4452,61;5343,13
+31/10/2010;Sul;Roberto;Eletrônicos;3622,16;4346,59
+31/10/2010;Sul;Carolina;Utilidades Domésticas;1900,64;2280,77
+03/11/2010;Sul;Adriana;Eletrônicos;1176,82;1412,18
+03/11/2010;Sudeste;Carolina;Cama, Mesa e Banho;4507,34;5408,81
+03/11/2010;Centro;Ana Maria;Esporte e Lazer;2157,31;2588,77
+03/11/2010;Oeste;João Carlos;Roupas e Acessórios;3437,51;4125,01
+04/11/2010;Nordeste;Adriana;Esporte e Lazer;3306,50;3967,80
+04/11/2010;Leste;José Luiz;Móveis e Decoração;758,15;909,78
+05/11/2010;Leste;Roberto;Móveis e Decoração;342,97;411,56
+07/11/2010;Sul;Carolina;Eletrodomésticos;3250,64;3900,77
+07/11/2010;Leste;Ana Maria;Cine e Foto;3441,63;4129,96
+08/11/2010;Nordeste;Ricardo;Eletrônicos;2399,10;2878,92
+08/11/2010;Sudeste;João Carlos;Esporte e Lazer;747,19;896,63
+09/11/2010;Sudeste;Carolina;Casa e Construção;3371,35;4045,62
+10/11/2010;Norte;Ricardo;Eletrodomésticos;3682,06;4418,47
+10/11/2010;Norte;Carolina;Utilidades Domésticas;2606,25;3127,50
+11/11/2010;Nordeste;Ana Maria;Esporte e Lazer;4794,52;5753,42
+12/11/2010;Norte;Carolina;Móveis e Decoração;1866,98;2240,38
+12/11/2010;Nordeste;Ana Maria;Móveis e Decoração;1733,93;2080,72
+13/11/2010;Centro;João Carlos;Utilidades Domésticas;4821,29;5785,55
+13/11/2010;Centro;Carolina;Utilidades Domésticas;3909,03;4690,84
+14/11/2010;Sul;Simone;Roupas e Acessórios;270,37;324,44
+14/11/2010;Nordeste;Simone;Casa e Construção;3063,57;3676,28
+17/11/2010;Norte;João Carlos;Esporte e Lazer;2432,54;2919,05
+17/11/2010;Centro;Carolina;Esporte e Lazer;2579,14;3094,97
+18/11/2010;Leste;Ana Maria;Eletrodomésticos;624,76;749,71
+18/11/2010;Norte;João Carlos;Eletrodomésticos;4744,48;5693,38
+19/11/2010;Norte;Ricardo;Roupas e Acessórios;1956,29;2347,55
+20/11/2010;Centro;Adriana;Roupas e Acessórios;650,40;780,48
+22/11/2010;Sudeste;João Carlos;Casa e Construção;2956,98;3548,38
+22/11/2010;Leste;Adriana;Eletrônicos;2122,55;2547,06
+23/11/2010;Oeste;Ricardo;Casa e Construção;3425,16;4110,19
+23/11/2010;Norte;José Luiz;Eletrodomésticos;4122,05;4946,46
+23/11/2010;Norte;Ricardo;Móveis e Decoração;3614,64;4337,57
+24/11/2010;Nordeste;José Luiz;Utilidades Domésticas;3115,59;3738,71
+24/11/2010;Sudeste;Ricardo;Eletrodomésticos;3272,94;3927,53
+25/11/2010;Sul;Ricardo;Móveis e Decoração;707,09;848,51
+25/11/2010;Centro;Ricardo;Cine e Foto;3488,89;4186,67
+26/11/2010;Centro;Ana Maria;Utilidades Domésticas;4230,48;5076,58
+26/11/2010;Sudeste;João Carlos;Esporte e Lazer;4988,04;5985,65
+26/11/2010;Sudeste;Roberto;Eletrônicos;2285,04;2742,05
+27/11/2010;Centro;Simone;Eletrônicos;3656,66;4387,99
+28/11/2010;Norte;João Carlos;Cine e Foto;4756,46;5707,75
+28/11/2010;Sudeste;João Carlos;Utilidades Domésticas;2984,69;3581,63
+29/11/2010;Sudeste;Simone;Eletrodomésticos;2733,64;3280,37
+29/11/2010;Nordeste;Carolina;Esporte e Lazer;1097,63;1317,16
+30/11/2010;Sul;Carolina;Cine e Foto;3558,91;4270,69
+01/12/2010;Sudeste;João Carlos;Casa e Construção;4572,76;5487,31
+01/12/2010;Oeste;João Carlos;Eletrônicos;2933,37;3520,04
+01/12/2010;Sul;Carolina;Esporte e Lazer;1734,21;2081,05
+02/12/2010;Centro;Ricardo;Cama, Mesa e Banho;1173,73;1408,48
+02/12/2010;Sul;Ricardo;Utilidades Domésticas;1551,48;1861,78
+02/12/2010;Norte;João Carlos;Móveis e Decoração;4211,69;5054,03
+03/12/2010;Oeste;João Carlos;Casa e Construção;2987,42;3584,90
+03/12/2010;Oeste;João Carlos;Eletrodomésticos;4543,66;5452,39
+03/12/2010;Sudeste;Carolina;Cine e Foto;3252,64;3903,17
+04/12/2010;Sudeste;João Carlos;Cama, Mesa e Banho;4781,39;5737,67
+04/12/2010;Sul;Ana Maria;Roupas e Acessórios;4042,16;4850,59
+05/12/2010;Sudeste;Carolina;Cine e Foto;1603,59;1924,31
+05/12/2010;Centro;Ana Maria;Eletrodomésticos;1378,81;1654,57
+05/12/2010;Nordeste;Simone;Esporte e Lazer;1145,82;1374,98
+06/12/2010;Centro;Ana Maria;Cine e Foto;319,05;382,86
+07/12/2010;Centro;Ricardo;Utilidades Domésticas;459,62;551,54
+09/12/2010;Leste;José Luiz;Eletrodomésticos;1795,87;2155,04
+09/12/2010;Sul;João Carlos;Móveis e Decoração;1037,06;1244,47
+10/12/2010;Norte;José Luiz;Casa e Construção;1793,36;2152,03
+10/12/2010;Leste;Simone;Eletrônicos;4875,31;5850,37
+11/12/2010;Nordeste;João Carlos;Eletrônicos;1976,71;2372,05
+11/12/2010;Sudeste;Simone;Casa e Construção;1228,64;1474,37
+11/12/2010;Centro;Carolina;Utilidades Domésticas;2402,14;2882,57
+12/12/2010;Leste;Roberto;Roupas e Acessórios;737,45;884,94
+13/12/2010;Centro;João Carlos;Eletrônicos;1093,01;1311,61
+13/12/2010;Nordeste;João Carlos;Cama, Mesa e Banho;556,80;668,16
+13/12/2010;Sudeste;Ricardo;Eletrodomésticos;3824,24;4589,09
+14/12/2010;Nordeste;Ricardo;Roupas e Acessórios;4138,77;4966,52
+14/12/2010;Sudeste;João Carlos;Cine e Foto;2277,74;2733,29
+15/12/2010;Sudeste;Carolina;Cama, Mesa e Banho;1215,87;1459,04
+15/12/2010;Sudeste;José Luiz;Roupas e Acessórios;330,32;396,38
+16/12/2010;Centro;José Luiz;Casa e Construção;4829,69;5795,63
+16/12/2010;Sudeste;José Luiz;Roupas e Acessórios;3772,05;4526,46
+17/12/2010;Centro;Carolina;Casa e Construção;4507,05;5408,46
+17/12/2010;Nordeste;Ana Maria;Cama, Mesa e Banho;436,52;523,82
+19/12/2010;Leste;João Carlos;Casa e Construção;4331,58;5197,90
+19/12/2010;Oeste;Ana Maria;Roupas e Acessórios;3799,43;4559,32
+19/12/2010;Sudeste;Roberto;Roupas e Acessórios;4174,01;5008,81
+19/12/2010;Centro;Carolina;Roupas e Acessórios;3483,99;4180,79
+20/12/2010;Sul;João Carlos;Cine e Foto;905,30;1086,36
+20/12/2010;Sudeste;Carolina;Utilidades Domésticas;2971,69;3566,03
+21/12/2010;Oeste;Ana Maria;Eletrônicos;758,81;910,57
+22/12/2010;Nordeste;José Luiz;Casa e Construção;4413,16;5295,79
+23/12/2010;Sudeste;Ana Maria;Esporte e Lazer;3891,81;4670,17
+23/12/2010;Oeste;Simone;Móveis e Decoração;1427,89;1713,47
+23/12/2010;Norte;Carolina;Eletrodomésticos;2458,11;2949,73
+23/12/2010;Norte;Ana Maria;Casa e Construção;4430,97;5317,16
+23/12/2010;Nordeste;João Carlos;Cine e Foto;2013,77;2416,52
+24/12/2010;Centro;Carolina;Roupas e Acessórios;477,38;572,86
+24/12/2010;Sudeste;Ricardo;Esporte e Lazer;794,14;952,97
+24/12/2010;Nordeste;Ana Maria;Eletrônicos;2644,09;3172,91
+24/12/2010;Norte;Ricardo;Cama, Mesa e Banho;2023,89;2428,67
+25/12/2010;Sudeste;Roberto;Eletrodomésticos;2476,55;2971,86
+26/12/2010;Leste;Roberto;Cine e Foto;1547,99;1857,59
+28/12/2010;Centro;Ana Maria;Esporte e Lazer;2297,24;2756,69
+28/12/2010;Nordeste;Carolina;Eletrodomésticos;1091,72;1310,06
+29/12/2010;Nordeste;Ana Maria;Eletrodomésticos;563,64;676,37
+29/12/2010;Nordeste;Ana Maria;Eletrodomésticos;2443,17;2931,80
+29/12/2010;Sul;Simone;Esporte e Lazer;3123,23;3747,88
+30/12/2010;Centro;Simone;Cine e Foto;3318,37;3982,04
+30/12/2010;Sul;Ricardo;Eletrodomésticos;4766,00;5719,20
+31/12/2010;Sudeste;Adriana;Eletrodomésticos;247,05;296,46
+31/12/2010;Nordeste;João Carlos;Cine e Foto;1690,31;2028,37
+01/01/2011;Leste;João Carlos;Roupas e Acessórios;4819,02;5782,82
+02/01/2011;Sudeste;Ana Maria;Cama, Mesa e Banho;1752,21;2102,65
+04/01/2011;Nordeste;João Carlos;Eletrodomésticos;368,13;441,76
+05/01/2011;Nordeste;Ana Maria;Cine e Foto;939,57;1127,48
+05/01/2011;Sudeste;João Carlos;Casa e Construção;2506,47;3007,76
+05/01/2011;Nordeste;Ana Maria;Cine e Foto;3511,53;4213,84
+05/01/2011;Sul;Ana Maria;Móveis e Decoração;1789,63;2147,56
+06/01/2011;Sul;Ricardo;Eletrônicos;250,72;300,86
+06/01/2011;Nordeste;João Carlos;Eletrodomésticos;388,43;466,12
+06/01/2011;Centro;Carolina;Esporte e Lazer;369,59;443,51
+07/01/2011;Nordeste;Adriana;Utilidades Domésticas;2287,25;2744,70
+07/01/2011;Oeste;Carolina;Eletrodomésticos;3920,64;4704,77
+10/01/2011;Sudeste;João Carlos;Utilidades Domésticas;3863,69;4636,43
+10/01/2011;Centro;João Carlos;Esporte e Lazer;534,37;641,24
+10/01/2011;Sul;Ana Maria;Casa e Construção;916,95;1100,34
+10/01/2011;Sudeste;Ricardo;Móveis e Decoração;678,31;813,97
+10/01/2011;Sudeste;Carolina;Roupas e Acessórios;3475,18;4170,22
+11/01/2011;Nordeste;Roberto;Roupas e Acessórios;4971,34;5965,61
+11/01/2011;Nordeste;Ana Maria;Eletrônicos;3151,71;3782,05
+13/01/2011;Sul;João Carlos;Eletrodomésticos;4541,67;5450,00
+14/01/2011;Leste;Ricardo;Roupas e Acessórios;4658,75;5590,50
+16/01/2011;Oeste;Carolina;Cama, Mesa e Banho;3060,56;3672,67
+17/01/2011;Sudeste;Simone;Utilidades Domésticas;783,76;940,51
+17/01/2011;Sudeste;Ana Maria;Roupas e Acessórios;309,25;371,10
+17/01/2011;Centro;José Luiz;Utilidades Domésticas;2334,66;2801,59
+19/01/2011;Sudeste;Ricardo;Eletrodomésticos;813,86;976,63
+20/01/2011;Centro;Ricardo;Cine e Foto;4732,24;5678,69
+20/01/2011;Nordeste;Ricardo;Casa e Construção;2608,31;3129,97
+20/01/2011;Sul;Adriana;Esporte e Lazer;4837,71;5805,25
+20/01/2011;Nordeste;João Carlos;Esporte e Lazer;3654,54;4385,45
+21/01/2011;Sudeste;Ana Maria;Casa e Construção;3101,24;3721,49
+21/01/2011;Nordeste;Carolina;Cine e Foto;2178,75;2614,50
+22/01/2011;Centro;Adriana;Casa e Construção;509,41;611,29
+23/01/2011;Norte;Ricardo;Eletrodomésticos;3716,31;4459,57
+24/01/2011;Oeste;José Luiz;Eletrônicos;3236,02;3883,22
+24/01/2011;Norte;Carolina;Cama, Mesa e Banho;3160,17;3792,20
+24/01/2011;Nordeste;João Carlos;Utilidades Domésticas;2862,84;3435,41
+25/01/2011;Norte;João Carlos;Roupas e Acessórios;1125,10;1350,12
+26/01/2011;Centro;Ricardo;Móveis e Decoração;1014,13;1216,96
+27/01/2011;Leste;José Luiz;Esporte e Lazer;544,78;653,74
+28/01/2011;Centro;João Carlos;Utilidades Domésticas;902,53;1083,04
+28/01/2011;Sudeste;João Carlos;Casa e Construção;303,66;364,39
+29/01/2011;Leste;Ricardo;Cama, Mesa e Banho;3293,15;3951,78
+31/01/2011;Sudeste;João Carlos;Cama, Mesa e Banho;3909,26;4691,11
+01/02/2011;Oeste;Carolina;Roupas e Acessórios;1809,20;2171,04
+01/02/2011;Nordeste;Ricardo;Roupas e Acessórios;2092,38;2510,86
+03/02/2011;Nordeste;João Carlos;Roupas e Acessórios;4012,89;4815,47
+05/02/2011;Norte;José Luiz;Roupas e Acessórios;1376,20;1651,44
+05/02/2011;Sudeste;João Carlos;Móveis e Decoração;1098,55;1318,26
+06/02/2011;Sul;João Carlos;Esporte e Lazer;662,74;795,29
+06/02/2011;Sudeste;Roberto;Roupas e Acessórios;2123,67;2548,40
+06/02/2011;Oeste;Roberto;Eletrônicos;2178,81;2614,57
+07/02/2011;Nordeste;José Luiz;Móveis e Decoração;2225,36;2670,43
+07/02/2011;Sudeste;Ricardo;Cine e Foto;3473,42;4168,10
+08/02/2011;Norte;João Carlos;Móveis e Decoração;3673,10;4407,72
+09/02/2011;Centro;Carolina;Eletrodomésticos;2850,31;3420,37
+10/02/2011;Sul;Simone;Casa e Construção;1699,55;2039,46
+10/02/2011;Sudeste;Ricardo;Casa e Construção;4013,03;4815,64
+11/02/2011;Sudeste;João Carlos;Roupas e Acessórios;4930,70;5916,84
+11/02/2011;Sudeste;João Carlos;Cine e Foto;212,14;254,57
+14/02/2011;Leste;Carolina;Móveis e Decoração;3666,85;4400,22
+15/02/2011;Oeste;Ricardo;Roupas e Acessórios;228,83;274,60
+17/02/2011;Norte;João Carlos;Roupas e Acessórios;1064,41;1277,29
+18/02/2011;Leste;Carolina;Roupas e Acessórios;2069,08;2482,90
+20/02/2011;Oeste;Ricardo;Eletrônicos;749,98;899,98
+20/02/2011;Sudeste;Carolina;Móveis e Decoração;2515,64;3018,77
+20/02/2011;Centro;Carolina;Eletrodomésticos;2426,19;2911,43
+20/02/2011;Centro;Adriana;Utilidades Domésticas;4043,24;4851,89
+22/02/2011;Oeste;José Luiz;Utilidades Domésticas;3395,95;4075,14
+22/02/2011;Oeste;José Luiz;Cine e Foto;4637,46;5564,95
+23/02/2011;Sul;José Luiz;Cine e Foto;4372,85;5247,42
+24/02/2011;Centro;João Carlos;Esporte e Lazer;2731,38;3277,66
+24/02/2011;Nordeste;José Luiz;Cama, Mesa e Banho;4842,43;5810,92
+25/02/2011;Nordeste;João Carlos;Eletrodomésticos;586,45;703,74
+25/02/2011;Sudeste;João Carlos;Eletrodomésticos;3613,06;4335,67
+26/02/2011;Oeste;Ana Maria;Cine e Foto;1688,39;2026,07
+27/02/2011;Sudeste;João Carlos;Cama, Mesa e Banho;1196,82;1436,18
+27/02/2011;Sul;Adriana;Eletrodomésticos;4526,22;5431,46
+28/02/2011;Leste;Carolina;Utilidades Domésticas;3816,47;4579,76
+01/03/2011;Sul;Carolina;Eletrônicos;2675,45;3210,54
+05/03/2011;Sudeste;José Luiz;Móveis e Decoração;1502,41;1802,89
+05/03/2011;Sudeste;Ana Maria;Roupas e Acessórios;2015,39;2418,47
+05/03/2011;Nordeste;Roberto;Utilidades Domésticas;3076,43;3691,72
+06/03/2011;Sul;Ricardo;Eletrônicos;4687,20;5624,64
+06/03/2011;Norte;Adriana;Utilidades Domésticas;1583,08;1899,70
+07/03/2011;Nordeste;Ricardo;Eletrodomésticos;253,96;304,75
+08/03/2011;Norte;Roberto;Cine e Foto;2199,43;2639,32
+10/03/2011;Nordeste;João Carlos;Roupas e Acessórios;2323,72;2788,46
+10/03/2011;Norte;Simone;Eletrodomésticos;4380,80;5256,96
+11/03/2011;Sudeste;João Carlos;Móveis e Decoração;2043,94;2452,73
+13/03/2011;Sudeste;Carolina;Móveis e Decoração;2691,83;3230,20
+13/03/2011;Nordeste;Adriana;Utilidades Domésticas;2639,36;3167,23
+14/03/2011;Sudeste;João Carlos;Roupas e Acessórios;2541,53;3049,84
+16/03/2011;Nordeste;Ana Maria;Eletrônicos;2990,98;3589,18
+16/03/2011;Leste;João Carlos;Eletrodomésticos;2369,96;2843,95
+16/03/2011;Centro;Adriana;Casa e Construção;1542,80;1851,36
+16/03/2011;Centro;Carolina;Cine e Foto;1355,81;1626,97
+17/03/2011;Nordeste;João Carlos;Roupas e Acessórios;4472,67;5367,20
+20/03/2011;Nordeste;João Carlos;Cine e Foto;2699,63;3239,56
+21/03/2011;Nordeste;Simone;Móveis e Decoração;755,59;906,71
+21/03/2011;Leste;João Carlos;Casa e Construção;1493,82;1792,58
+26/03/2011;Sudeste;Ana Maria;Móveis e Decoração;3039,16;3646,99
+26/03/2011;Oeste;Ana Maria;Eletrodomésticos;836,95;1004,34
+27/03/2011;Nordeste;João Carlos;Roupas e Acessórios;411,93;494,32
+27/03/2011;Sul;Carolina;Esporte e Lazer;4459,91;5351,89
+27/03/2011;Nordeste;Adriana;Roupas e Acessórios;3123,48;3748,18
+28/03/2011;Sul;João Carlos;Cine e Foto;2916,20;3499,44
+28/03/2011;Sul;Roberto;Eletrodomésticos;1314,12;1576,94
+29/03/2011;Sul;Carolina;Casa e Construção;3117,01;3740,41
+31/03/2011;Sudeste;Ricardo;Cine e Foto;4591,30;5509,56
+31/03/2011;Sul;Adriana;Utilidades Domésticas;4761,56;5713,87
+01/04/2011;Norte;Ana Maria;Móveis e Decoração;3539,51;4247,41
+02/04/2011;Centro;Ana Maria;Cine e Foto;4790,60;5748,72
+03/04/2011;Sudeste;Ricardo;Eletrodomésticos;869,92;1043,90
+04/04/2011;Centro;Ricardo;Utilidades Domésticas;3345,88;4015,06
+05/04/2011;Sudeste;Ricardo;Roupas e Acessórios;4669,01;5602,81
+05/04/2011;Sudeste;Carolina;Roupas e Acessórios;358,07;429,68
+07/04/2011;Norte;José Luiz;Móveis e Decoração;714,85;857,82
+07/04/2011;Sul;Simone;Móveis e Decoração;1063,17;1275,80
+08/04/2011;Sul;Roberto;Eletrônicos;691,95;830,34
+09/04/2011;Sul;João Carlos;Eletrodomésticos;4280,12;5136,14
+10/04/2011;Norte;José Luiz;Móveis e Decoração;4259,86;5111,83
+10/04/2011;Norte;João Carlos;Utilidades Domésticas;1428,14;1713,77
+10/04/2011;Centro;Carolina;Eletrônicos;357,05;428,46
+11/04/2011;Oeste;Carolina;Eletrônicos;2778,99;3334,79
+11/04/2011;Sudeste;Carolina;Esporte e Lazer;598,25;717,90
+12/04/2011;Centro;Adriana;Eletrodomésticos;2304,34;2765,21
+12/04/2011;Centro;Carolina;Casa e Construção;1373,22;1647,86
+13/04/2011;Sudeste;Carolina;Cine e Foto;4696,53;5635,84
+14/04/2011;Centro;Roberto;Eletrodomésticos;2471,10;2965,32
+15/04/2011;Sudeste;José Luiz;Utilidades Domésticas;3942,44;4730,93
+18/04/2011;Nordeste;José Luiz;Móveis e Decoração;501,37;601,64
+19/04/2011;Oeste;Ricardo;Móveis e Decoração;2271,29;2725,55
+20/04/2011;Sudeste;Carolina;Móveis e Decoração;4894,04;5872,85
+20/04/2011;Oeste;João Carlos;Esporte e Lazer;698,30;837,96
+20/04/2011;Leste;Ana Maria;Utilidades Domésticas;3887,06;4664,47
+21/04/2011;Centro;Simone;Esporte e Lazer;4630,91;5557,09
+21/04/2011;Sudeste;Ricardo;Eletrônicos;2975,66;3570,79
+21/04/2011;Norte;Carolina;Eletrônicos;2150,74;2580,89
+22/04/2011;Sul;Carolina;Cama, Mesa e Banho;3764,35;4517,22
+22/04/2011;Nordeste;João Carlos;Cine e Foto;435,98;523,18
+22/04/2011;Sul;Carolina;Cine e Foto;3656,00;4387,20
+23/04/2011;Centro;Roberto;Cama, Mesa e Banho;2920,79;3504,95
+24/04/2011;Sul;Roberto;Roupas e Acessórios;4880,04;5856,05
+24/04/2011;Norte;Ana Maria;Casa e Construção;946,68;1136,02
+25/04/2011;Nordeste;Ricardo;Casa e Construção;3039,26;3647,11
+26/04/2011;Norte;Ricardo;Roupas e Acessórios;3030,72;3636,86
+27/04/2011;Sudeste;João Carlos;Esporte e Lazer;3406,64;4087,97
+28/04/2011;Sudeste;Adriana;Casa e Construção;1109,18;1331,02
+28/04/2011;Sudeste;Simone;Móveis e Decoração;861,98;1034,38
+28/04/2011;Nordeste;Ana Maria;Eletrodomésticos;1808,44;2170,13
+28/04/2011;Oeste;Carolina;Utilidades Domésticas;3037,57;3645,08
+30/04/2011;Centro;João Carlos;Eletrônicos;3644,24;4373,09
+01/05/2011;Sul;Carolina;Eletrônicos;4363,69;5236,43
+01/05/2011;Nordeste;Carolina;Casa e Construção;1646,96;1976,35
+02/05/2011;Oeste;Simone;Cine e Foto;1295,55;1554,66
+02/05/2011;Oeste;Carolina;Cama, Mesa e Banho;1356,22;1627,46
+02/05/2011;Sudeste;João Carlos;Utilidades Domésticas;3051,97;3662,36
+03/05/2011;Centro;João Carlos;Eletrodomésticos;2507,28;3008,74
+04/05/2011;Sudeste;João Carlos;Eletrodomésticos;4322,51;5187,01
+04/05/2011;Sul;João Carlos;Cama, Mesa e Banho;3918,99;4702,79
+05/05/2011;Nordeste;José Luiz;Eletrodomésticos;3771,55;4525,86
+06/05/2011;Sudeste;Carolina;Eletrônicos;4680,61;5616,73
+06/05/2011;Centro;Carolina;Eletrônicos;4707,38;5648,86
+07/05/2011;Nordeste;Carolina;Cine e Foto;3064,87;3677,84
+07/05/2011;Sudeste;Carolina;Cine e Foto;2865,57;3438,68
+07/05/2011;Leste;Carolina;Cine e Foto;2827,12;3392,54
+09/05/2011;Centro;João Carlos;Móveis e Decoração;495,40;594,48
+11/05/2011;Sul;Roberto;Móveis e Decoração;1343,21;1611,85
+11/05/2011;Centro;Roberto;Esporte e Lazer;4542,24;5450,69
+11/05/2011;Centro;Carolina;Roupas e Acessórios;2584,62;3101,54
+12/05/2011;Sul;Ana Maria;Roupas e Acessórios;678,75;814,50
+13/05/2011;Sul;Roberto;Utilidades Domésticas;3567,54;4281,05
+14/05/2011;Nordeste;Carolina;Utilidades Domésticas;2762,51;3315,01
+14/05/2011;Sudeste;João Carlos;Cama, Mesa e Banho;296,75;356,10
+15/05/2011;Centro;João Carlos;Móveis e Decoração;4513,31;5415,97
+15/05/2011;Sul;João Carlos;Utilidades Domésticas;369,22;443,06
+15/05/2011;Norte;José Luiz;Cama, Mesa e Banho;4440,72;5328,86
+15/05/2011;Centro;Simone;Esporte e Lazer;1780,00;2136,00
+16/05/2011;Norte;Carolina;Utilidades Domésticas;4934,45;5921,34
+17/05/2011;Sudeste;João Carlos;Casa e Construção;1717,99;2061,59
+17/05/2011;Oeste;Carolina;Cine e Foto;1115,56;1338,67
+18/05/2011;Sul;João Carlos;Móveis e Decoração;2280,85;2737,02
+19/05/2011;Centro;José Luiz;Roupas e Acessórios;4725,50;5670,60
+20/05/2011;Oeste;Carolina;Eletrodomésticos;1134,56;1361,47
+21/05/2011;Sul;Carolina;Roupas e Acessórios;4064,66;4877,59
+21/05/2011;Sudeste;Ana Maria;Eletrônicos;3489,25;4187,10
+21/05/2011;Nordeste;Carolina;Eletrônicos;3760,28;4512,34
+22/05/2011;Sul;Ana Maria;Roupas e Acessórios;571,48;685,78
+22/05/2011;Sudeste;Adriana;Esporte e Lazer;1586,75;1904,10
+22/05/2011;Centro;João Carlos;Móveis e Decoração;1481,70;1778,04
+23/05/2011;Centro;Simone;Esporte e Lazer;4172,58;5007,10
+24/05/2011;Norte;Ana Maria;Casa e Construção;4317,60;5181,12
+24/05/2011;Sudeste;Ricardo;Esporte e Lazer;3152,16;3782,59
+25/05/2011;Norte;Carolina;Cama, Mesa e Banho;3346,17;4015,40
+25/05/2011;Sul;Ricardo;Esporte e Lazer;2522,65;3027,18
+26/05/2011;Nordeste;Roberto;Utilidades Domésticas;2355,33;2826,40
+27/05/2011;Sul;Carolina;Roupas e Acessórios;4589,98;5507,98
+29/05/2011;Sudeste;Carolina;Roupas e Acessórios;4084,02;4900,82
+31/05/2011;Norte;Ana Maria;Roupas e Acessórios;779,01;934,81
+31/05/2011;Nordeste;Carolina;Roupas e Acessórios;3696,49;4435,79
+31/05/2011;Oeste;José Luiz;Cine e Foto;1932,07;2318,48
+31/05/2011;Sudeste;Adriana;Casa e Construção;3144,09;3772,91
+01/06/2011;Oeste;João Carlos;Cine e Foto;2951,81;3542,17
+01/06/2011;Centro;Carolina;Eletrônicos;1765,12;2118,14
+01/06/2011;Sul;Simone;Eletrônicos;3133,99;3760,79
+02/06/2011;Centro;José Luiz;Móveis e Decoração;3404,89;4085,87
+03/06/2011;Sudeste;Carolina;Casa e Construção;2605,78;3126,94
+05/06/2011;Centro;José Luiz;Cama, Mesa e Banho;4130,26;4956,31
+06/06/2011;Oeste;Ana Maria;Eletrodomésticos;792,14;950,57
+07/06/2011;Norte;João Carlos;Casa e Construção;1085,84;1303,01
+09/06/2011;Sudeste;Simone;Roupas e Acessórios;4298,79;5158,55
+10/06/2011;Nordeste;Ricardo;Cama, Mesa e Banho;801,17;961,40
+10/06/2011;Nordeste;João Carlos;Cama, Mesa e Banho;1082,96;1299,55
+10/06/2011;Oeste;Ana Maria;Utilidades Domésticas;4354,92;5225,90
+10/06/2011;Sul;Ricardo;Eletrônicos;4549,89;5459,87
+10/06/2011;Sul;Ricardo;Eletrônicos;3963,82;4756,58
+11/06/2011;Nordeste;João Carlos;Eletrodomésticos;3872,16;4646,59
+13/06/2011;Nordeste;João Carlos;Roupas e Acessórios;3911,88;4694,26
+13/06/2011;Centro;Ricardo;Roupas e Acessórios;1249,35;1499,22
+13/06/2011;Leste;Ricardo;Esporte e Lazer;1381,78;1658,14
+15/06/2011;Centro;Simone;Móveis e Decoração;4331,97;5198,36
+15/06/2011;Sudeste;Simone;Cama, Mesa e Banho;858,30;1029,96
+16/06/2011;Sudeste;Carolina;Utilidades Domésticas;3173,50;3808,20
+17/06/2011;Nordeste;Ana Maria;Móveis e Decoração;3157,57;3789,08
+18/06/2011;Sudeste;João Carlos;Móveis e Decoração;4384,98;5261,98
+19/06/2011;Centro;Ana Maria;Eletrodomésticos;1686,92;2024,30
+21/06/2011;Nordeste;Ana Maria;Roupas e Acessórios;315,19;378,23
+21/06/2011;Sul;Ana Maria;Utilidades Domésticas;231,99;278,39
+22/06/2011;Sudeste;Carolina;Cine e Foto;371,55;445,86
+23/06/2011;Sudeste;Ricardo;Utilidades Domésticas;1300,07;1560,08
+25/06/2011;Centro;João Carlos;Esporte e Lazer;3801,82;4562,18
+25/06/2011;Nordeste;Ricardo;Roupas e Acessórios;3575,96;4291,15
+29/06/2011;Sudeste;João Carlos;Esporte e Lazer;4199,01;5038,81
+29/06/2011;Nordeste;Roberto;Eletrodomésticos;255,36;306,43
+29/06/2011;Norte;Carolina;Roupas e Acessórios;3486,41;4183,69
+30/06/2011;Leste;Ana Maria;Cama, Mesa e Banho;3890,83;4669,00
+01/07/2011;Oeste;José Luiz;Cama, Mesa e Banho;3200,88;3841,06
+01/07/2011;Nordeste;João Carlos;Roupas e Acessórios;1093,94;1312,73
+03/07/2011;Centro;Roberto;Utilidades Domésticas;573,79;688,55
+05/07/2011;Nordeste;Roberto;Cama, Mesa e Banho;1425,83;1711,00
+05/07/2011;Nordeste;Ana Maria;Cama, Mesa e Banho;2518,03;3021,64
+05/07/2011;Leste;Ana Maria;Esporte e Lazer;1044,00;1252,80
+05/07/2011;Sudeste;Simone;Roupas e Acessórios;3499,81;4199,77
+05/07/2011;Oeste;João Carlos;Roupas e Acessórios;732,42;878,90
+05/07/2011;Leste;Ana Maria;Cine e Foto;3216,99;3860,39
+05/07/2011;Centro;Carolina;Utilidades Domésticas;2932,06;3518,47
+06/07/2011;Centro;Carolina;Móveis e Decoração;3716,21;4459,45
+07/07/2011;Sul;João Carlos;Cine e Foto;929,72;1115,66
+09/07/2011;Nordeste;José Luiz;Eletrônicos;3477,26;4172,71
+10/07/2011;Nordeste;Ricardo;Utilidades Domésticas;1582,63;1899,16
+10/07/2011;Norte;Simone;Cama, Mesa e Banho;3529,17;4235,00
+11/07/2011;Sul;Adriana;Eletrônicos;1972,02;2366,42
+11/07/2011;Nordeste;Simone;Casa e Construção;846,08;1015,30
+14/07/2011;Leste;Carolina;Cama, Mesa e Banho;1064,90;1277,88
+14/07/2011;Centro;Carolina;Eletrônicos;2944,64;3533,57
+14/07/2011;Sudeste;Carolina;Móveis e Decoração;2470,21;2964,25
+14/07/2011;Nordeste;Roberto;Utilidades Domésticas;1189,16;1426,99
+16/07/2011;Sudeste;Ricardo;Utilidades Domésticas;660,20;792,24
+18/07/2011;Sudeste;Ana Maria;Cine e Foto;3376,39;4051,67
+18/07/2011;Centro;João Carlos;Roupas e Acessórios;3893,62;4672,34
+20/07/2011;Centro;Ana Maria;Roupas e Acessórios;2321,39;2785,67
+20/07/2011;Centro;João Carlos;Esporte e Lazer;1944,75;2333,70
+21/07/2011;Leste;Carolina;Roupas e Acessórios;2223,99;2668,79
+21/07/2011;Nordeste;Ricardo;Cama, Mesa e Banho;4498,62;5398,34
+22/07/2011;Centro;Adriana;Eletrodomésticos;4304,08;5164,90
+23/07/2011;Sudeste;José Luiz;Cine e Foto;1742,84;2091,41
+24/07/2011;Norte;Adriana;Casa e Construção;4958,41;5950,09
+25/07/2011;Sul;José Luiz;Utilidades Domésticas;4689,86;5627,83
+25/07/2011;Sul;Carolina;Casa e Construção;1192,66;1431,19
+25/07/2011;Sul;Carolina;Roupas e Acessórios;2977,91;3573,49
+26/07/2011;Sudeste;Ana Maria;Eletrônicos;4052,81;4863,37
+27/07/2011;Nordeste;João Carlos;Roupas e Acessórios;4469,34;5363,21
+27/07/2011;Leste;Adriana;Roupas e Acessórios;2775,38;3330,46
+27/07/2011;Sudeste;João Carlos;Eletrodomésticos;2159,71;2591,65
+28/07/2011;Sudeste;Ricardo;Eletrônicos;3714,85;4457,82
+28/07/2011;Sudeste;João Carlos;Eletrodomésticos;4937,46;5924,95
+29/07/2011;Centro;Carolina;Esporte e Lazer;1192,28;1430,74
+29/07/2011;Sudeste;Carolina;Esporte e Lazer;3038,26;3645,91
+30/07/2011;Centro;Carolina;Esporte e Lazer;808,79;970,55
+30/07/2011;Sul;Ricardo;Cama, Mesa e Banho;513,82;616,58
+31/07/2011;Sudeste;Ana Maria;Cine e Foto;2101,16;2521,39
+31/07/2011;Sudeste;Ricardo;Móveis e Decoração;2680,57;3216,68
+01/08/2011;Centro;Ricardo;Eletrodomésticos;899,98;1079,98
+02/08/2011;Sudeste;João Carlos;Esporte e Lazer;4563,94;5476,73
+02/08/2011;Sudeste;João Carlos;Eletrônicos;4476,32;5371,58
+03/08/2011;Sul;João Carlos;Roupas e Acessórios;1942,84;2331,41
+05/08/2011;Sul;João Carlos;Eletrodomésticos;1571,46;1885,75
+05/08/2011;Nordeste;João Carlos;Cine e Foto;3563,42;4276,10
+06/08/2011;Sudeste;Ana Maria;Eletrodomésticos;2405,69;2886,83
+09/08/2011;Centro;José Luiz;Utilidades Domésticas;4791,52;5749,82
+09/08/2011;Sudeste;João Carlos;Eletrônicos;2909,04;3490,85
+09/08/2011;Sul;Ana Maria;Casa e Construção;4954,60;5945,52
+10/08/2011;Centro;Ana Maria;Casa e Construção;2617,67;3141,20
+10/08/2011;Nordeste;Ana Maria;Eletrônicos;1752,09;2102,51
+11/08/2011;Sudeste;Carolina;Casa e Construção;4217,82;5061,38
+12/08/2011;Norte;Simone;Cama, Mesa e Banho;4876,89;5852,27
+13/08/2011;Sudeste;Simone;Móveis e Decoração;1740,37;2088,44
+14/08/2011;Centro;Carolina;Eletrodomésticos;3681,97;4418,36
+16/08/2011;Sul;Simone;Eletrodomésticos;1015,79;1218,95
+16/08/2011;Norte;João Carlos;Móveis e Decoração;3030,71;3636,85
+19/08/2011;Centro;Adriana;Móveis e Decoração;4770,60;5724,72
+20/08/2011;Centro;Roberto;Esporte e Lazer;4017,82;4821,38
+20/08/2011;Sul;Roberto;Roupas e Acessórios;408,94;490,73
+20/08/2011;Centro;Adriana;Eletrodomésticos;4360,55;5232,66
+20/08/2011;Centro;Adriana;Cama, Mesa e Banho;1797,33;2156,80
+20/08/2011;Sudeste;Adriana;Eletrônicos;337,05;404,46
+20/08/2011;Oeste;Ana Maria;Móveis e Decoração;2046,13;2455,36
+21/08/2011;Oeste;Ricardo;Móveis e Decoração;1673,45;2008,14
+22/08/2011;Nordeste;Roberto;Eletrodomésticos;1874,22;2249,06
+23/08/2011;Oeste;Adriana;Móveis e Decoração;3664,64;4397,57
+23/08/2011;Sudeste;Adriana;Casa e Construção;4054,34;4865,21
+24/08/2011;Oeste;Adriana;Cine e Foto;4029,80;4835,76
+24/08/2011;Sudeste;Carolina;Eletrodomésticos;2937,21;3524,65
+24/08/2011;Oeste;Carolina;Eletrônicos;3665,86;4399,03
+24/08/2011;Norte;Adriana;Utilidades Domésticas;395,76;474,91
+24/08/2011;Sudeste;Ana Maria;Casa e Construção;4766,95;5720,34
+25/08/2011;Sul;Carolina;Cama, Mesa e Banho;727,68;873,22
+26/08/2011;Centro;Ricardo;Móveis e Decoração;2314,66;2777,59
+27/08/2011;Centro;João Carlos;Roupas e Acessórios;3385,97;4063,16
+27/08/2011;Leste;João Carlos;Roupas e Acessórios;4010,32;4812,38
+28/08/2011;Nordeste;Ricardo;Cama, Mesa e Banho;1956,41;2347,69
+29/08/2011;Leste;Simone;Eletrônicos;4983,75;5980,50
+30/08/2011;Nordeste;Simone;Roupas e Acessórios;3481,94;4178,33
+30/08/2011;Centro;Simone;Esporte e Lazer;4583,92;5500,70
+30/08/2011;Leste;José Luiz;Cama, Mesa e Banho;2217,22;2660,66
+30/08/2011;Norte;Simone;Eletrônicos;601,00;721,20
+31/08/2011;Sudeste;João Carlos;Cine e Foto;3570,21;4284,25
+01/09/2011;Sul;João Carlos;Casa e Construção;1216,37;1459,64
+01/09/2011;Oeste;Simone;Casa e Construção;958,88;1150,66
+03/09/2011;Oeste;Carolina;Roupas e Acessórios;510,53;612,64
+03/09/2011;Nordeste;Roberto;Eletrodomésticos;1175,96;1411,15
+04/09/2011;Oeste;Ricardo;Esporte e Lazer;251,18;301,42
+05/09/2011;Norte;Ricardo;Roupas e Acessórios;2974,62;3569,54
+05/09/2011;Sul;Carolina;Esporte e Lazer;3071,17;3685,40
+06/09/2011;Centro;João Carlos;Roupas e Acessórios;2058,76;2470,51
+06/09/2011;Nordeste;João Carlos;Esporte e Lazer;1734,16;2080,99
+07/09/2011;Sudeste;Carolina;Eletrônicos;2278,24;2733,89
+07/09/2011;Centro;Ricardo;Móveis e Decoração;255,21;306,25
+08/09/2011;Sul;Simone;Casa e Construção;2312,84;2775,41
+08/09/2011;Centro;Ana Maria;Móveis e Decoração;2106,08;2527,30
+08/09/2011;Leste;Ricardo;Casa e Construção;4914,95;5897,94
+10/09/2011;Leste;Roberto;Móveis e Decoração;729,27;875,12
+11/09/2011;Sudeste;Ana Maria;Móveis e Decoração;743,37;892,04
+12/09/2011;Oeste;Carolina;Cama, Mesa e Banho;2421,00;2905,20
+12/09/2011;Leste;João Carlos;Esporte e Lazer;4941,35;5929,62
+13/09/2011;Nordeste;Carolina;Casa e Construção;1074,37;1289,24
+13/09/2011;Centro;Ricardo;Utilidades Domésticas;2287,46;2744,95
+13/09/2011;Sudeste;Simone;Casa e Construção;2777,42;3332,90
+14/09/2011;Sul;Adriana;Utilidades Domésticas;4902,87;5883,44
+16/09/2011;Sudeste;Ana Maria;Eletrodomésticos;2510,07;3012,08
+17/09/2011;Centro;Carolina;Móveis e Decoração;2495,61;2994,73
+17/09/2011;Norte;José Luiz;Eletrônicos;3415,93;4099,12
+18/09/2011;Leste;Carolina;Casa e Construção;1874,91;2249,89
+19/09/2011;Sul;João Carlos;Móveis e Decoração;1925,98;2311,18
+20/09/2011;Nordeste;Carolina;Cine e Foto;2284,06;2740,87
+20/09/2011;Leste;Ricardo;Eletrônicos;3682,64;4419,17
+21/09/2011;Nordeste;Ana Maria;Roupas e Acessórios;468,45;562,14
+21/09/2011;Sudeste;Simone;Eletrodomésticos;3879,37;4655,24
+21/09/2011;Leste;Ana Maria;Esporte e Lazer;3804,10;4564,92
+21/09/2011;Centro;Ana Maria;Roupas e Acessórios;4667,68;5601,22
+22/09/2011;Sul;José Luiz;Móveis e Decoração;2732,73;3279,28
+24/09/2011;Nordeste;João Carlos;Cama, Mesa e Banho;2614,95;3137,94
+24/09/2011;Norte;Adriana;Roupas e Acessórios;4461,17;5353,40
+25/09/2011;Centro;Roberto;Eletrônicos;1599,69;1919,63
+26/09/2011;Nordeste;Carolina;Utilidades Domésticas;3656,87;4388,24
+27/09/2011;Norte;Simone;Cine e Foto;1552,21;1862,65
+29/09/2011;Sudeste;João Carlos;Eletrodomésticos;2403,08;2883,70
+29/09/2011;Norte;Simone;Cama, Mesa e Banho;1446,10;1735,32
+30/09/2011;Sul;Roberto;Cine e Foto;901,62;1081,94
+30/09/2011;Sul;João Carlos;Utilidades Domésticas;4794,46;5753,35
+01/10/2011;Sudeste;Carolina;Cine e Foto;1495,09;1794,11
+01/10/2011;Oeste;José Luiz;Esporte e Lazer;2623,97;3148,76
+02/10/2011;Sudeste;Simone;Cama, Mesa e Banho;3114,64;3737,57
+02/10/2011;Sul;Ana Maria;Cine e Foto;2414,22;2897,06
+03/10/2011;Centro;Roberto;Roupas e Acessórios;3617,68;4341,22
+03/10/2011;Sudeste;Carolina;Móveis e Decoração;3484,66;4181,59
+04/10/2011;Sudeste;João Carlos;Móveis e Decoração;3390,18;4068,22
+04/10/2011;Sudeste;Carolina;Casa e Construção;4325,53;5190,64
+04/10/2011;Sudeste;Adriana;Utilidades Domésticas;3068,52;3682,22
+07/10/2011;Norte;Ana Maria;Roupas e Acessórios;2242,23;2690,68
+07/10/2011;Norte;João Carlos;Eletrodomésticos;2453,59;2944,31
+08/10/2011;Sul;José Luiz;Cine e Foto;1844,33;2213,20
+08/10/2011;Sudeste;Ricardo;Cama, Mesa e Banho;2103,35;2524,02
+08/10/2011;Nordeste;Ricardo;Roupas e Acessórios;3380,35;4056,42
+09/10/2011;Leste;João Carlos;Casa e Construção;2788,17;3345,80
+11/10/2011;Sul;Carolina;Utilidades Domésticas;2220,48;2664,58
+11/10/2011;Nordeste;João Carlos;Cine e Foto;2567,98;3081,58
+11/10/2011;Sudeste;João Carlos;Utilidades Domésticas;3430,93;4117,12
+12/10/2011;Centro;João Carlos;Cama, Mesa e Banho;4438,39;5326,07
+13/10/2011;Sul;Ricardo;Móveis e Decoração;3485,93;4183,12
+14/10/2011;Nordeste;Ricardo;Eletrodomésticos;889,07;1066,88
+14/10/2011;Sudeste;Ana Maria;Casa e Construção;2496,82;2996,18
+14/10/2011;Sul;Carolina;Esporte e Lazer;3710,85;4453,02
+15/10/2011;Centro;João Carlos;Roupas e Acessórios;4814,75;5777,70
+16/10/2011;Sudeste;José Luiz;Utilidades Domésticas;1179,39;1415,27
+18/10/2011;Centro;Ana Maria;Eletrodomésticos;3010,46;3612,55
+18/10/2011;Sul;Carolina;Cine e Foto;3424,22;4109,06
+18/10/2011;Nordeste;João Carlos;Móveis e Decoração;4831,29;5797,55
+19/10/2011;Sudeste;Ricardo;Cine e Foto;1148,00;1377,60
+20/10/2011;Sudeste;Roberto;Cine e Foto;3028,27;3633,92
+22/10/2011;Sul;Carolina;Móveis e Decoração;933,06;1119,67
+22/10/2011;Sudeste;Ricardo;Cine e Foto;3110,04;3732,05
+22/10/2011;Sul;Ana Maria;Casa e Construção;3297,55;3957,06
+25/10/2011;Centro;Carolina;Casa e Construção;408,53;490,24
+25/10/2011;Norte;Roberto;Móveis e Decoração;4660,71;5592,85
+25/10/2011;Nordeste;Roberto;Eletrodomésticos;4550,03;5460,04
+26/10/2011;Sul;João Carlos;Esporte e Lazer;464,80;557,76
+28/10/2011;Leste;Carolina;Móveis e Decoração;1325,27;1590,32
+28/10/2011;Sudeste;Ricardo;Eletrodomésticos;4413,54;5296,25
+28/10/2011;Norte;João Carlos;Utilidades Domésticas;4527,70;5433,24
+29/10/2011;Centro;Roberto;Esporte e Lazer;4542,49;5450,99
+30/10/2011;Sudeste;Carolina;Eletrônicos;1821,53;2185,84
+30/10/2011;Nordeste;Ana Maria;Roupas e Acessórios;1909,19;2291,03
+31/10/2011;Nordeste;Adriana;Cine e Foto;872,29;1046,75
+01/11/2011;Norte;João Carlos;Roupas e Acessórios;611,03;733,24
+04/11/2011;Centro;João Carlos;Cine e Foto;4542,87;5451,44
+05/11/2011;Sul;Ricardo;Cine e Foto;653,56;784,27
+05/11/2011;Sudeste;Carolina;Roupas e Acessórios;1396,12;1675,34
+06/11/2011;Oeste;Adriana;Roupas e Acessórios;1771,88;2126,26
+06/11/2011;Nordeste;Roberto;Eletrodomésticos;827,08;992,50
+07/11/2011;Sul;Ana Maria;Roupas e Acessórios;1126,83;1352,20
+07/11/2011;Nordeste;Ana Maria;Casa e Construção;4927,31;5912,77
+08/11/2011;Leste;Roberto;Cama, Mesa e Banho;4089,16;4906,99
+09/11/2011;Nordeste;Roberto;Esporte e Lazer;1205,93;1447,12
+09/11/2011;Sudeste;Carolina;Casa e Construção;2163,80;2596,56
+09/11/2011;Sudeste;José Luiz;Utilidades Domésticas;2083,09;2499,71
+09/11/2011;Leste;Ricardo;Eletrônicos;2059,51;2471,41
+10/11/2011;Leste;Carolina;Cama, Mesa e Banho;477,56;573,07
+12/11/2011;Sul;Ana Maria;Roupas e Acessórios;4644,19;5573,03
+12/11/2011;Norte;Ana Maria;Eletrodomésticos;674,15;808,98
+12/11/2011;Nordeste;Ana Maria;Utilidades Domésticas;2519,28;3023,14
+13/11/2011;Sudeste;Carolina;Cine e Foto;2892,46;3470,95
+13/11/2011;Nordeste;Ricardo;Cama, Mesa e Banho;202,16;242,59
+13/11/2011;Centro;Roberto;Roupas e Acessórios;255,59;306,71
+14/11/2011;Sudeste;Carolina;Casa e Construção;2724,31;3269,17
+15/11/2011;Sudeste;Ana Maria;Eletrônicos;1331,25;1597,50
+16/11/2011;Sudeste;Ricardo;Cine e Foto;3015,07;3618,08
+17/11/2011;Sul;João Carlos;Móveis e Decoração;4231,70;5078,04
+17/11/2011;Sul;Adriana;Cama, Mesa e Banho;621,36;745,63
+17/11/2011;Sul;João Carlos;Cama, Mesa e Banho;1914,95;2297,94
+18/11/2011;Sul;Adriana;Eletrônicos;2824,01;3388,81
+18/11/2011;Sul;Carolina;Cama, Mesa e Banho;4452,86;5343,43
+19/11/2011;Sul;Ricardo;Roupas e Acessórios;3785,79;4542,95
+19/11/2011;Leste;Carolina;Roupas e Acessórios;4778,86;5734,63
+20/11/2011;Nordeste;Ana Maria;Eletrodomésticos;2410,90;2893,08
+20/11/2011;Norte;João Carlos;Roupas e Acessórios;3711,74;4454,09
+20/11/2011;Sudeste;Ana Maria;Roupas e Acessórios;3265,61;3918,73
+21/11/2011;Sudeste;João Carlos;Móveis e Decoração;2026,81;2432,17
+21/11/2011;Sudeste;Simone;Roupas e Acessórios;812,33;974,80
+22/11/2011;Sudeste;Carolina;Casa e Construção;4380,32;5256,38
+22/11/2011;Sudeste;Simone;Eletrônicos;4241,02;5089,22
+22/11/2011;Oeste;Ricardo;Esporte e Lazer;4825,69;5790,83
+22/11/2011;Sul;Ana Maria;Roupas e Acessórios;2516,94;3020,33
+23/11/2011;Centro;João Carlos;Utilidades Domésticas;1615,49;1938,59
+24/11/2011;Sudeste;João Carlos;Esporte e Lazer;2048,95;2458,74
+24/11/2011;Nordeste;Ana Maria;Móveis e Decoração;2277,69;2733,23
+24/11/2011;Sudeste;Carolina;Casa e Construção;3600,46;4320,55
+25/11/2011;Leste;Adriana;Eletrodomésticos;2596,15;3115,38
+25/11/2011;Sudeste;João Carlos;Eletrônicos;1724,64;2069,57
+26/11/2011;Oeste;Roberto;Utilidades Domésticas;4694,13;5632,96
+27/11/2011;Centro;Adriana;Móveis e Decoração;2436,49;2923,79
+27/11/2011;Sul;Carolina;Móveis e Decoração;3571,76;4286,11
+28/11/2011;Sudeste;Adriana;Casa e Construção;4171,87;5006,24
+28/11/2011;Nordeste;João Carlos;Eletrodomésticos;4429,37;5315,24
+28/11/2011;Sudeste;Ana Maria;Casa e Construção;1566,03;1879,24
+29/11/2011;Sudeste;Simone;Móveis e Decoração;2711,17;3253,40
+30/11/2011;Sul;Ricardo;Cine e Foto;2175,96;2611,15
+30/11/2011;Oeste;Ana Maria;Eletrônicos;3714,88;4457,86
+01/12/2011;Sul;José Luiz;Eletrônicos;4449,89;5339,87
+02/12/2011;Nordeste;João Carlos;Esporte e Lazer;3863,13;4635,76
+04/12/2011;Leste;Ricardo;Cama, Mesa e Banho;2049,65;2459,58
+05/12/2011;Sudeste;José Luiz;Eletrodomésticos;3146,49;3775,79
+06/12/2011;Sul;Ana Maria;Esporte e Lazer;2384,06;2860,87
+07/12/2011;Centro;José Luiz;Móveis e Decoração;4401,30;5281,56
+07/12/2011;Centro;Carolina;Roupas e Acessórios;1037,30;1244,76
+08/12/2011;Leste;João Carlos;Eletrodomésticos;2849,64;3419,57
+08/12/2011;Nordeste;Carolina;Cama, Mesa e Banho;1941,88;2330,26
+08/12/2011;Sudeste;Roberto;Esporte e Lazer;4072,02;4886,42
+09/12/2011;Centro;João Carlos;Cine e Foto;4864,29;5837,15
+12/12/2011;Sudeste;Ricardo;Esporte e Lazer;2374,60;2849,52
+13/12/2011;Sudeste;Carolina;Móveis e Decoração;2520,88;3025,06
+13/12/2011;Leste;Carolina;Cama, Mesa e Banho;1734,52;2081,42
+13/12/2011;Sul;José Luiz;Móveis e Decoração;4738,92;5686,70
+14/12/2011;Leste;Carolina;Eletrônicos;2604,01;3124,81
+14/12/2011;Centro;Carolina;Cama, Mesa e Banho;493,62;592,34
+15/12/2011;Centro;Ana Maria;Roupas e Acessórios;1803,31;2163,97
+16/12/2011;Norte;Adriana;Casa e Construção;1627,00;1952,40
+16/12/2011;Sudeste;Roberto;Eletrônicos;4948,91;5938,69
+16/12/2011;Sul;Roberto;Cama, Mesa e Banho;2176,07;2611,28
+17/12/2011;Sudeste;Carolina;Cine e Foto;1447,83;1737,40
+17/12/2011;Sul;Ricardo;Casa e Construção;2011,98;2414,38
+18/12/2011;Sul;Carolina;Cine e Foto;3515,22;4218,26
+19/12/2011;Centro;Carolina;Eletrônicos;1796,49;2155,79
+19/12/2011;Centro;Simone;Móveis e Decoração;2027,15;2432,58
+19/12/2011;Sul;Simone;Cama, Mesa e Banho;2198,99;2638,79
+20/12/2011;Nordeste;Adriana;Esporte e Lazer;1555,82;1866,98
+21/12/2011;Sul;João Carlos;Cama, Mesa e Banho;219,62;263,54
+22/12/2011;Oeste;João Carlos;Roupas e Acessórios;2717,49;3260,99
+23/12/2011;Centro;João Carlos;Casa e Construção;1503,50;1804,20
+24/12/2011;Sul;Carolina;Casa e Construção;1571,74;1886,09
+25/12/2011;Nordeste;Carolina;Utilidades Domésticas;1818,46;2182,15
+26/12/2011;Sudeste;Ricardo;Casa e Construção;2731,77;3278,12
+27/12/2011;Sudeste;Adriana;Casa e Construção;3567,85;4281,42
+27/12/2011;Centro;Ricardo;Eletrodomésticos;3501,31;4201,57
+28/12/2011;Sudeste;João Carlos;Cama, Mesa e Banho;3718,85;4462,62
+29/12/2011;Sul;Simone;Cine e Foto;4247,22;5096,66
+30/12/2011;Oeste;Carolina;Eletrodomésticos;3387,07;4064,48
+30/12/2011;Nordeste;Ana Maria;Cama, Mesa e Banho;4825,13;5790,16
+02/01/2012;Nordeste;Carolina;Casa e Construção;3476,58;4171,90
+03/01/2012;Centro;Adriana;Utilidades Domésticas;4706,39;5647,67
+05/01/2012;Sudeste;João Carlos;Casa e Construção;1822,31;2186,77
+05/01/2012;Centro;Roberto;Eletrodomésticos;2814,67;3377,60
+05/01/2012;Sudeste;Roberto;Utilidades Domésticas;995,77;1194,92
+08/01/2012;Sudeste;Ricardo;Roupas e Acessórios;3541,49;4249,79
+08/01/2012;Sudeste;Adriana;Cine e Foto;1573,11;1887,73
+09/01/2012;Centro;José Luiz;Móveis e Decoração;1971,06;2365,27
+09/01/2012;Sul;Adriana;Eletrodomésticos;1049,77;1259,72
+10/01/2012;Nordeste;Carolina;Roupas e Acessórios;2413,40;2896,08
+10/01/2012;Oeste;Adriana;Roupas e Acessórios;1993,13;2391,76
+11/01/2012;Sudeste;José Luiz;Cama, Mesa e Banho;3102,80;3723,36
+12/01/2012;Leste;João Carlos;Cine e Foto;432,83;519,40
+12/01/2012;Sudeste;Roberto;Cine e Foto;4182,97;5019,56
+13/01/2012;Leste;Carolina;Cama, Mesa e Banho;2920,73;3504,88
+14/01/2012;Norte;Carolina;Esporte e Lazer;521,48;625,78
+14/01/2012;Centro;Ricardo;Cine e Foto;4979,24;5975,09
+16/01/2012;Centro;Carolina;Cine e Foto;2130,58;2556,70
+17/01/2012;Nordeste;João Carlos;Esporte e Lazer;336,89;404,27
+17/01/2012;Centro;Ana Maria;Móveis e Decoração;4400,22;5280,26
+17/01/2012;Leste;Ricardo;Eletrônicos;1188,70;1426,44
+18/01/2012;Sudeste;Adriana;Móveis e Decoração;2070,88;2485,06
+19/01/2012;Sul;Roberto;Roupas e Acessórios;2843,28;3411,94
+20/01/2012;Sul;João Carlos;Móveis e Decoração;4316,63;5179,96
+23/01/2012;Centro;Ricardo;Roupas e Acessórios;1331,15;1597,38
+23/01/2012;Nordeste;Carolina;Utilidades Domésticas;4215,23;5058,28
+25/01/2012;Sudeste;Simone;Casa e Construção;392,10;470,52
+26/01/2012;Sudeste;Carolina;Móveis e Decoração;1561,95;1874,34
+27/01/2012;Sudeste;Carolina;Eletrônicos;3194,23;3833,08
+28/01/2012;Centro;João Carlos;Utilidades Domésticas;2084,02;2500,82
+28/01/2012;Sudeste;Carolina;Eletrônicos;1876,60;2251,92
+28/01/2012;Oeste;Ana Maria;Casa e Construção;3571,79;4286,15
+29/01/2012;Oeste;João Carlos;Esporte e Lazer;3455,99;4147,19
+29/01/2012;Oeste;Carolina;Esporte e Lazer;948,14;1137,77
+30/01/2012;Sudeste;Carolina;Cama, Mesa e Banho;1990,36;2388,43
+30/01/2012;Sul;Carolina;Móveis e Decoração;2087,85;2505,42
+30/01/2012;Sudeste;José Luiz;Móveis e Decoração;657,55;789,06
+02/02/2012;Nordeste;Simone;Cine e Foto;2667,67;3201,20
+02/02/2012;Centro;Ricardo;Móveis e Decoração;4217,64;5061,17
+02/02/2012;Centro;Simone;Eletrodomésticos;2039,14;2446,97
+02/02/2012;Sudeste;Carolina;Esporte e Lazer;4398,10;5277,72
+04/02/2012;Sudeste;José Luiz;Esporte e Lazer;4407,30;5288,76
+05/02/2012;Sul;João Carlos;Cine e Foto;1810,66;2172,79
+06/02/2012;Leste;João Carlos;Móveis e Decoração;4702,02;5642,42
+06/02/2012;Nordeste;José Luiz;Móveis e Decoração;1083,12;1299,74
+07/02/2012;Oeste;Ana Maria;Eletrônicos;3826,35;4591,62
+07/02/2012;Sul;Roberto;Cama, Mesa e Banho;3965,77;4758,92
+07/02/2012;Sul;Simone;Cine e Foto;1774,30;2129,16
+07/02/2012;Sudeste;José Luiz;Cine e Foto;1274,73;1529,68
+07/02/2012;Centro;Adriana;Cama, Mesa e Banho;4857,23;5828,68
+07/02/2012;Sul;Carolina;Eletrodomésticos;4162,76;4995,31
+08/02/2012;Centro;Simone;Eletrodomésticos;2614,21;3137,05
+08/02/2012;Norte;João Carlos;Utilidades Domésticas;3582,51;4299,01
+08/02/2012;Centro;Carolina;Móveis e Decoração;1852,85;2223,42
+09/02/2012;Sudeste;Carolina;Casa e Construção;4661,88;5594,26
+09/02/2012;Centro;José Luiz;Utilidades Domésticas;2094,96;2513,95
+10/02/2012;Sudeste;Ana Maria;Cine e Foto;3171,57;3805,88
+11/02/2012;Nordeste;João Carlos;Cama, Mesa e Banho;4167,84;5001,41
+12/02/2012;Nordeste;Simone;Cine e Foto;1315,18;1578,22
+12/02/2012;Norte;Ricardo;Móveis e Decoração;1983,47;2380,16
+12/02/2012;Centro;João Carlos;Cama, Mesa e Banho;2461,85;2954,22
+12/02/2012;Sudeste;Ana Maria;Móveis e Decoração;1129,92;1355,90
+13/02/2012;Sudeste;Simone;Cine e Foto;637,90;765,48
+13/02/2012;Oeste;Roberto;Cama, Mesa e Banho;2718,90;3262,68
+14/02/2012;Nordeste;Ricardo;Eletrodomésticos;1818,33;2182,00
+16/02/2012;Sudeste;Ricardo;Móveis e Decoração;782,48;938,98
+16/02/2012;Sudeste;José Luiz;Casa e Construção;4956,63;5947,96
+17/02/2012;Norte;Carolina;Cama, Mesa e Banho;1826,36;2191,63
+20/02/2012;Nordeste;Roberto;Cama, Mesa e Banho;2697,96;3237,55
+20/02/2012;Leste;João Carlos;Utilidades Domésticas;4764,15;5716,98
+21/02/2012;Centro;Roberto;Eletrodomésticos;1395,91;1675,09
+22/02/2012;Leste;Carolina;Casa e Construção;372,45;446,94
+23/02/2012;Centro;Ricardo;Móveis e Decoração;2578,88;3094,66
+24/02/2012;Sudeste;João Carlos;Cine e Foto;3656,83;4388,20
+24/02/2012;Leste;Ricardo;Cine e Foto;1497,87;1797,44
+26/02/2012;Sul;Carolina;Cine e Foto;1046,09;1255,31
+27/02/2012;Nordeste;Ana Maria;Móveis e Decoração;1485,45;1782,54
+27/02/2012;Centro;Simone;Eletrônicos;2245,91;2695,09
+27/02/2012;Sudeste;José Luiz;Roupas e Acessórios;1530,13;1836,16
+28/02/2012;Sudeste;José Luiz;Eletrodomésticos;2619,55;3143,46
+29/02/2012;Nordeste;Ricardo;Cama, Mesa e Banho;4422,71;5307,25
+01/03/2012;Norte;Carolina;Utilidades Domésticas;2262,13;2714,56
+01/03/2012;Nordeste;José Luiz;Cama, Mesa e Banho;243,52;292,22
+02/03/2012;Sudeste;José Luiz;Móveis e Decoração;3134,27;3761,12
+03/03/2012;Nordeste;Ricardo;Utilidades Domésticas;3366,08;4039,30
+04/03/2012;Sudeste;João Carlos;Esporte e Lazer;3060,98;3673,18
+05/03/2012;Leste;Ricardo;Eletrônicos;2218,21;2661,85
+05/03/2012;Sudeste;Ana Maria;Esporte e Lazer;2353,09;2823,71
+07/03/2012;Sul;João Carlos;Roupas e Acessórios;4576,30;5491,56
+08/03/2012;Nordeste;Carolina;Roupas e Acessórios;3747,68;4497,22
+10/03/2012;Sudeste;Ricardo;Utilidades Domésticas;3622,34;4346,81
+11/03/2012;Nordeste;Adriana;Casa e Construção;492,51;591,01
+12/03/2012;Nordeste;Ana Maria;Utilidades Domésticas;3738,79;4486,55
+13/03/2012;Leste;Simone;Eletrônicos;623,23;747,88
+15/03/2012;Sudeste;Simone;Casa e Construção;4061,74;4874,09
+19/03/2012;Sudeste;José Luiz;Eletrônicos;3480,50;4176,60
+19/03/2012;Sudeste;Adriana;Roupas e Acessórios;3302,68;3963,22
+19/03/2012;Leste;Carolina;Casa e Construção;2488,74;2986,49
+19/03/2012;Sudeste;João Carlos;Utilidades Domésticas;4206,97;5048,36
+20/03/2012;Sudeste;Ana Maria;Eletrônicos;1165,44;1398,53
+20/03/2012;Sudeste;Roberto;Móveis e Decoração;4353,36;5224,03
+21/03/2012;Centro;João Carlos;Cama, Mesa e Banho;2372,50;2847,00
+21/03/2012;Norte;João Carlos;Esporte e Lazer;4443,40;5332,08
+21/03/2012;Sudeste;João Carlos;Móveis e Decoração;4552,33;5462,80
+22/03/2012;Sudeste;Simone;Cine e Foto;2301,96;2762,35
+23/03/2012;Centro;Ana Maria;Eletrodomésticos;1984,81;2381,77
+23/03/2012;Sudeste;Ana Maria;Esporte e Lazer;4253,50;5104,20
+24/03/2012;Centro;Roberto;Casa e Construção;1812,68;2175,22
+25/03/2012;Norte;Ricardo;Eletrônicos;1438,10;1725,72
+26/03/2012;Leste;Ana Maria;Cama, Mesa e Banho;2902,69;3483,23
+26/03/2012;Sudeste;Adriana;Esporte e Lazer;3336,56;4003,87
+27/03/2012;Nordeste;Ana Maria;Casa e Construção;1301,65;1561,98
+27/03/2012;Sul;Carolina;Casa e Construção;1946,20;2335,44
+28/03/2012;Nordeste;Ana Maria;Utilidades Domésticas;229,14;274,97
+28/03/2012;Nordeste;Simone;Esporte e Lazer;4813,56;5776,27
+28/03/2012;Sul;Ana Maria;Móveis e Decoração;2143,88;2572,66
+29/03/2012;Leste;João Carlos;Móveis e Decoração;404,14;484,97
+30/03/2012;Sul;José Luiz;Esporte e Lazer;3138,23;3765,88
+30/03/2012;Norte;Carolina;Eletrônicos;766,80;920,16
+30/03/2012;Centro;Simone;Roupas e Acessórios;3836,43;4603,72
+31/03/2012;Sudeste;Adriana;Esporte e Lazer;1961,66;2353,99
+31/03/2012;Norte;João Carlos;Roupas e Acessórios;948,18;1137,82
+31/03/2012;Leste;Ricardo;Eletrônicos;2932,92;3519,50
+01/04/2012;Nordeste;Ana Maria;Roupas e Acessórios;2777,01;3332,41
+01/04/2012;Centro;Carolina;Eletrônicos;1825,48;2190,58
+02/04/2012;Sudeste;Carolina;Utilidades Domésticas;4985,46;5982,55
+02/04/2012;Norte;Ricardo;Eletrônicos;2069,80;2483,76
+02/04/2012;Centro;José Luiz;Cine e Foto;1432,01;1718,41
+02/04/2012;Nordeste;Simone;Eletrodomésticos;2322,94;2787,53
+03/04/2012;Sudeste;Carolina;Móveis e Decoração;1061,84;1274,21
+04/04/2012;Sul;Simone;Cine e Foto;1070,81;1284,97
+05/04/2012;Centro;Ricardo;Cama, Mesa e Banho;4661,63;5593,96
+05/04/2012;Sul;Ana Maria;Cine e Foto;691,88;830,26
+06/04/2012;Sudeste;Ricardo;Móveis e Decoração;1628,08;1953,70
+07/04/2012;Norte;João Carlos;Casa e Construção;2999,38;3599,26
+08/04/2012;Leste;Carolina;Eletrônicos;1781,76;2138,11
+08/04/2012;Centro;Roberto;Eletrônicos;2443,72;2932,46
+08/04/2012;Sudeste;Ana Maria;Cama, Mesa e Banho;1945,51;2334,61
+09/04/2012;Oeste;José Luiz;Cine e Foto;4671,90;5606,28
+09/04/2012;Sul;Ricardo;Eletrônicos;4130,30;4956,36
+12/04/2012;Nordeste;João Carlos;Cine e Foto;3230,74;3876,89
+12/04/2012;Centro;João Carlos;Cine e Foto;4537,30;5444,76
+12/04/2012;Centro;João Carlos;Casa e Construção;387,03;464,44
+12/04/2012;Sudeste;Ana Maria;Utilidades Domésticas;2981,41;3577,69
+13/04/2012;Centro;João Carlos;Cine e Foto;383,63;460,36
+13/04/2012;Sul;Ricardo;Eletrodomésticos;788,52;946,22
+13/04/2012;Sudeste;Ana Maria;Cine e Foto;2116,41;2539,69
+13/04/2012;Centro;João Carlos;Casa e Construção;4587,88;5505,46
+14/04/2012;Centro;Carolina;Casa e Construção;3165,11;3798,13
+14/04/2012;Centro;Ricardo;Eletrônicos;4026,82;4832,18
+15/04/2012;Sudeste;Ricardo;Esporte e Lazer;2095,80;2514,96
+15/04/2012;Sudeste;Carolina;Cama, Mesa e Banho;3526,55;4231,86
+15/04/2012;Sudeste;João Carlos;Cama, Mesa e Banho;3692,85;4431,42
+16/04/2012;Centro;Carolina;Casa e Construção;4987,56;5985,07
+16/04/2012;Centro;José Luiz;Casa e Construção;2770,77;3324,92
+17/04/2012;Sudeste;João Carlos;Cama, Mesa e Banho;2722,85;3267,42
+17/04/2012;Oeste;Adriana;Móveis e Decoração;4647,75;5577,30
+18/04/2012;Leste;Simone;Roupas e Acessórios;2221,53;2665,84
+18/04/2012;Norte;Ana Maria;Cama, Mesa e Banho;3607,33;4328,80
+19/04/2012;Leste;Roberto;Cama, Mesa e Banho;1536,83;1844,20
+20/04/2012;Oeste;João Carlos;Roupas e Acessórios;1666,98;2000,38
+20/04/2012;Centro;Ricardo;Cama, Mesa e Banho;349,41;419,29
+21/04/2012;Sudeste;Carolina;Utilidades Domésticas;268,96;322,75
+22/04/2012;Sul;Simone;Utilidades Domésticas;822,38;986,86
+22/04/2012;Centro;Carolina;Esporte e Lazer;499,64;599,57
+23/04/2012;Sul;Ricardo;Utilidades Domésticas;1307,19;1568,63
+23/04/2012;Centro;José Luiz;Utilidades Domésticas;615,81;738,97
+24/04/2012;Nordeste;Carolina;Móveis e Decoração;3496,53;4195,84
+27/04/2012;Nordeste;Adriana;Móveis e Decoração;4518,92;5422,70
+27/04/2012;Nordeste;Carolina;Roupas e Acessórios;447,54;537,05
+28/04/2012;Centro;Ana Maria;Utilidades Domésticas;2538,31;3045,97
+28/04/2012;Nordeste;Adriana;Utilidades Domésticas;4693,84;5632,61
+29/04/2012;Sul;Carolina;Roupas e Acessórios;4386,96;5264,35
+29/04/2012;Centro;José Luiz;Eletrônicos;2267,14;2720,57
+29/04/2012;Centro;Ana Maria;Roupas e Acessórios;4089,19;4907,03
+29/04/2012;Leste;João Carlos;Eletrodomésticos;4442,11;5330,53
+30/04/2012;Sul;Ana Maria;Cine e Foto;3910,54;4692,65
+30/04/2012;Nordeste;Ricardo;Utilidades Domésticas;1464,10;1756,92
+30/04/2012;Nordeste;Simone;Roupas e Acessórios;3185,10;3822,12
+30/04/2012;Sudeste;Ana Maria;Esporte e Lazer;4479,41;5375,29
+01/05/2012;Centro;Ana Maria;Casa e Construção;4807,78;5769,34
+02/05/2012;Sudeste;João Carlos;Cine e Foto;3760,37;4512,44
+03/05/2012;Sul;Carolina;Móveis e Decoração;2875,69;3450,83
+04/05/2012;Sudeste;Simone;Eletrodomésticos;1538,26;1845,91
+04/05/2012;Sudeste;Simone;Utilidades Domésticas;4960,57;5952,68
+04/05/2012;Sul;Adriana;Cama, Mesa e Banho;243,13;291,76
+04/05/2012;Nordeste;Carolina;Cama, Mesa e Banho;4474,19;5369,03
+04/05/2012;Sul;Simone;Eletrônicos;2101,17;2521,40
+04/05/2012;Sudeste;Ana Maria;Utilidades Domésticas;2824,36;3389,23
+05/05/2012;Sudeste;Carolina;Eletrodomésticos;1709,50;2051,40
+05/05/2012;Centro;Ana Maria;Móveis e Decoração;3870,96;4645,15
+07/05/2012;Norte;João Carlos;Esporte e Lazer;554,32;665,18
+07/05/2012;Sul;João Carlos;Móveis e Decoração;2187,83;2625,40
+09/05/2012;Sudeste;João Carlos;Roupas e Acessórios;3997,11;4796,53
+11/05/2012;Nordeste;João Carlos;Cine e Foto;628,04;753,65
+11/05/2012;Sul;João Carlos;Casa e Construção;1923,62;2308,34
+12/05/2012;Sul;Ricardo;Móveis e Decoração;1205,43;1446,52
+12/05/2012;Centro;João Carlos;Eletrônicos;927,97;1113,56
+13/05/2012;Sudeste;Ricardo;Utilidades Domésticas;2408,77;2890,52
+14/05/2012;Sudeste;Adriana;Cama, Mesa e Banho;4306,90;5168,28
+14/05/2012;Oeste;Ricardo;Casa e Construção;4199,66;5039,59
+14/05/2012;Oeste;José Luiz;Móveis e Decoração;2847,50;3417,00
+14/05/2012;Sudeste;Carolina;Móveis e Decoração;3542,29;4250,75
+15/05/2012;Nordeste;Ana Maria;Eletrodomésticos;1268,32;1521,98
+16/05/2012;Sul;Roberto;Casa e Construção;4055,92;4867,10
+16/05/2012;Sul;João Carlos;Cama, Mesa e Banho;3393,67;4072,40
+16/05/2012;Leste;Ana Maria;Móveis e Decoração;4367,37;5240,84
+16/05/2012;Leste;José Luiz;Esporte e Lazer;2046,37;2455,64
+17/05/2012;Sudeste;Ana Maria;Cine e Foto;4107,40;4928,88
+17/05/2012;Oeste;Ana Maria;Cama, Mesa e Banho;353,45;424,14
+17/05/2012;Sudeste;Simone;Casa e Construção;3323,57;3988,28
+18/05/2012;Nordeste;Ana Maria;Cine e Foto;3362,86;4035,43
+18/05/2012;Oeste;Ricardo;Casa e Construção;621,60;745,92
+19/05/2012;Sul;Roberto;Roupas e Acessórios;265,48;318,58
+20/05/2012;Norte;Ana Maria;Esporte e Lazer;2991,93;3590,32
+20/05/2012;Leste;Carolina;Móveis e Decoração;3800,64;4560,77
+20/05/2012;Sudeste;Carolina;Cine e Foto;3397,98;4077,58
+21/05/2012;Leste;Adriana;Utilidades Domésticas;3874,27;4649,12
+22/05/2012;Sudeste;Ana Maria;Eletrônicos;628,54;754,25
+22/05/2012;Oeste;Carolina;Casa e Construção;4409,33;5291,20
+23/05/2012;Sul;Adriana;Móveis e Decoração;2329,32;2795,18
+25/05/2012;Sul;João Carlos;Utilidades Domésticas;4718,66;5662,39
+25/05/2012;Leste;Carolina;Cama, Mesa e Banho;1041,48;1249,78
+25/05/2012;Leste;João Carlos;Eletrônicos;4229,20;5075,04
+29/05/2012;Sudeste;Ricardo;Cama, Mesa e Banho;3644,63;4373,56
+30/05/2012;Centro;Roberto;Cama, Mesa e Banho;2219,35;2663,22
+31/05/2012;Nordeste;Ana Maria;Móveis e Decoração;3497,05;4196,46
+31/05/2012;Sudeste;Ricardo;Móveis e Decoração;433,88;520,66
+01/06/2012;Sudeste;Adriana;Utilidades Domésticas;1090,86;1309,03
+02/06/2012;Nordeste;José Luiz;Cama, Mesa e Banho;3204,62;3845,54
+05/06/2012;Nordeste;João Carlos;Eletrodomésticos;2747,80;3297,36
+05/06/2012;Sul;Carolina;Cama, Mesa e Banho;1603,15;1923,78
+05/06/2012;Centro;José Luiz;Esporte e Lazer;4813,72;5776,46
+06/06/2012;Sul;Ricardo;Cama, Mesa e Banho;4539,39;5447,27
+06/06/2012;Norte;João Carlos;Casa e Construção;4974,87;5969,84
+06/06/2012;Oeste;Ana Maria;Roupas e Acessórios;768,34;922,01
+07/06/2012;Leste;João Carlos;Casa e Construção;3274,63;3929,56
+08/06/2012;Centro;Ana Maria;Eletrodomésticos;4585,06;5502,07
+09/06/2012;Centro;Carolina;Cama, Mesa e Banho;2051,86;2462,23
+11/06/2012;Sudeste;Carolina;Roupas e Acessórios;1512,64;1815,17
+11/06/2012;Nordeste;João Carlos;Eletrodomésticos;4273,93;5128,72
+12/06/2012;Sudeste;Simone;Cine e Foto;4895,54;5874,65
+12/06/2012;Centro;Ana Maria;Cine e Foto;3926,76;4712,11
+13/06/2012;Oeste;Carolina;Esporte e Lazer;622,68;747,22
+13/06/2012;Centro;João Carlos;Casa e Construção;3861,77;4634,12
+13/06/2012;Oeste;João Carlos;Casa e Construção;3923,45;4708,14
+13/06/2012;Centro;Carolina;Utilidades Domésticas;2503,24;3003,89
+13/06/2012;Sul;Carolina;Casa e Construção;4934,24;5921,09
+14/06/2012;Sul;Adriana;Móveis e Decoração;4134,98;4961,98
+15/06/2012;Centro;João Carlos;Móveis e Decoração;368,16;441,79
+17/06/2012;Centro;Carolina;Cine e Foto;3205,47;3846,56
+18/06/2012;Oeste;José Luiz;Eletrodomésticos;589,30;707,16
+18/06/2012;Centro;Ana Maria;Móveis e Decoração;2320,84;2785,01
+19/06/2012;Sul;João Carlos;Roupas e Acessórios;4236,63;5083,96
+20/06/2012;Sul;João Carlos;Utilidades Domésticas;4251,95;5102,34
+21/06/2012;Nordeste;Ana Maria;Móveis e Decoração;1641,28;1969,54
+21/06/2012;Norte;João Carlos;Utilidades Domésticas;2717,70;3261,24
+22/06/2012;Sudeste;Carolina;Eletrônicos;1955,12;2346,14
+22/06/2012;Nordeste;José Luiz;Eletrodomésticos;2467,46;2960,95
+22/06/2012;Centro;Carolina;Roupas e Acessórios;2586,46;3103,75
+26/06/2012;Nordeste;Carolina;Esporte e Lazer;1373,73;1648,48
+27/06/2012;Nordeste;João Carlos;Móveis e Decoração;4043,93;4852,72
+28/06/2012;Sul;Carolina;Cine e Foto;1118,64;1342,37
+28/06/2012;Sul;Ana Maria;Utilidades Domésticas;4913,21;5895,85
+29/06/2012;Sudeste;José Luiz;Cama, Mesa e Banho;2413,03;2895,64
+29/06/2012;Oeste;Ana Maria;Roupas e Acessórios;3768,07;4521,68
+29/06/2012;Centro;Ricardo;Eletrônicos;3240,57;3888,68
+30/06/2012;Sul;Simone;Móveis e Decoração;4267,68;5121,22
+30/06/2012;Centro;Ana Maria;Cine e Foto;501,44;601,73
+30/06/2012;Sudeste;João Carlos;Cine e Foto;4300,01;5160,01
+30/06/2012;Oeste;Simone;Casa e Construção;529,75;635,70
+30/06/2012;Nordeste;Roberto;Eletrodomésticos;2553,14;3063,77
+01/07/2012;Sul;José Luiz;Esporte e Lazer;4567,59;5481,11
+01/07/2012;Sudeste;Ana Maria;Roupas e Acessórios;3442,49;4130,99
+02/07/2012;Nordeste;Ana Maria;Casa e Construção;1579,21;1895,05
+02/07/2012;Sudeste;João Carlos;Cama, Mesa e Banho;769,33;923,20
+05/07/2012;Sul;Ricardo;Eletrodomésticos;4475,36;5370,43
+06/07/2012;Sul;Simone;Casa e Construção;3681,47;4417,76
+06/07/2012;Sul;João Carlos;Móveis e Decoração;2880,66;3456,79
+07/07/2012;Centro;Ana Maria;Casa e Construção;2670,67;3204,80
+07/07/2012;Leste;João Carlos;Cama, Mesa e Banho;520,05;624,06
+07/07/2012;Oeste;João Carlos;Cine e Foto;2071,73;2486,08
+08/07/2012;Leste;João Carlos;Cine e Foto;1070,58;1284,70
+09/07/2012;Centro;Simone;Roupas e Acessórios;2312,92;2775,50
+09/07/2012;Leste;Ana Maria;Móveis e Decoração;2178,25;2613,90
+09/07/2012;Norte;João Carlos;Casa e Construção;3863,11;4635,73
+09/07/2012;Sudeste;João Carlos;Utilidades Domésticas;4114,85;4937,82
+10/07/2012;Nordeste;Carolina;Eletrodomésticos;2261,16;2713,39
+14/07/2012;Nordeste;Ricardo;Eletrônicos;2890,22;3468,26
+15/07/2012;Centro;Simone;Cine e Foto;2148,64;2578,37
+15/07/2012;Sul;Adriana;Móveis e Decoração;1128,64;1354,37
+15/07/2012;Sul;Ricardo;Cama, Mesa e Banho;1082,91;1299,49
+16/07/2012;Sudeste;João Carlos;Móveis e Decoração;2812,07;3374,48
+18/07/2012;Centro;Roberto;Móveis e Decoração;1871,72;2246,06
+18/07/2012;Sul;João Carlos;Cine e Foto;2058,32;2469,98
+18/07/2012;Sudeste;Ricardo;Eletrodomésticos;2293,26;2751,91
+19/07/2012;Sul;Carolina;Esporte e Lazer;4077,46;4892,95
+19/07/2012;Sudeste;José Luiz;Esporte e Lazer;2502,34;3002,81
+21/07/2012;Oeste;Ana Maria;Esporte e Lazer;329,84;395,81
+21/07/2012;Oeste;José Luiz;Roupas e Acessórios;1244,84;1493,81
+21/07/2012;Norte;João Carlos;Casa e Construção;501,52;601,82
+21/07/2012;Nordeste;Carolina;Utilidades Domésticas;428,81;514,57
+22/07/2012;Nordeste;Carolina;Cama, Mesa e Banho;4851,75;5822,10
+22/07/2012;Sul;Carolina;Cine e Foto;4922,09;5906,51
+23/07/2012;Leste;Ana Maria;Móveis e Decoração;1607,83;1929,40
+23/07/2012;Centro;Simone;Roupas e Acessórios;864,55;1037,46
+24/07/2012;Sul;Ana Maria;Casa e Construção;4058,32;4869,98
+25/07/2012;Nordeste;Simone;Móveis e Decoração;1478,59;1774,31
+26/07/2012;Nordeste;João Carlos;Eletrônicos;3399,06;4078,87
+27/07/2012;Oeste;Simone;Móveis e Decoração;3073,97;3688,76
+27/07/2012;Sudeste;Carolina;Eletrônicos;1116,66;1339,99
+27/07/2012;Oeste;João Carlos;Cama, Mesa e Banho;3267,66;3921,19
+28/07/2012;Centro;Ricardo;Móveis e Decoração;1605,38;1926,46
+29/07/2012;Leste;Carolina;Casa e Construção;2134,36;2561,23
+29/07/2012;Centro;Carolina;Cama, Mesa e Banho;2675,76;3210,91
+29/07/2012;Nordeste;Adriana;Cine e Foto;801,72;962,06
+29/07/2012;Sul;João Carlos;Cama, Mesa e Banho;4156,87;4988,24
+29/07/2012;Sul;Ana Maria;Esporte e Lazer;2630,79;3156,95
+30/07/2012;Sudeste;Simone;Cama, Mesa e Banho;1424,37;1709,24
+31/07/2012;Sudeste;João Carlos;Eletrodomésticos;3582,01;4298,41
+31/07/2012;Centro;João Carlos;Móveis e Decoração;1172,88;1407,46
+31/07/2012;Leste;José Luiz;Utilidades Domésticas;2643,91;3172,69
+01/08/2012;Sudeste;Adriana;Utilidades Domésticas;770,59;924,71
+02/08/2012;Sul;João Carlos;Eletrônicos;2476,33;2971,60
+02/08/2012;Centro;Ana Maria;Eletrônicos;1304,61;1565,53
+03/08/2012;Sul;Carolina;Utilidades Domésticas;2195,14;2634,17
+03/08/2012;Nordeste;Simone;Roupas e Acessórios;1254,11;1504,93
+03/08/2012;Sul;Ana Maria;Cine e Foto;2026,29;2431,55
+04/08/2012;Sudeste;Carolina;Móveis e Decoração;2761,38;3313,66
+04/08/2012;Sul;João Carlos;Eletrônicos;4468,99;5362,79
+05/08/2012;Nordeste;Ricardo;Móveis e Decoração;4044,12;4852,94
+07/08/2012;Sudeste;Carolina;Eletrônicos;3567,19;4280,63
+08/08/2012;Sul;Ricardo;Eletrodomésticos;3753,38;4504,06
+09/08/2012;Nordeste;João Carlos;Roupas e Acessórios;4893,73;5872,48
+11/08/2012;Sul;Ana Maria;Utilidades Domésticas;1546,26;1855,51
+12/08/2012;Sudeste;João Carlos;Esporte e Lazer;4044,44;4853,33
+12/08/2012;Sul;José Luiz;Eletrodomésticos;2235,28;2682,34
+13/08/2012;Sudeste;João Carlos;Casa e Construção;2438,51;2926,21
+15/08/2012;Oeste;Carolina;Móveis e Decoração;3564,65;4277,58
+16/08/2012;Sul;João Carlos;Casa e Construção;3002,94;3603,53
+17/08/2012;Nordeste;Simone;Roupas e Acessórios;4522,41;5426,89
+17/08/2012;Oeste;Carolina;Eletrodomésticos;1946,70;2336,04
+18/08/2012;Sudeste;Simone;Esporte e Lazer;1329,57;1595,48
+18/08/2012;Nordeste;Carolina;Cine e Foto;4979,55;5975,46
+18/08/2012;Oeste;Ana Maria;Roupas e Acessórios;804,00;964,80
+18/08/2012;Leste;Adriana;Cama, Mesa e Banho;619,03;742,84
+20/08/2012;Nordeste;Ricardo;Cine e Foto;3127,29;3752,75
+20/08/2012;Sul;João Carlos;Esporte e Lazer;3764,17;4517,00
+20/08/2012;Sudeste;Carolina;Eletrodomésticos;1227,78;1473,34
+22/08/2012;Nordeste;Ana Maria;Eletrônicos;1309,79;1571,75
+22/08/2012;Centro;João Carlos;Casa e Construção;1382,77;1659,32
+23/08/2012;Oeste;Carolina;Roupas e Acessórios;2001,70;2402,04
+24/08/2012;Sul;Carolina;Eletrodomésticos;4303,34;5164,01
+25/08/2012;Nordeste;Carolina;Roupas e Acessórios;4253,52;5104,22
+25/08/2012;Sudeste;Roberto;Esporte e Lazer;1386,94;1664,33
+26/08/2012;Sul;Simone;Casa e Construção;575,63;690,76
+26/08/2012;Sudeste;Adriana;Esporte e Lazer;4236,48;5083,78
+27/08/2012;Centro;Roberto;Esporte e Lazer;620,98;745,18
+29/08/2012;Centro;João Carlos;Esporte e Lazer;2772,35;3326,82
+29/08/2012;Sul;João Carlos;Eletrônicos;1614,80;1937,76
+30/08/2012;Nordeste;João Carlos;Cine e Foto;4545,92;5455,10
+30/08/2012;Oeste;Ana Maria;Casa e Construção;2623,48;3148,18
+31/08/2012;Sudeste;Ana Maria;Eletrônicos;4417,10;5300,52
+01/09/2012;Nordeste;Simone;Eletrônicos;2057,31;2468,77
+01/09/2012;Centro;Ricardo;Cama, Mesa e Banho;760,07;912,08
+03/09/2012;Nordeste;Ricardo;Eletrônicos;3194,40;3833,28
+03/09/2012;Oeste;Adriana;Cama, Mesa e Banho;4721,47;5665,76
+04/09/2012;Leste;José Luiz;Esporte e Lazer;3601,88;4322,26
+05/09/2012;Sudeste;João Carlos;Utilidades Domésticas;2210,98;2653,18
+05/09/2012;Centro;Ricardo;Eletrônicos;2069,05;2482,86
+06/09/2012;Centro;José Luiz;Esporte e Lazer;4232,18;5078,62
+06/09/2012;Sudeste;Ricardo;Esporte e Lazer;2760,43;3312,52
+07/09/2012;Sudeste;Roberto;Utilidades Domésticas;3732,25;4478,70
+07/09/2012;Sudeste;Roberto;Eletrônicos;3795,89;4555,07
+07/09/2012;Nordeste;Carolina;Utilidades Domésticas;2070,96;2485,15
+08/09/2012;Sul;Roberto;Esporte e Lazer;1189,29;1427,15
+08/09/2012;Nordeste;Ricardo;Utilidades Domésticas;1826,54;2191,85
+09/09/2012;Leste;Ricardo;Eletrodomésticos;2092,74;2511,29
+11/09/2012;Centro;Ana Maria;Eletrônicos;2155,30;2586,36
+12/09/2012;Norte;Ana Maria;Roupas e Acessórios;3704,62;4445,54
+12/09/2012;Leste;Ricardo;Esporte e Lazer;2928,48;3514,18
+13/09/2012;Nordeste;Ana Maria;Eletrodomésticos;2408,88;2890,66
+15/09/2012;Sudeste;Ricardo;Utilidades Domésticas;3838,24;4605,89
+15/09/2012;Sudeste;João Carlos;Cama, Mesa e Banho;335,06;402,07
+16/09/2012;Sudeste;Simone;Casa e Construção;3542,58;4251,10
+16/09/2012;Sudeste;Ricardo;Eletrodomésticos;4541,03;5449,24
+16/09/2012;Norte;Carolina;Esporte e Lazer;3885,61;4662,73
+16/09/2012;Nordeste;Adriana;Casa e Construção;2068,69;2482,43
+16/09/2012;Oeste;Carolina;Móveis e Decoração;3430,63;4116,76
+17/09/2012;Centro;Adriana;Cama, Mesa e Banho;4254,84;5105,81
+18/09/2012;Sul;Adriana;Utilidades Domésticas;697,61;837,13
+18/09/2012;Norte;Carolina;Móveis e Decoração;355,15;426,18
+19/09/2012;Sul;Roberto;Cama, Mesa e Banho;536,94;644,33
+20/09/2012;Sudeste;Ana Maria;Móveis e Decoração;415,51;498,61
+21/09/2012;Sudeste;Carolina;Móveis e Decoração;3593,74;4312,49
+22/09/2012;Sul;Simone;Roupas e Acessórios;3400,74;4080,89
+24/09/2012;Sudeste;João Carlos;Casa e Construção;3898,34;4678,01
+25/09/2012;Centro;Adriana;Cine e Foto;431,09;517,31
+26/09/2012;Norte;Ricardo;Eletrônicos;2263,92;2716,70
+26/09/2012;Nordeste;Simone;Casa e Construção;1777,06;2132,47
+27/09/2012;Centro;Adriana;Utilidades Domésticas;2380,98;2857,18
+27/09/2012;Leste;Ana Maria;Cama, Mesa e Banho;3393,56;4072,27
+27/09/2012;Sul;Carolina;Utilidades Domésticas;3279,40;3935,28
+27/09/2012;Nordeste;Ricardo;Casa e Construção;3971,21;4765,45
+28/09/2012;Sul;Ana Maria;Cine e Foto;4514,70;5417,64
+28/09/2012;Sudeste;João Carlos;Cama, Mesa e Banho;219,34;263,21
+29/09/2012;Nordeste;Ana Maria;Roupas e Acessórios;3614,70;4337,64
+29/09/2012;Sudeste;Adriana;Roupas e Acessórios;4996,97;5996,36
+01/10/2012;Sul;Roberto;Esporte e Lazer;1694,71;2033,65
+01/10/2012;Sudeste;Ana Maria;Cine e Foto;4049,71;4859,65
+02/10/2012;Sudeste;Ricardo;Esporte e Lazer;2245,22;2694,26
+03/10/2012;Nordeste;Carolina;Eletrodomésticos;1331,83;1598,20
+04/10/2012;Nordeste;José Luiz;Utilidades Domésticas;764,81;917,77
+04/10/2012;Norte;Carolina;Cama, Mesa e Banho;4775,64;5730,77
+05/10/2012;Centro;José Luiz;Casa e Construção;1021,28;1225,54
+06/10/2012;Sudeste;Simone;Esporte e Lazer;444,99;533,99
+06/10/2012;Sudeste;Adriana;Casa e Construção;2155,04;2586,05
+07/10/2012;Leste;Ana Maria;Eletrônicos;3372,17;4046,60
+07/10/2012;Norte;Roberto;Esporte e Lazer;3780,00;4536,00
+08/10/2012;Nordeste;Roberto;Eletrodomésticos;1981,15;2377,38
+08/10/2012;Sul;João Carlos;Eletrodomésticos;661,39;793,67
+09/10/2012;Sul;Roberto;Cine e Foto;3093,37;3712,04
+10/10/2012;Nordeste;Carolina;Eletrônicos;3578,10;4293,72
+11/10/2012;Sudeste;Carolina;Móveis e Decoração;2939,03;3526,84
+11/10/2012;Centro;Ana Maria;Móveis e Decoração;1414,05;1696,86
+12/10/2012;Centro;Ricardo;Cine e Foto;1224,34;1469,21
+12/10/2012;Centro;Simone;Cine e Foto;1849,98;2219,98
+14/10/2012;Nordeste;Carolina;Roupas e Acessórios;3022,42;3626,90
+14/10/2012;Centro;Roberto;Cine e Foto;3823,98;4588,78
+14/10/2012;Centro;Simone;Cama, Mesa e Banho;2355,53;2826,64
+16/10/2012;Centro;João Carlos;Esporte e Lazer;4632,07;5558,48
+17/10/2012;Centro;Carolina;Utilidades Domésticas;825,38;990,46
+18/10/2012;Norte;Roberto;Roupas e Acessórios;1808,20;2169,84
+18/10/2012;Sudeste;Ricardo;Roupas e Acessórios;4064,28;4877,14
+19/10/2012;Centro;Roberto;Cama, Mesa e Banho;3482,28;4178,74
+20/10/2012;Leste;Roberto;Eletrodomésticos;2505,28;3006,34
+20/10/2012;Nordeste;Carolina;Móveis e Decoração;2090,92;2509,10
+20/10/2012;Nordeste;Simone;Eletrodomésticos;3779,58;4535,50
+22/10/2012;Nordeste;Ricardo;Casa e Construção;1627,78;1953,34
+23/10/2012;Sudeste;João Carlos;Casa e Construção;2626,37;3151,64
+23/10/2012;Sudeste;Carolina;Roupas e Acessórios;4552,80;5463,36
+26/10/2012;Oeste;João Carlos;Móveis e Decoração;687,35;824,82
+27/10/2012;Oeste;Carolina;Eletrodomésticos;4406,52;5287,82
+27/10/2012;Oeste;João Carlos;Móveis e Decoração;2335,90;2803,08
+30/10/2012;Leste;Carolina;Móveis e Decoração;4171,57;5005,88
+30/10/2012;Sul;Ana Maria;Eletrodomésticos;2130,76;2556,91
+31/10/2012;Sul;Carolina;Casa e Construção;3945,17;4734,20
+31/10/2012;Nordeste;João Carlos;Cama, Mesa e Banho;4885,09;5862,11
+31/10/2012;Sudeste;Adriana;Roupas e Acessórios;372,13;446,56
+01/11/2012;Nordeste;Ana Maria;Esporte e Lazer;2634,63;3161,56
+02/11/2012;Sul;Carolina;Eletrodomésticos;2695,82;3234,98
+02/11/2012;Oeste;Carolina;Cine e Foto;1068,13;1281,76
+02/11/2012;Sudeste;José Luiz;Cine e Foto;922,89;1107,47
+03/11/2012;Oeste;Simone;Roupas e Acessórios;4567,65;5481,18
+05/11/2012;Sudeste;Adriana;Eletrodomésticos;1157,29;1388,75
+05/11/2012;Centro;Simone;Móveis e Decoração;4453,11;5343,73
+06/11/2012;Nordeste;Ana Maria;Cama, Mesa e Banho;1231,59;1477,91
+07/11/2012;Centro;José Luiz;Utilidades Domésticas;4466,03;5359,24
+07/11/2012;Sul;Simone;Roupas e Acessórios;632,49;758,99
+08/11/2012;Centro;João Carlos;Casa e Construção;3959,83;4751,80
+09/11/2012;Sudeste;Carolina;Utilidades Domésticas;203,19;243,83
+09/11/2012;Nordeste;Ana Maria;Esporte e Lazer;4188,85;5026,62
+10/11/2012;Norte;Roberto;Eletrônicos;2925,83;3511,00
+10/11/2012;Norte;Ricardo;Esporte e Lazer;2627,22;3152,66
+10/11/2012;Sudeste;Ricardo;Esporte e Lazer;4746,05;5695,26
+10/11/2012;Centro;Ricardo;Eletrodomésticos;4768,88;5722,66
+12/11/2012;Sudeste;Simone;Roupas e Acessórios;2121,38;2545,66
+15/11/2012;Sul;Ricardo;Cama, Mesa e Banho;3939,41;4727,29
+15/11/2012;Centro;João Carlos;Roupas e Acessórios;1461,83;1754,20
+15/11/2012;Nordeste;Ricardo;Roupas e Acessórios;610,53;732,64
+15/11/2012;Leste;José Luiz;Eletrodomésticos;1073,96;1288,75
+16/11/2012;Sul;Carolina;Eletrônicos;1629,63;1955,56
+16/11/2012;Centro;Simone;Cine e Foto;3852,87;4623,44
+17/11/2012;Norte;João Carlos;Eletrodomésticos;4853,87;5824,64
+17/11/2012;Sudeste;Adriana;Casa e Construção;3532,74;4239,29
+18/11/2012;Sudeste;Ana Maria;Cine e Foto;1250,31;1500,37
+18/11/2012;Nordeste;João Carlos;Utilidades Domésticas;4871,46;5845,75
+19/11/2012;Sul;Carolina;Utilidades Domésticas;1204,65;1445,58
+19/11/2012;Norte;Carolina;Casa e Construção;1841,16;2209,39
+19/11/2012;Sudeste;Ana Maria;Casa e Construção;2166,59;2599,91
+22/11/2012;Nordeste;João Carlos;Eletrodomésticos;3619,59;4343,51
+22/11/2012;Centro;João Carlos;Eletrônicos;3544,54;4253,45
+23/11/2012;Sul;José Luiz;Eletrônicos;663,47;796,16
+24/11/2012;Sul;Ricardo;Utilidades Domésticas;1562,32;1874,78
+24/11/2012;Nordeste;Ana Maria;Cine e Foto;3853,79;4624,55
+25/11/2012;Sul;João Carlos;Móveis e Decoração;1390,20;1668,24
+27/11/2012;Centro;João Carlos;Utilidades Domésticas;2169,39;2603,27
+27/11/2012;Sudeste;Carolina;Casa e Construção;1553,43;1864,12
+29/11/2012;Norte;Ricardo;Esporte e Lazer;782,08;938,50
+30/11/2012;Oeste;João Carlos;Cama, Mesa e Banho;4683,76;5620,51
+30/11/2012;Nordeste;Ana Maria;Eletrodomésticos;640,33;768,40
+30/11/2012;Oeste;Carolina;Cine e Foto;3847,90;4617,48
+01/12/2012;Nordeste;Ricardo;Utilidades Domésticas;4704,83;5645,80
+02/12/2012;Sul;Adriana;Cama, Mesa e Banho;3243,02;3891,62
+02/12/2012;Norte;Ricardo;Utilidades Domésticas;4583,83;5500,60
+04/12/2012;Nordeste;Roberto;Esporte e Lazer;616,54;739,85
+05/12/2012;Centro;João Carlos;Casa e Construção;4006,26;4807,51
+05/12/2012;Oeste;Ana Maria;Esporte e Lazer;1860,50;2232,60
+06/12/2012;Sudeste;Ricardo;Roupas e Acessórios;1950,20;2340,24
+06/12/2012;Centro;João Carlos;Esporte e Lazer;3512,03;4214,44
+06/12/2012;Sudeste;João Carlos;Móveis e Decoração;2146,00;2575,20
+06/12/2012;Nordeste;Ricardo;Móveis e Decoração;2967,96;3561,55
+08/12/2012;Sul;Ana Maria;Roupas e Acessórios;1796,14;2155,37
+09/12/2012;Sul;José Luiz;Casa e Construção;455,64;546,77
+11/12/2012;Sudeste;João Carlos;Eletrônicos;620,24;744,29
+13/12/2012;Nordeste;José Luiz;Utilidades Domésticas;3951,76;4742,11
+15/12/2012;Oeste;Carolina;Esporte e Lazer;2219,66;2663,59
+15/12/2012;Leste;José Luiz;Móveis e Decoração;488,64;586,37
+15/12/2012;Leste;Adriana;Roupas e Acessórios;3572,21;4286,65
+16/12/2012;Nordeste;Adriana;Roupas e Acessórios;1976,97;2372,36
+17/12/2012;Centro;Carolina;Utilidades Domésticas;349,17;419,00
+17/12/2012;Sudeste;Ricardo;Utilidades Domésticas;2511,18;3013,42
+18/12/2012;Sudeste;Adriana;Eletrodomésticos;3787,29;4544,75
+18/12/2012;Nordeste;Ricardo;Eletrônicos;947,43;1136,92
+18/12/2012;Sul;Carolina;Cine e Foto;3786,81;4544,17
+19/12/2012;Norte;Roberto;Esporte e Lazer;4993,76;5992,51
+19/12/2012;Sudeste;Roberto;Cama, Mesa e Banho;1797,39;2156,87
+20/12/2012;Nordeste;Carolina;Eletrodomésticos;4520,38;5424,46
+21/12/2012;Centro;João Carlos;Eletrônicos;1600,91;1921,09
+21/12/2012;Oeste;Ricardo;Roupas e Acessórios;4824,95;5789,94
+21/12/2012;Sudeste;Ana Maria;Eletrodomésticos;2948,48;3538,18
+21/12/2012;Oeste;Simone;Eletrodomésticos;4484,44;5381,33
+22/12/2012;Sul;João Carlos;Cama, Mesa e Banho;4320,30;5184,36
+22/12/2012;Oeste;João Carlos;Esporte e Lazer;2382,45;2858,94
+23/12/2012;Sul;Ricardo;Eletrônicos;3672,69;4407,23
+24/12/2012;Leste;João Carlos;Utilidades Domésticas;1472,99;1767,59
+24/12/2012;Oeste;José Luiz;Eletrônicos;3102,22;3722,66
+25/12/2012;Sudeste;José Luiz;Roupas e Acessórios;2551,61;3061,93
+26/12/2012;Sudeste;Adriana;Cama, Mesa e Banho;2177,25;2612,70
+26/12/2012;Leste;Ana Maria;Cine e Foto;4139,64;4967,57
+27/12/2012;Centro;Carolina;Cine e Foto;1754,48;2105,38
+27/12/2012;Nordeste;Ana Maria;Casa e Construção;4467,90;5361,48
+27/12/2012;Norte;Ricardo;Casa e Construção;1633,15;1959,78
+27/12/2012;Norte;Carolina;Móveis e Decoração;4719,99;5663,99
+29/12/2012;Sudeste;Carolina;Casa e Construção;797,92;957,50
+31/12/2012;Sudeste;Ricardo;Móveis e Decoração;3587,04;4304,45
+31/12/2012;Sul;João Carlos;Utilidades Domésticas;1902,73;2283,28
+31/12/2012;Sudeste;João Carlos;Casa e Construção;1979,38;2375,26
+31/12/2012;Oeste;Ricardo;Eletrodomésticos;2793,50;3352,20
+01/01/2013;Sudeste;Carolina;Móveis e Decoração;3856,93;4628,32
+01/01/2013;Nordeste;Ana Maria;Casa e Construção;1511,34;1813,61
+02/01/2013;Norte;José Luiz;Eletrodomésticos;1373,31;1647,97
+06/01/2013;Centro;João Carlos;Cama, Mesa e Banho;4933,73;5920,48
+06/01/2013;Sudeste;João Carlos;Roupas e Acessórios;1819,30;2183,16
+07/01/2013;Sudeste;José Luiz;Móveis e Decoração;3771,39;4525,67
+08/01/2013;Norte;Ana Maria;Esporte e Lazer;2618,03;3141,64
+08/01/2013;Nordeste;Ana Maria;Eletrodomésticos;2489,56;2987,47
+09/01/2013;Sudeste;Adriana;Móveis e Decoração;1986,20;2383,44
+09/01/2013;Sul;Carolina;Cine e Foto;4708,44;5650,13
+10/01/2013;Sudeste;Carolina;Eletrodomésticos;1989,91;2387,89
+12/01/2013;Nordeste;Carolina;Eletrônicos;2927,08;3512,50
+12/01/2013;Sul;Ricardo;Roupas e Acessórios;3706,90;4448,28
+13/01/2013;Norte;Ana Maria;Cama, Mesa e Banho;1579,08;1894,90
+13/01/2013;Nordeste;Ana Maria;Eletrodomésticos;2537,90;3045,48
+13/01/2013;Leste;Roberto;Cama, Mesa e Banho;1682,69;2019,23
+14/01/2013;Nordeste;Carolina;Roupas e Acessórios;3067,08;3680,50
+14/01/2013;Sul;João Carlos;Esporte e Lazer;3576,58;4291,90
+16/01/2013;Sul;Adriana;Roupas e Acessórios;242,22;290,66
+16/01/2013;Nordeste;Ricardo;Cama, Mesa e Banho;2192,30;2630,76
+17/01/2013;Leste;Ricardo;Cine e Foto;1139,67;1367,60
+18/01/2013;Sudeste;José Luiz;Eletrônicos;1904,57;2285,48
+18/01/2013;Centro;Carolina;Móveis e Decoração;1302,67;1563,20
+21/01/2013;Sul;Ana Maria;Utilidades Domésticas;4363,67;5236,40
+21/01/2013;Nordeste;João Carlos;Eletrônicos;4437,99;5325,59
+21/01/2013;Sudeste;Carolina;Eletrodomésticos;2469,32;2963,18
+21/01/2013;Nordeste;João Carlos;Cama, Mesa e Banho;4369,27;5243,12
+21/01/2013;Nordeste;José Luiz;Roupas e Acessórios;1336,45;1603,74
+22/01/2013;Sul;Ana Maria;Utilidades Domésticas;3832,28;4598,74
+22/01/2013;Centro;Carolina;Móveis e Decoração;4853,39;5824,07
+23/01/2013;Nordeste;Adriana;Cama, Mesa e Banho;1501,83;1802,20
+26/01/2013;Sul;Simone;Casa e Construção;2131,37;2557,64
+27/01/2013;Oeste;Carolina;Roupas e Acessórios;2459,06;2950,87
+29/01/2013;Sul;Roberto;Casa e Construção;1620,12;1944,14
+30/01/2013;Sudeste;Ana Maria;Móveis e Decoração;1854,25;2225,10
+30/01/2013;Oeste;Ricardo;Eletrônicos;4917,73;5901,28
+01/02/2013;Norte;Ricardo;Eletrônicos;3650,87;4381,04
+01/02/2013;Oeste;Ricardo;Eletrônicos;3703,95;4444,74
+01/02/2013;Sul;Ricardo;Utilidades Domésticas;4638,97;5566,76
+03/02/2013;Sudeste;Simone;Cine e Foto;1241,80;1490,16
+05/02/2013;Norte;João Carlos;Esporte e Lazer;2790,42;3348,50
+06/02/2013;Centro;Adriana;Cine e Foto;2298,61;2758,33
+06/02/2013;Sul;Ana Maria;Esporte e Lazer;1389,45;1667,34
+08/02/2013;Sul;João Carlos;Móveis e Decoração;3004,08;3604,90
+08/02/2013;Sul;Ana Maria;Eletrônicos;995,55;1194,66
+09/02/2013;Nordeste;Ana Maria;Utilidades Domésticas;1657,84;1989,41
+09/02/2013;Oeste;Ricardo;Roupas e Acessórios;4089,60;4907,52
+11/02/2013;Nordeste;Adriana;Móveis e Decoração;4559,64;5471,57
+12/02/2013;Oeste;Adriana;Móveis e Decoração;1754,37;2105,24
+13/02/2013;Sudeste;João Carlos;Esporte e Lazer;1503,13;1803,76
+13/02/2013;Sudeste;João Carlos;Casa e Construção;1598,58;1918,30
+13/02/2013;Nordeste;Carolina;Esporte e Lazer;3402,64;4083,17
+14/02/2013;Nordeste;José Luiz;Cine e Foto;4090,00;4908,00
+14/02/2013;Sudeste;José Luiz;Roupas e Acessórios;2858,30;3429,96
+15/02/2013;Sudeste;Simone;Eletrônicos;919,33;1103,20
+16/02/2013;Leste;Roberto;Cine e Foto;4644,17;5573,00
+18/02/2013;Norte;João Carlos;Esporte e Lazer;2596,18;3115,42
+19/02/2013;Oeste;Adriana;Cine e Foto;438,34;526,01
+19/02/2013;Nordeste;Ricardo;Móveis e Decoração;2223,01;2667,61
+19/02/2013;Centro;João Carlos;Eletrônicos;3057,71;3669,25
+21/02/2013;Norte;João Carlos;Roupas e Acessórios;2272,61;2727,13
+22/02/2013;Leste;Roberto;Utilidades Domésticas;642,36;770,83
+22/02/2013;Centro;Ana Maria;Eletrônicos;2411,37;2893,64
+23/02/2013;Nordeste;João Carlos;Cama, Mesa e Banho;398,43;478,12
+24/02/2013;Norte;João Carlos;Cine e Foto;3970,12;4764,14
+25/02/2013;Centro;Ricardo;Cama, Mesa e Banho;1384,34;1661,21
+25/02/2013;Sul;João Carlos;Móveis e Decoração;2844,48;3413,38
+27/02/2013;Sudeste;Carolina;Eletrodomésticos;3192,37;3830,84
+27/02/2013;Centro;João Carlos;Eletrônicos;529,35;635,22
+27/02/2013;Sudeste;João Carlos;Utilidades Domésticas;1785,15;2142,18
+28/02/2013;Nordeste;Adriana;Eletrodomésticos;1540,73;1848,88
+28/02/2013;Leste;Carolina;Utilidades Domésticas;1300,50;1560,60
+01/03/2013;Nordeste;Roberto;Eletrônicos;1000,99;1201,19
+01/03/2013;Sudeste;João Carlos;Roupas e Acessórios;1569,44;1883,33
+01/03/2013;Sul;Adriana;Cama, Mesa e Banho;3461,42;4153,70
+01/03/2013;Centro;Ana Maria;Casa e Construção;2400,97;2881,16
+02/03/2013;Sul;Carolina;Eletrodomésticos;4123,99;4948,79
+03/03/2013;Sul;Simone;Esporte e Lazer;3463,13;4155,76
+03/03/2013;Leste;Roberto;Esporte e Lazer;2388,21;2865,85
+04/03/2013;Nordeste;João Carlos;Casa e Construção;4129,78;4955,74
+05/03/2013;Centro;Adriana;Utilidades Domésticas;1935,67;2322,80
+05/03/2013;Centro;João Carlos;Esporte e Lazer;1053,45;1264,14
+05/03/2013;Sudeste;Ana Maria;Utilidades Domésticas;4408,91;5290,69
+05/03/2013;Oeste;Ana Maria;Casa e Construção;1403,26;1683,91
+06/03/2013;Leste;Adriana;Esporte e Lazer;730,31;876,37
+06/03/2013;Centro;Simone;Cine e Foto;1327,42;1592,90
+06/03/2013;Sul;Ricardo;Casa e Construção;4340,78;5208,94
+06/03/2013;Centro;Carolina;Esporte e Lazer;1351,20;1621,44
+06/03/2013;Leste;José Luiz;Esporte e Lazer;3818,55;4582,26
+08/03/2013;Oeste;Carolina;Cine e Foto;2361,82;2834,18
+08/03/2013;Leste;João Carlos;Eletrônicos;3529,91;4235,89
+09/03/2013;Sul;José Luiz;Casa e Construção;3983,98;4780,78
+09/03/2013;Centro;Ricardo;Utilidades Domésticas;1488,27;1785,92
+09/03/2013;Sudeste;Ricardo;Eletrodomésticos;544,78;653,74
+10/03/2013;Centro;Carolina;Móveis e Decoração;1454,22;1745,06
+12/03/2013;Sudeste;Roberto;Móveis e Decoração;2289,76;2747,71
+12/03/2013;Sudeste;Simone;Cama, Mesa e Banho;1991,42;2389,70
+12/03/2013;Nordeste;Roberto;Cama, Mesa e Banho;3825,30;4590,36
+12/03/2013;Leste;Carolina;Utilidades Domésticas;3949,07;4738,88
+12/03/2013;Nordeste;Ana Maria;Utilidades Domésticas;4093,65;4912,38
+13/03/2013;Oeste;José Luiz;Esporte e Lazer;2763,18;3315,82
+13/03/2013;Nordeste;Ana Maria;Casa e Construção;1140,54;1368,65
+14/03/2013;Nordeste;Carolina;Utilidades Domésticas;3569,65;4283,58
+15/03/2013;Leste;Carolina;Cine e Foto;1980,32;2376,38
+17/03/2013;Oeste;Carolina;Cama, Mesa e Banho;4465,89;5359,07
+17/03/2013;Leste;Adriana;Móveis e Decoração;3390,33;4068,40
+18/03/2013;Oeste;José Luiz;Utilidades Domésticas;2987,23;3584,68
+18/03/2013;Nordeste;Roberto;Cama, Mesa e Banho;4958,23;5949,88
+18/03/2013;Sudeste;Ricardo;Móveis e Decoração;3527,11;4232,53
+18/03/2013;Centro;Carolina;Roupas e Acessórios;782,09;938,51
+20/03/2013;Leste;João Carlos;Casa e Construção;3125,43;3750,52
+20/03/2013;Nordeste;Carolina;Cama, Mesa e Banho;2313,67;2776,40
+20/03/2013;Sul;Ana Maria;Esporte e Lazer;965,20;1158,24
+20/03/2013;Leste;Ana Maria;Eletrônicos;453,42;544,10
+20/03/2013;Oeste;João Carlos;Eletrônicos;2262,50;2715,00
+21/03/2013;Leste;Ana Maria;Móveis e Decoração;1524,02;1828,82
+21/03/2013;Sul;Roberto;Roupas e Acessórios;886,51;1063,81
+22/03/2013;Leste;Ana Maria;Eletrodomésticos;3726,60;4471,92
+22/03/2013;Norte;Ricardo;Eletrodomésticos;551,47;661,76
+23/03/2013;Sudeste;Ana Maria;Cama, Mesa e Banho;1235,22;1482,26
+24/03/2013;Sul;Ana Maria;Esporte e Lazer;404,22;485,06
+25/03/2013;Sudeste;José Luiz;Roupas e Acessórios;2846,26;3415,51
+25/03/2013;Centro;Ricardo;Eletrônicos;3618,03;4341,64
+26/03/2013;Norte;Adriana;Utilidades Domésticas;4677,70;5613,24
+27/03/2013;Sudeste;José Luiz;Utilidades Domésticas;4742,43;5690,92
+28/03/2013;Sudeste;Ana Maria;Eletrodomésticos;3990,10;4788,12
+29/03/2013;Centro;Simone;Eletrodomésticos;1714,12;2056,94
+30/03/2013;Nordeste;Ricardo;Cama, Mesa e Banho;3200,11;3840,13
+30/03/2013;Sudeste;João Carlos;Cine e Foto;1311,36;1573,63
+31/03/2013;Nordeste;Carolina;Casa e Construção;3778,14;4533,77
+31/03/2013;Oeste;João Carlos;Esporte e Lazer;2677,40;3212,88
+02/04/2013;Leste;João Carlos;Eletrônicos;1186,79;1424,15
+03/04/2013;Oeste;Ricardo;Cama, Mesa e Banho;269,27;323,12
+03/04/2013;Sudeste;Adriana;Cama, Mesa e Banho;576,74;692,09
+05/04/2013;Oeste;Ana Maria;Roupas e Acessórios;3358,46;4030,15
+05/04/2013;Norte;Carolina;Utilidades Domésticas;1358,72;1630,46
+06/04/2013;Sudeste;Ana Maria;Cine e Foto;4649,75;5579,70
+06/04/2013;Sudeste;Ricardo;Esporte e Lazer;4120,75;4944,90
+08/04/2013;Sudeste;Ricardo;Móveis e Decoração;3469,77;4163,72
+09/04/2013;Sul;Adriana;Roupas e Acessórios;2364,34;2837,21
+09/04/2013;Centro;Simone;Roupas e Acessórios;3127,70;3753,24
+10/04/2013;Sudeste;José Luiz;Móveis e Decoração;4057,10;4868,52
+10/04/2013;Nordeste;João Carlos;Cama, Mesa e Banho;2624,51;3149,41
+11/04/2013;Sudeste;Simone;Utilidades Domésticas;4929,46;5915,35
+11/04/2013;Norte;Ricardo;Eletrônicos;4344,34;5213,21
+11/04/2013;Sul;Roberto;Cama, Mesa e Banho;4907,47;5888,96
+12/04/2013;Centro;João Carlos;Esporte e Lazer;2188,70;2626,44
+12/04/2013;Sul;Ana Maria;Casa e Construção;1188,78;1426,54
+12/04/2013;Norte;Ana Maria;Cine e Foto;2704,20;3245,04
+12/04/2013;Leste;João Carlos;Roupas e Acessórios;1506,41;1807,69
+12/04/2013;Norte;Carolina;Cama, Mesa e Banho;4577,03;5492,44
+12/04/2013;Sudeste;Ana Maria;Eletrodomésticos;4756,44;5707,73
+13/04/2013;Sul;Adriana;Cama, Mesa e Banho;3511,06;4213,27
+14/04/2013;Norte;Ana Maria;Cama, Mesa e Banho;3154,29;3785,15
+15/04/2013;Nordeste;Ricardo;Cama, Mesa e Banho;4551,89;5462,27
+15/04/2013;Oeste;Ana Maria;Casa e Construção;945,04;1134,05
+16/04/2013;Oeste;Adriana;Roupas e Acessórios;1908,82;2290,58
+17/04/2013;Norte;João Carlos;Eletrônicos;229,51;275,41
+17/04/2013;Nordeste;Ana Maria;Esporte e Lazer;1397,74;1677,29
+18/04/2013;Nordeste;Adriana;Móveis e Decoração;1037,55;1245,06
+18/04/2013;Leste;Carolina;Eletrodomésticos;4953,42;5944,10
+19/04/2013;Nordeste;Carolina;Eletrônicos;1927,70;2313,24
+19/04/2013;Centro;José Luiz;Utilidades Domésticas;4332,10;5198,52
+20/04/2013;Nordeste;Carolina;Casa e Construção;2760,57;3312,68
+20/04/2013;Nordeste;Ricardo;Eletrônicos;4448,25;5337,90
+21/04/2013;Sudeste;Carolina;Cine e Foto;2040,17;2448,20
+22/04/2013;Sudeste;Carolina;Utilidades Domésticas;1667,99;2001,59
+22/04/2013;Leste;Carolina;Cama, Mesa e Banho;768,53;922,24
+22/04/2013;Leste;Roberto;Eletrônicos;3261,12;3913,34
+23/04/2013;Sudeste;Carolina;Eletrodomésticos;4726,81;5672,17
+23/04/2013;Nordeste;Adriana;Casa e Construção;2397,27;2876,72
+23/04/2013;Sudeste;Simone;Cama, Mesa e Banho;4476,76;5372,11
+24/04/2013;Sudeste;Carolina;Roupas e Acessórios;1975,85;2371,02
+25/04/2013;Leste;Carolina;Cama, Mesa e Banho;1762,27;2114,72
+25/04/2013;Sul;Roberto;Cama, Mesa e Banho;3252,69;3903,23
+25/04/2013;Centro;José Luiz;Casa e Construção;3748,03;4497,64
+26/04/2013;Sudeste;José Luiz;Eletrodomésticos;1778,62;2134,34
+28/04/2013;Sul;João Carlos;Esporte e Lazer;1817,65;2181,18
+28/04/2013;Nordeste;Carolina;Cama, Mesa e Banho;3615,02;4338,02
+28/04/2013;Centro;Carolina;Cine e Foto;3708,59;4450,31
+29/04/2013;Sudeste;Carolina;Cine e Foto;3182,97;3819,56
+30/04/2013;Sudeste;Adriana;Utilidades Domésticas;1914,42;2297,30
+30/04/2013;Sudeste;Ana Maria;Eletrodomésticos;4918,79;5902,55
+30/04/2013;Sudeste;João Carlos;Casa e Construção;2854,29;3425,15
+30/04/2013;Sul;Adriana;Cama, Mesa e Banho;3892,05;4670,46
+01/05/2013;Nordeste;Carolina;Eletrodomésticos;4704,27;5645,12
+01/05/2013;Nordeste;Ricardo;Eletrônicos;1728,35;2074,02
+01/05/2013;Sudeste;José Luiz;Roupas e Acessórios;4162,81;4995,37
+02/05/2013;Sudeste;João Carlos;Roupas e Acessórios;2422,32;2906,78
+03/05/2013;Sudeste;João Carlos;Roupas e Acessórios;2850,03;3420,04
+04/05/2013;Norte;Carolina;Utilidades Domésticas;503,41;604,09
+04/05/2013;Nordeste;Carolina;Utilidades Domésticas;3417,07;4100,48
+04/05/2013;Centro;Ana Maria;Móveis e Decoração;3207,49;3848,99
+04/05/2013;Centro;Carolina;Utilidades Domésticas;3380,07;4056,08
+05/05/2013;Norte;Roberto;Utilidades Domésticas;1199,19;1439,03
+05/05/2013;Oeste;Adriana;Utilidades Domésticas;807,19;968,63
+05/05/2013;Centro;João Carlos;Eletrônicos;2549,98;3059,98
+06/05/2013;Sul;Adriana;Eletrônicos;4826,20;5791,44
+06/05/2013;Sudeste;Carolina;Esporte e Lazer;711,66;853,99
+06/05/2013;Sul;Ricardo;Roupas e Acessórios;608,84;730,61
+06/05/2013;Sudeste;João Carlos;Casa e Construção;2924,86;3509,83
+07/05/2013;Sul;João Carlos;Roupas e Acessórios;1333,99;1600,79
+07/05/2013;Centro;Carolina;Utilidades Domésticas;4141,03;4969,24
+07/05/2013;Leste;Carolina;Utilidades Domésticas;3745,34;4494,41
+08/05/2013;Nordeste;Ricardo;Cama, Mesa e Banho;1794,76;2153,71
+08/05/2013;Leste;José Luiz;Cine e Foto;550,43;660,52
+10/05/2013;Sul;Ricardo;Cama, Mesa e Banho;1832,15;2198,58
+10/05/2013;Norte;Ricardo;Eletrônicos;2234,30;2681,16
+11/05/2013;Sudeste;João Carlos;Casa e Construção;4371,09;5245,31
+12/05/2013;Nordeste;Ricardo;Cine e Foto;2861,78;3434,14
+13/05/2013;Sudeste;João Carlos;Utilidades Domésticas;566,97;680,36
+14/05/2013;Centro;José Luiz;Eletrônicos;2767,64;3321,17
+14/05/2013;Centro;Ricardo;Casa e Construção;2514,83;3017,80
+15/05/2013;Sul;Adriana;Móveis e Decoração;529,65;635,58
+15/05/2013;Centro;Ana Maria;Cine e Foto;855,30;1026,36
+15/05/2013;Centro;Carolina;Cama, Mesa e Banho;3538,91;4246,69
+17/05/2013;Norte;José Luiz;Esporte e Lazer;1930,17;2316,20
+18/05/2013;Leste;Ricardo;Cine e Foto;2765,24;3318,29
+18/05/2013;Nordeste;Carolina;Casa e Construção;1072,35;1286,82
+18/05/2013;Nordeste;Carolina;Roupas e Acessórios;1434,99;1721,99
+18/05/2013;Oeste;Ana Maria;Eletrodomésticos;3959,83;4751,80
+18/05/2013;Sul;João Carlos;Eletrônicos;3439,41;4127,29
+19/05/2013;Centro;Carolina;Casa e Construção;3854,78;4625,74
+19/05/2013;Sul;Ana Maria;Eletrodomésticos;3852,77;4623,32
+19/05/2013;Sul;Carolina;Cine e Foto;4428,47;5314,16
+19/05/2013;Sul;João Carlos;Cama, Mesa e Banho;4135,47;4962,56
+20/05/2013;Leste;João Carlos;Esporte e Lazer;1492,10;1790,52
+20/05/2013;Centro;José Luiz;Móveis e Decoração;2503,11;3003,73
+21/05/2013;Leste;Ricardo;Eletrodomésticos;4995,29;5994,35
+21/05/2013;Sul;João Carlos;Cama, Mesa e Banho;2708,99;3250,79
+22/05/2013;Leste;José Luiz;Eletrônicos;4701,00;5641,20
+24/05/2013;Sudeste;Ana Maria;Esporte e Lazer;310,77;372,92
+27/05/2013;Norte;Adriana;Eletrodomésticos;892,54;1071,05
+27/05/2013;Sudeste;José Luiz;Roupas e Acessórios;304,19;365,03
+29/05/2013;Sudeste;José Luiz;Esporte e Lazer;2417,03;2900,44
+29/05/2013;Leste;Ana Maria;Cine e Foto;4757,74;5709,29
+29/05/2013;Oeste;João Carlos;Casa e Construção;1954,79;2345,75
+01/06/2013;Norte;José Luiz;Eletrodomésticos;2268,84;2722,61
+01/06/2013;Sudeste;Carolina;Esporte e Lazer;1158,42;1390,10
+01/06/2013;Leste;João Carlos;Eletrodomésticos;368,14;441,77
+02/06/2013;Sul;Roberto;Cine e Foto;1784,33;2141,20
+03/06/2013;Nordeste;João Carlos;Cama, Mesa e Banho;3247,26;3896,71
+03/06/2013;Nordeste;José Luiz;Móveis e Decoração;3364,84;4037,81
+03/06/2013;Sudeste;Ana Maria;Eletrodomésticos;4717,35;5660,82
+04/06/2013;Sudeste;Carolina;Eletrônicos;3630,21;4356,25
+04/06/2013;Sudeste;Adriana;Eletrônicos;4765,44;5718,53
+04/06/2013;Norte;Ana Maria;Eletrônicos;3839,72;4607,66
+04/06/2013;Oeste;Roberto;Cine e Foto;3489,16;4186,99
+04/06/2013;Centro;Ana Maria;Casa e Construção;2676,73;3212,08
+06/06/2013;Nordeste;Carolina;Eletrodomésticos;3340,32;4008,38
+07/06/2013;Sudeste;Carolina;Esporte e Lazer;2346,95;2816,34
+08/06/2013;Sudeste;Ana Maria;Casa e Construção;253,91;304,69
+08/06/2013;Sul;Adriana;Casa e Construção;3383,87;4060,64
+09/06/2013;Centro;João Carlos;Cine e Foto;3453,70;4144,44
+10/06/2013;Sul;Simone;Casa e Construção;3788,01;4545,61
+10/06/2013;Sudeste;Carolina;Utilidades Domésticas;3469,30;4163,16
+10/06/2013;Sul;Adriana;Eletrodomésticos;510,23;612,28
+11/06/2013;Centro;Carolina;Casa e Construção;2110,33;2532,40
+11/06/2013;Centro;Ricardo;Eletrodomésticos;1514,32;1817,18
+11/06/2013;Nordeste;Ana Maria;Esporte e Lazer;209,24;251,09
+11/06/2013;Sul;Carolina;Casa e Construção;4278,13;5133,76
+11/06/2013;Centro;Carolina;Utilidades Domésticas;1258,49;1510,19
+12/06/2013;Sudeste;José Luiz;Casa e Construção;3118,88;3742,66
+14/06/2013;Sudeste;Simone;Eletrônicos;3892,84;4671,41
+15/06/2013;Leste;João Carlos;Casa e Construção;4652,36;5582,83
+15/06/2013;Sudeste;Ricardo;Roupas e Acessórios;1150,69;1380,83
+16/06/2013;Centro;Ana Maria;Roupas e Acessórios;3830,63;4596,76
+16/06/2013;Nordeste;Roberto;Móveis e Decoração;3747,92;4497,50
+16/06/2013;Centro;Ricardo;Eletrodomésticos;1585,44;1902,53
+16/06/2013;Sudeste;Adriana;Eletrodomésticos;2246,30;2695,56
+17/06/2013;Centro;Roberto;Casa e Construção;1798,26;2157,91
+17/06/2013;Norte;Carolina;Eletrodomésticos;4083,32;4899,98
+18/06/2013;Centro;Carolina;Eletrônicos;2753,01;3303,61
+18/06/2013;Nordeste;Ricardo;Eletrônicos;981,66;1177,99
+19/06/2013;Nordeste;Roberto;Móveis e Decoração;2287,59;2745,11
+20/06/2013;Sudeste;Carolina;Roupas e Acessórios;4413,18;5295,82
+21/06/2013;Sudeste;Simone;Utilidades Domésticas;3738,96;4486,75
+22/06/2013;Leste;João Carlos;Casa e Construção;3745,08;4494,10
+24/06/2013;Sudeste;Carolina;Cama, Mesa e Banho;2916,08;3499,30
+25/06/2013;Sudeste;Simone;Roupas e Acessórios;3865,04;4638,05
+27/06/2013;Sudeste;João Carlos;Móveis e Decoração;2273,47;2728,16
+27/06/2013;Sudeste;Adriana;Móveis e Decoração;3781,94;4538,33
+28/06/2013;Sudeste;Carolina;Casa e Construção;3807,25;4568,70
+28/06/2013;Nordeste;Simone;Cine e Foto;4954,96;5945,95
+01/07/2013;Sudeste;Roberto;Móveis e Decoração;629,60;755,52
+01/07/2013;Centro;Ana Maria;Móveis e Decoração;849,79;1019,75
+03/07/2013;Nordeste;Ricardo;Esporte e Lazer;2270,20;2724,24
+03/07/2013;Leste;João Carlos;Móveis e Decoração;4899,67;5879,60
+05/07/2013;Leste;Simone;Móveis e Decoração;2794,99;3353,99
+08/07/2013;Sudeste;Carolina;Casa e Construção;2426,10;2911,32
+08/07/2013;Leste;João Carlos;Eletrodomésticos;2698,22;3237,86
+09/07/2013;Nordeste;Adriana;Esporte e Lazer;1475,03;1770,04
+11/07/2013;Nordeste;Adriana;Eletrodomésticos;856,62;1027,94
+13/07/2013;Sudeste;Ana Maria;Casa e Construção;490,12;588,14
+14/07/2013;Oeste;Ana Maria;Utilidades Domésticas;555,11;666,13
+14/07/2013;Sul;Roberto;Eletrônicos;3737,93;4485,52
+15/07/2013;Nordeste;Simone;Utilidades Domésticas;4274,98;5129,98
+17/07/2013;Sudeste;João Carlos;Eletrodomésticos;2012,71;2415,25
+17/07/2013;Oeste;João Carlos;Cama, Mesa e Banho;1888,18;2265,82
+17/07/2013;Centro;Carolina;Casa e Construção;1230,22;1476,26
+18/07/2013;Sudeste;João Carlos;Utilidades Domésticas;3604,47;4325,36
+18/07/2013;Nordeste;Carolina;Móveis e Decoração;3510,89;4213,07
+19/07/2013;Centro;Carolina;Cama, Mesa e Banho;4370,49;5244,59
+21/07/2013;Sudeste;João Carlos;Cama, Mesa e Banho;3191,16;3829,39
+22/07/2013;Norte;José Luiz;Cine e Foto;3974,17;4769,00
+22/07/2013;Leste;Simone;Esporte e Lazer;4490,99;5389,19
+23/07/2013;Oeste;João Carlos;Roupas e Acessórios;947,24;1136,69
+24/07/2013;Oeste;Simone;Cine e Foto;4613,52;5536,22
+24/07/2013;Sudeste;Carolina;Cine e Foto;2342,96;2811,55
+24/07/2013;Nordeste;Carolina;Roupas e Acessórios;2137,09;2564,51
+25/07/2013;Sul;Carolina;Utilidades Domésticas;3562,41;4274,89
+27/07/2013;Sul;João Carlos;Móveis e Decoração;306,16;367,39
+28/07/2013;Sudeste;João Carlos;Utilidades Domésticas;955,19;1146,23
+29/07/2013;Sul;Ricardo;Eletrodomésticos;1349,04;1618,85
+30/07/2013;Sul;Ricardo;Cama, Mesa e Banho;2474,96;2969,95
+30/07/2013;Sudeste;João Carlos;Eletrônicos;4425,21;5310,25
+01/08/2013;Leste;João Carlos;Cama, Mesa e Banho;3254,04;3904,85
+02/08/2013;Nordeste;Ana Maria;Eletrodomésticos;1283,47;1540,16
+02/08/2013;Nordeste;Ricardo;Esporte e Lazer;4999,70;5999,64
+03/08/2013;Sudeste;Carolina;Roupas e Acessórios;2051,46;2461,75
+03/08/2013;Norte;João Carlos;Móveis e Decoração;3429,55;4115,46
+03/08/2013;Sul;Ana Maria;Casa e Construção;3038,00;3645,60
+04/08/2013;Sudeste;Carolina;Casa e Construção;3140,14;3768,17
+04/08/2013;Oeste;Ana Maria;Casa e Construção;930,26;1116,31
+04/08/2013;Sudeste;Ricardo;Eletrodomésticos;2722,16;3266,59
+05/08/2013;Oeste;Carolina;Roupas e Acessórios;1812,12;2174,54
+05/08/2013;Nordeste;Simone;Eletrodomésticos;613,00;735,60
+06/08/2013;Norte;Carolina;Cama, Mesa e Banho;4499,90;5399,88
+10/08/2013;Nordeste;Ricardo;Roupas e Acessórios;2694,26;3233,11
+12/08/2013;Oeste;João Carlos;Eletrodomésticos;1268,30;1521,96
+12/08/2013;Sudeste;Ana Maria;Eletrodomésticos;3048,32;3657,98
+13/08/2013;Nordeste;João Carlos;Eletrônicos;4626,44;5551,73
+14/08/2013;Sudeste;João Carlos;Eletrodomésticos;4194,25;5033,10
+15/08/2013;Sudeste;Roberto;Utilidades Domésticas;1581,36;1897,63
+15/08/2013;Centro;Adriana;Cama, Mesa e Banho;2517,24;3020,69
+16/08/2013;Centro;Carolina;Utilidades Domésticas;4021,18;4825,42
+16/08/2013;Centro;Carolina;Cama, Mesa e Banho;275,37;330,44
+17/08/2013;Centro;João Carlos;Casa e Construção;3142,24;3770,69
+18/08/2013;Centro;Carolina;Casa e Construção;3983,32;4779,98
+19/08/2013;Nordeste;Ana Maria;Eletrodomésticos;788,98;946,78
+19/08/2013;Sudeste;João Carlos;Utilidades Domésticas;3084,78;3701,74
+19/08/2013;Sul;Ana Maria;Eletrônicos;1657,11;1988,53
+21/08/2013;Sudeste;João Carlos;Utilidades Domésticas;312,00;374,40
+23/08/2013;Sudeste;Carolina;Casa e Construção;2547,06;3056,47
+24/08/2013;Nordeste;Roberto;Cine e Foto;1433,86;1720,63
+24/08/2013;Sudeste;Ricardo;Cama, Mesa e Banho;2989,79;3587,75
+26/08/2013;Sul;Ricardo;Roupas e Acessórios;1092,77;1311,32
+26/08/2013;Sul;José Luiz;Cine e Foto;2515,57;3018,68
+26/08/2013;Nordeste;Ricardo;Eletrodomésticos;4930,12;5916,14
+27/08/2013;Leste;Roberto;Utilidades Domésticas;514,95;617,94
+28/08/2013;Leste;Simone;Eletrodomésticos;1064,44;1277,33
+28/08/2013;Sudeste;Adriana;Esporte e Lazer;4069,34;4883,21
+31/08/2013;Norte;Carolina;Roupas e Acessórios;1351,58;1621,90
+01/09/2013;Sudeste;João Carlos;Casa e Construção;949,22;1139,06
+02/09/2013;Sul;João Carlos;Eletrônicos;1294,81;1553,77
+03/09/2013;Sudeste;Ana Maria;Esporte e Lazer;3732,65;4479,18
+03/09/2013;Sul;João Carlos;Utilidades Domésticas;2496,61;2995,93
+03/09/2013;Nordeste;João Carlos;Roupas e Acessórios;2901,18;3481,42
+04/09/2013;Centro;Ricardo;Móveis e Decoração;813,58;976,30
+04/09/2013;Sudeste;João Carlos;Cine e Foto;4209,16;5050,99
+05/09/2013;Sudeste;Ricardo;Casa e Construção;1833,69;2200,43
+05/09/2013;Sudeste;Carolina;Casa e Construção;4254,65;5105,58
+06/09/2013;Centro;Ana Maria;Cama, Mesa e Banho;4100,39;4920,47
+06/09/2013;Centro;João Carlos;Móveis e Decoração;1213,74;1456,49
+07/09/2013;Sudeste;Simone;Cine e Foto;2980,40;3576,48
+08/09/2013;Sudeste;Ricardo;Casa e Construção;3506,37;4207,64
+08/09/2013;Centro;Ricardo;Cama, Mesa e Banho;1358,04;1629,65
+09/09/2013;Oeste;João Carlos;Esporte e Lazer;359,44;431,33
+10/09/2013;Norte;Carolina;Casa e Construção;2744,06;3292,87
+11/09/2013;Sudeste;Carolina;Esporte e Lazer;3394,34;4073,21
+12/09/2013;Sudeste;João Carlos;Cama, Mesa e Banho;1929,51;2315,41
+13/09/2013;Sudeste;Simone;Cine e Foto;2163,60;2596,32
+13/09/2013;Centro;João Carlos;Móveis e Decoração;1432,23;1718,68
+14/09/2013;Centro;Ricardo;Cine e Foto;2060,17;2472,20
+14/09/2013;Sul;Ricardo;Eletrônicos;4688,32;5625,98
+14/09/2013;Sul;Ana Maria;Cama, Mesa e Banho;1833,26;2199,91
+15/09/2013;Sudeste;Ana Maria;Roupas e Acessórios;4407,24;5288,69
+16/09/2013;Centro;Ricardo;Móveis e Decoração;1767,00;2120,40
+16/09/2013;Norte;Roberto;Roupas e Acessórios;4747,09;5696,51
+18/09/2013;Nordeste;João Carlos;Casa e Construção;3683,24;4419,89
+19/09/2013;Sudeste;Ricardo;Móveis e Decoração;882,33;1058,80
+19/09/2013;Sudeste;Ricardo;Esporte e Lazer;2537,86;3045,43
+19/09/2013;Sudeste;Roberto;Casa e Construção;1747,99;2097,59
+21/09/2013;Centro;Ricardo;Utilidades Domésticas;3668,36;4402,03
+21/09/2013;Centro;Simone;Casa e Construção;2663,05;3195,66
+21/09/2013;Leste;João Carlos;Casa e Construção;2754,84;3305,81
+21/09/2013;Sul;João Carlos;Utilidades Domésticas;3585,88;4303,06
+22/09/2013;Sudeste;Carolina;Cama, Mesa e Banho;3731,15;4477,38
+22/09/2013;Sudeste;João Carlos;Roupas e Acessórios;1542,49;1850,99
+23/09/2013;Sudeste;Ana Maria;Roupas e Acessórios;4646,92;5576,30
+23/09/2013;Sudeste;Carolina;Esporte e Lazer;4643,30;5571,96
+24/09/2013;Centro;Ana Maria;Cine e Foto;2832,70;3399,24
+24/09/2013;Centro;Ricardo;Esporte e Lazer;1323,98;1588,78
+24/09/2013;Centro;Ana Maria;Cama, Mesa e Banho;2321,36;2785,63
+26/09/2013;Centro;Carolina;Eletrodomésticos;2507,68;3009,22
+26/09/2013;Nordeste;Carolina;Esporte e Lazer;1067,55;1281,06
+27/09/2013;Nordeste;Ana Maria;Eletrônicos;2274,18;2729,02
+28/09/2013;Sudeste;Simone;Esporte e Lazer;4878,55;5854,26
+29/09/2013;Oeste;João Carlos;Móveis e Decoração;4518,36;5422,03
+29/09/2013;Oeste;Roberto;Eletrodomésticos;3750,60;4500,72
+30/09/2013;Sul;Ricardo;Casa e Construção;320,26;384,31
+30/09/2013;Oeste;João Carlos;Móveis e Decoração;3973,40;4768,08
+30/09/2013;Sudeste;Roberto;Roupas e Acessórios;3454,29;4145,15
+30/09/2013;Sudeste;Ricardo;Eletrônicos;3299,23;3959,08
+30/09/2013;Centro;José Luiz;Utilidades Domésticas;471,89;566,27
+02/10/2013;Nordeste;José Luiz;Utilidades Domésticas;2744,71;3293,65
+04/10/2013;Centro;Adriana;Roupas e Acessórios;423,50;508,20
+04/10/2013;Centro;João Carlos;Utilidades Domésticas;4848,00;5817,60
+05/10/2013;Leste;João Carlos;Esporte e Lazer;2302,62;2763,14
+05/10/2013;Oeste;Carolina;Cine e Foto;676,07;811,28
+05/10/2013;Sudeste;Ricardo;Cama, Mesa e Banho;2868,69;3442,43
+06/10/2013;Sudeste;Ricardo;Móveis e Decoração;1229,18;1475,02
+07/10/2013;Centro;Roberto;Utilidades Domésticas;568,10;681,72
+07/10/2013;Sudeste;Roberto;Esporte e Lazer;1763,42;2116,10
+07/10/2013;Sudeste;Ricardo;Utilidades Domésticas;3324,16;3988,99
+08/10/2013;Nordeste;Adriana;Eletrônicos;4288,33;5146,00
+09/10/2013;Nordeste;Carolina;Cama, Mesa e Banho;3127,14;3752,57
+11/10/2013;Centro;Carolina;Eletrodomésticos;2084,31;2501,17
+12/10/2013;Sudeste;Carolina;Casa e Construção;4128,71;4954,45
+16/10/2013;Sudeste;Ricardo;Roupas e Acessórios;941,20;1129,44
+16/10/2013;Centro;João Carlos;Utilidades Domésticas;3482,32;4178,78
+16/10/2013;Sul;Roberto;Cama, Mesa e Banho;3540,74;4248,89
+17/10/2013;Sudeste;Adriana;Roupas e Acessórios;3289,50;3947,40
+18/10/2013;Sul;Ricardo;Eletrodomésticos;995,62;1194,74
+19/10/2013;Sul;João Carlos;Casa e Construção;4331,39;5197,67
+20/10/2013;Nordeste;Carolina;Cine e Foto;4468,15;5361,78
+21/10/2013;Oeste;Adriana;Esporte e Lazer;2155,07;2586,08
+22/10/2013;Centro;Carolina;Utilidades Domésticas;398,59;478,31
+22/10/2013;Centro;José Luiz;Eletrônicos;1315,79;1578,95
+24/10/2013;Sul;Adriana;Cama, Mesa e Banho;4290,23;5148,28
+24/10/2013;Centro;Carolina;Cine e Foto;1309,30;1571,16
+25/10/2013;Leste;Adriana;Roupas e Acessórios;4838,39;5806,07
+25/10/2013;Nordeste;Adriana;Eletrodomésticos;4650,79;5580,95
+26/10/2013;Sudeste;João Carlos;Eletrônicos;4836,78;5804,14
+27/10/2013;Centro;Carolina;Eletrônicos;2062,13;2474,56
+27/10/2013;Norte;João Carlos;Utilidades Domésticas;959,80;1151,76
+29/10/2013;Norte;Ana Maria;Roupas e Acessórios;4030,93;4837,12
+30/10/2013;Sudeste;João Carlos;Casa e Construção;3646,07;4375,28
+30/10/2013;Sudeste;Ricardo;Utilidades Domésticas;348,53;418,24
+30/10/2013;Sul;Simone;Utilidades Domésticas;3429,08;4114,90
+30/10/2013;Nordeste;João Carlos;Eletrônicos;3524,90;4229,88
+30/10/2013;Centro;João Carlos;Cama, Mesa e Banho;2291,56;2749,87
+02/11/2013;Centro;Carolina;Roupas e Acessórios;1749,51;2099,41
+03/11/2013;Sudeste;João Carlos;Esporte e Lazer;2244,33;2693,20
+04/11/2013;Norte;Ana Maria;Eletrônicos;1780,43;2136,52
+04/11/2013;Sudeste;Ricardo;Casa e Construção;3348,08;4017,70
+04/11/2013;Sudeste;Ricardo;Cine e Foto;839,86;1007,83
+05/11/2013;Sudeste;Roberto;Cama, Mesa e Banho;2007,65;2409,18
+06/11/2013;Nordeste;João Carlos;Móveis e Decoração;3249,66;3899,59
+06/11/2013;Norte;José Luiz;Cine e Foto;1623,58;1948,30
+06/11/2013;Nordeste;Ana Maria;Casa e Construção;2997,61;3597,13
+07/11/2013;Sudeste;João Carlos;Cine e Foto;2675,90;3211,08
+07/11/2013;Leste;Adriana;Roupas e Acessórios;3752,05;4502,46
+09/11/2013;Sul;Adriana;Móveis e Decoração;3333,07;3999,68
+10/11/2013;Centro;João Carlos;Eletrodomésticos;1361,35;1633,62
+10/11/2013;Nordeste;Ana Maria;Roupas e Acessórios;1830,54;2196,65
+11/11/2013;Sul;João Carlos;Casa e Construção;3480,69;4176,83
+11/11/2013;Centro;Simone;Casa e Construção;1632,73;1959,28
+12/11/2013;Sul;José Luiz;Roupas e Acessórios;2735,39;3282,47
+12/11/2013;Centro;Carolina;Cama, Mesa e Banho;1226,04;1471,25
+12/11/2013;Centro;Carolina;Eletrônicos;1529,51;1835,41
+13/11/2013;Centro;Carolina;Esporte e Lazer;3727,03;4472,44
+14/11/2013;Oeste;José Luiz;Utilidades Domésticas;732,28;878,74
+14/11/2013;Sudeste;João Carlos;Eletrodomésticos;3301,88;3962,26
+15/11/2013;Nordeste;Carolina;Utilidades Domésticas;3720,59;4464,71
+15/11/2013;Sudeste;Carolina;Eletrônicos;4474,35;5369,22
+15/11/2013;Oeste;José Luiz;Móveis e Decoração;1339,35;1607,22
+15/11/2013;Centro;João Carlos;Esporte e Lazer;4088,04;4905,65
+15/11/2013;Sul;José Luiz;Casa e Construção;705,19;846,23
+15/11/2013;Sudeste;Carolina;Casa e Construção;3051,61;3661,93
+16/11/2013;Nordeste;João Carlos;Cama, Mesa e Banho;1775,15;2130,18
+16/11/2013;Centro;Simone;Roupas e Acessórios;2113,24;2535,89
+20/11/2013;Sudeste;Carolina;Roupas e Acessórios;2114,95;2537,94
+20/11/2013;Nordeste;José Luiz;Esporte e Lazer;2482,78;2979,34
+21/11/2013;Sudeste;Adriana;Casa e Construção;2549,70;3059,64
+21/11/2013;Oeste;João Carlos;Roupas e Acessórios;1341,13;1609,36
+23/11/2013;Sul;Adriana;Cama, Mesa e Banho;4943,10;5931,72
+25/11/2013;Sul;João Carlos;Móveis e Decoração;3678,37;4414,04
+26/11/2013;Leste;João Carlos;Eletrodomésticos;3199,08;3838,90
+28/11/2013;Norte;Ricardo;Casa e Construção;4492,17;5390,60
+28/11/2013;Centro;Simone;Cama, Mesa e Banho;732,63;879,16
+28/11/2013;Sul;Carolina;Esporte e Lazer;3286,45;3943,74
+29/11/2013;Sul;João Carlos;Cine e Foto;4751,40;5701,68
+29/11/2013;Sudeste;José Luiz;Cine e Foto;1035,87;1243,04
+30/11/2013;Leste;Carolina;Eletrodomésticos;2664,13;3196,96
+01/12/2013;Sudeste;José Luiz;Móveis e Decoração;827,33;992,80
+01/12/2013;Nordeste;Carolina;Roupas e Acessórios;634,33;761,20
+02/12/2013;Sudeste;Ana Maria;Cine e Foto;1671,95;2006,34
+02/12/2013;Norte;Roberto;Móveis e Decoração;2805,18;3366,22
+02/12/2013;Nordeste;Carolina;Cama, Mesa e Banho;2677,14;3212,57
+02/12/2013;Centro;Carolina;Roupas e Acessórios;3059,65;3671,58
+04/12/2013;Centro;João Carlos;Esporte e Lazer;313,58;376,30
+05/12/2013;Oeste;João Carlos;Casa e Construção;4921,47;5905,76
+06/12/2013;Sul;João Carlos;Cine e Foto;4011,45;4813,74
+06/12/2013;Leste;João Carlos;Móveis e Decoração;3027,68;3633,22
+06/12/2013;Centro;João Carlos;Cama, Mesa e Banho;257,04;308,45
+06/12/2013;Sul;José Luiz;Cama, Mesa e Banho;4052,01;4862,41
+08/12/2013;Centro;João Carlos;Cine e Foto;4136,13;4963,36
+08/12/2013;Sudeste;Carolina;Móveis e Decoração;1187,04;1424,45
+08/12/2013;Nordeste;Adriana;Utilidades Domésticas;2195,21;2634,25
+09/12/2013;Sudeste;Carolina;Cine e Foto;2760,78;3312,94
+11/12/2013;Oeste;Ana Maria;Roupas e Acessórios;4993,61;5992,33
+13/12/2013;Sudeste;Ricardo;Roupas e Acessórios;2031,53;2437,84
+13/12/2013;Centro;Adriana;Roupas e Acessórios;4871,91;5846,29
+15/12/2013;Sudeste;Ricardo;Eletrônicos;657,04;788,45
+15/12/2013;Leste;Ricardo;Casa e Construção;4090,24;4908,29
+15/12/2013;Sudeste;João Carlos;Cama, Mesa e Banho;848,12;1017,74
+16/12/2013;Sudeste;Adriana;Móveis e Decoração;2059,39;2471,27
+17/12/2013;Leste;Simone;Roupas e Acessórios;1905,04;2286,05
+18/12/2013;Norte;João Carlos;Eletrônicos;545,63;654,76
+18/12/2013;Sul;Roberto;Eletrônicos;2787,45;3344,94
+18/12/2013;Oeste;Adriana;Eletrodomésticos;4575,06;5490,07
+20/12/2013;Centro;Adriana;Utilidades Domésticas;4259,82;5111,78
+20/12/2013;Sudeste;Carolina;Esporte e Lazer;1980,49;2376,59
+20/12/2013;Sudeste;João Carlos;Esporte e Lazer;4287,60;5145,12
+21/12/2013;Centro;Carolina;Móveis e Decoração;1357,61;1629,13
+21/12/2013;Sul;João Carlos;Eletrônicos;1043,72;1252,46
+22/12/2013;Leste;José Luiz;Eletrodomésticos;3367,92;4041,50
+23/12/2013;Leste;Simone;Roupas e Acessórios;4694,83;5633,80
+23/12/2013;Sudeste;José Luiz;Móveis e Decoração;4371,48;5245,78
+23/12/2013;Oeste;João Carlos;Esporte e Lazer;2517,60;3021,12
+23/12/2013;Sul;Adriana;Móveis e Decoração;2722,97;3267,56
+25/12/2013;Sul;Ricardo;Cama, Mesa e Banho;4141,40;4969,68
+26/12/2013;Sudeste;Ana Maria;Cama, Mesa e Banho;910,37;1092,44
+26/12/2013;Oeste;João Carlos;Casa e Construção;4661,37;5593,64
+27/12/2013;Centro;Carolina;Cine e Foto;4497,80;5397,36
+27/12/2013;Sul;João Carlos;Esporte e Lazer;3606,91;4328,29
+27/12/2013;Sudeste;Carolina;Roupas e Acessórios;345,43;414,52
+28/12/2013;Nordeste;Adriana;Roupas e Acessórios;3060,33;3672,40
+29/12/2013;Centro;Carolina;Roupas e Acessórios;4175,04;5010,05
+29/12/2013;Sudeste;Ricardo;Eletrônicos;2199,43;2639,32
+30/12/2013;Norte;Ana Maria;Cama, Mesa e Banho;4703,86;5644,63
+30/12/2013;Oeste;Carolina;Roupas e Acessórios;4403,47;5284,16
+31/12/2013;Leste;Ana Maria;Eletrodomésticos;3957,18;4748,62
