@@ -1,0 +1,2149 @@
+Data da Venda;Região;Vendedor;Seção;Vendas;Comissões
+02/01/2010;Centro;Simone;Cama, Mesa e Banho;R$ 4.135,06;R$ 82,70
+02/01/2010;Oeste;Ana Maria;Eletrodomésticos;R$ 1.409,31;R$ 28,19
+03/01/2010;Sul;Carolina;Eletrônicos;R$ 363,44;R$ 7,27
+04/01/2010;Nordeste;João Carlos;Cine e Foto;R$ 399,76;R$ 8,00
+05/01/2010;Sudeste;Carolina;Cama, Mesa e Banho;R$ 814,39;R$ 16,29
+05/01/2010;Oeste;Ricardo;Casa e Construção;R$ 2.870,73;R$ 57,41
+05/01/2010;Sul;Ana Maria;Cine e Foto;R$ 1.102,66;R$ 22,05
+06/01/2010;Centro;Ana Maria;Móveis e Decoração;R$ 2.575,83;R$ 51,52
+06/01/2010;Sul;Ana Maria;Eletrônicos;R$ 3.193,66;R$ 63,87
+08/01/2010;Centro;Carolina;Eletrônicos;R$ 324,90;R$ 6,50
+08/01/2010;Centro;Roberto;Esporte e Lazer;R$ 2.183,97;R$ 43,68
+10/01/2010;Nordeste;Carolina;Cama, Mesa e Banho;R$ 622,01;R$ 12,44
+11/01/2010;Sul;Ana Maria;Cama, Mesa e Banho;R$ 2.231,92;R$ 44,64
+11/01/2010;Centro;Adriana;Eletrônicos;R$ 2.542,59;R$ 50,85
+11/01/2010;Leste;Carolina;Casa e Construção;R$ 4.855,44;R$ 97,11
+12/01/2010;Sudeste;João Carlos;Utilidades Domésticas;R$ 3.780,35;R$ 75,61
+12/01/2010;Sul;Ana Maria;Esporte e Lazer;R$ 1.840,98;R$ 36,82
+16/01/2010;Norte;João Carlos;Casa e Construção;R$ 2.546,93;R$ 50,94
+16/01/2010;Oeste;Carolina;Móveis e Decoração;R$ 1.322,58;R$ 26,45
+16/01/2010;Centro;Carolina;Roupas e Acessórios;R$ 4.284,20;R$ 85,68
+16/01/2010;Nordeste;Simone;Móveis e Decoração;R$ 4.475,25;R$ 89,51
+16/01/2010;Sudeste;Carolina;Eletrônicos;R$ 2.666,45;R$ 53,33
+16/01/2010;Centro;Carolina;Cama, Mesa e Banho;R$ 2.725,30;R$ 54,51
+18/01/2010;Nordeste;Ricardo;Casa e Construção;R$ 4.925,77;R$ 98,52
+19/01/2010;Nordeste;Carolina;Eletrônicos;R$ 3.727,13;R$ 74,54
+19/01/2010;Nordeste;Ana Maria;Cine e Foto;R$ 2.628,42;R$ 52,57
+21/01/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 818,46;R$ 16,37
+22/01/2010;Sul;João Carlos;Eletrônicos;R$ 4.491,09;R$ 89,82
+23/01/2010;Centro;Ricardo;Cama, Mesa e Banho;R$ 2.424,22;R$ 48,48
+24/01/2010;Leste;Carolina;Móveis e Decoração;R$ 4.363,02;R$ 87,26
+24/01/2010;Sul;Roberto;Eletrodomésticos;R$ 4.928,01;R$ 98,56
+24/01/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 4.764,84;R$ 95,30
+25/01/2010;Centro;Roberto;Roupas e Acessórios;R$ 4.920,82;R$ 98,42
+26/01/2010;Sudeste;Simone;Eletrônicos;R$ 4.647,49;R$ 92,95
+26/01/2010;Centro;João Carlos;Cama, Mesa e Banho;R$ 1.089,47;R$ 21,79
+26/01/2010;Nordeste;João Carlos;Esporte e Lazer;R$ 4.489,94;R$ 89,80
+28/01/2010;Sul;José Luiz;Cama, Mesa e Banho;R$ 3.009,49;R$ 60,19
+28/01/2010;Norte;Ricardo;Cine e Foto;R$ 1.963,00;R$ 39,26
+28/01/2010;Centro;Ana Maria;Roupas e Acessórios;R$ 4.375,52;R$ 87,51
+29/01/2010;Centro;Ricardo;Cine e Foto;R$ 2.942,77;R$ 58,86
+29/01/2010;Centro;José Luiz;Cama, Mesa e Banho;R$ 1.432,64;R$ 28,65
+30/01/2010;Nordeste;Carolina;Eletrônicos;R$ 1.017,62;R$ 20,35
+30/01/2010;Oeste;Ana Maria;Eletrônicos;R$ 390,03;R$ 7,80
+30/01/2010;Sul;Ana Maria;Eletrodomésticos;R$ 2.927,62;R$ 58,55
+31/01/2010;Sudeste;Ricardo;Roupas e Acessórios;R$ 2.951,67;R$ 59,03
+01/02/2010;Oeste;Carolina;Cama, Mesa e Banho;R$ 3.956,24;R$ 79,12
+02/02/2010;Sudeste;João Carlos;Esporte e Lazer;R$ 2.359,56;R$ 47,19
+02/02/2010;Oeste;Ana Maria;Cama, Mesa e Banho;R$ 1.219,08;R$ 24,38
+02/02/2010;Sul;Carolina;Cine e Foto;R$ 3.918,15;R$ 78,36
+04/02/2010;Sudeste;José Luiz;Cine e Foto;R$ 3.431,24;R$ 68,62
+05/02/2010;Centro;Carolina;Eletrônicos;R$ 4.863,33;R$ 97,27
+06/02/2010;Leste;Adriana;Eletrodomésticos;R$ 4.249,10;R$ 84,98
+06/02/2010;Nordeste;Ricardo;Móveis e Decoração;R$ 4.909,82;R$ 98,20
+07/02/2010;Nordeste;Ana Maria;Móveis e Decoração;R$ 4.010,53;R$ 80,21
+07/02/2010;Norte;Ana Maria;Esporte e Lazer;R$ 4.640,33;R$ 92,81
+09/02/2010;Sudeste;Roberto;Eletrodomésticos;R$ 695,78;R$ 13,92
+09/02/2010;Leste;Ricardo;Utilidades Domésticas;R$ 2.019,00;R$ 40,38
+10/02/2010;Norte;Roberto;Roupas e Acessórios;R$ 4.641,17;R$ 92,82
+10/02/2010;Sudeste;Carolina;Esporte e Lazer;R$ 2.754,56;R$ 55,09
+11/02/2010;Norte;João Carlos;Utilidades Domésticas;R$ 4.263,76;R$ 85,28
+11/02/2010;Sudeste;João Carlos;Eletrodomésticos;R$ 4.282,78;R$ 85,66
+12/02/2010;Norte;Carolina;Eletrônicos;R$ 2.827,14;R$ 56,54
+12/02/2010;Centro;Roberto;Eletrônicos;R$ 2.324,41;R$ 46,49
+13/02/2010;Sudeste;Carolina;Eletrodomésticos;R$ 2.384,59;R$ 47,69
+13/02/2010;Centro;Ricardo;Casa e Construção;R$ 3.607,23;R$ 72,14
+13/02/2010;Oeste;Carolina;Cama, Mesa e Banho;R$ 1.045,71;R$ 20,91
+13/02/2010;Norte;Roberto;Esporte e Lazer;R$ 3.064,67;R$ 61,29
+13/02/2010;Nordeste;Carolina;Eletrônicos;R$ 2.592,96;R$ 51,86
+15/02/2010;Sudeste;João Carlos;Cine e Foto;R$ 4.785,79;R$ 95,72
+15/02/2010;Sul;Simone;Casa e Construção;R$ 4.427,87;R$ 88,56
+16/02/2010;Sul;Roberto;Eletrônicos;R$ 3.420,61;R$ 68,41
+16/02/2010;Leste;Ricardo;Utilidades Domésticas;R$ 1.250,81;R$ 25,02
+17/02/2010;Sudeste;Ricardo;Utilidades Domésticas;R$ 2.033,53;R$ 40,67
+17/02/2010;Norte;Ricardo;Cine e Foto;R$ 2.015,16;R$ 40,30
+17/02/2010;Centro;Adriana;Eletrônicos;R$ 3.431,01;R$ 68,62
+18/02/2010;Centro;Simone;Utilidades Domésticas;R$ 4.502,80;R$ 90,06
+18/02/2010;Norte;João Carlos;Roupas e Acessórios;R$ 4.527,20;R$ 90,54
+19/02/2010;Nordeste;Roberto;Eletrodomésticos;R$ 3.041,97;R$ 60,84
+21/02/2010;Centro;João Carlos;Utilidades Domésticas;R$ 4.063,99;R$ 81,28
+21/02/2010;Oeste;Ricardo;Eletrônicos;R$ 434,65;R$ 8,69
+21/02/2010;Centro;Adriana;Eletrônicos;R$ 1.006,11;R$ 20,12
+21/02/2010;Sul;Ricardo;Esporte e Lazer;R$ 3.427,76;R$ 68,56
+26/02/2010;Norte;Ricardo;Casa e Construção;R$ 4.433,51;R$ 88,67
+27/02/2010;Sudeste;Ana Maria;Casa e Construção;R$ 2.827,28;R$ 56,55
+27/02/2010;Sudeste;João Carlos;Casa e Construção;R$ 2.852,32;R$ 57,05
+28/02/2010;Centro;Carolina;Cama, Mesa e Banho;R$ 3.245,26;R$ 64,91
+28/02/2010;Centro;Carolina;Esporte e Lazer;R$ 2.438,41;R$ 48,77
+01/03/2010;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 4.169,38;R$ 83,39
+01/03/2010;Leste;Ricardo;Esporte e Lazer;R$ 1.820,60;R$ 36,41
+01/03/2010;Oeste;Ricardo;Móveis e Decoração;R$ 1.982,63;R$ 39,65
+01/03/2010;Sul;Ricardo;Cine e Foto;R$ 2.911,14;R$ 58,22
+02/03/2010;Sul;João Carlos;Eletrônicos;R$ 749,42;R$ 14,99
+02/03/2010;Centro;Carolina;Cama, Mesa e Banho;R$ 2.598,33;R$ 51,97
+03/03/2010;Nordeste;João Carlos;Eletrônicos;R$ 2.501,77;R$ 50,04
+04/03/2010;Centro;Ricardo;Esporte e Lazer;R$ 4.227,02;R$ 84,54
+05/03/2010;Centro;Ana Maria;Eletrodomésticos;R$ 3.063,11;R$ 61,26
+05/03/2010;Centro;Carolina;Roupas e Acessórios;R$ 4.289,13;R$ 85,78
+05/03/2010;Sudeste;Adriana;Utilidades Domésticas;R$ 4.821,01;R$ 96,42
+05/03/2010;Oeste;Ricardo;Móveis e Decoração;R$ 233,04;R$ 4,66
+06/03/2010;Sul;Ricardo;Roupas e Acessórios;R$ 2.480,03;R$ 49,60
+08/03/2010;Centro;Ricardo;Eletrodomésticos;R$ 2.316,82;R$ 46,34
+08/03/2010;Nordeste;José Luiz;Eletrônicos;R$ 368,35;R$ 7,37
+10/03/2010;Norte;João Carlos;Eletrônicos;R$ 4.332,31;R$ 86,65
+11/03/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 3.923,18;R$ 78,46
+11/03/2010;Norte;Ana Maria;Eletrodomésticos;R$ 2.039,08;R$ 40,78
+11/03/2010;Oeste;Ricardo;Esporte e Lazer;R$ 828,14;R$ 16,56
+12/03/2010;Sudeste;Carolina;Esporte e Lazer;R$ 3.014,41;R$ 60,29
+12/03/2010;Nordeste;Carolina;Cine e Foto;R$ 376,41;R$ 7,53
+14/03/2010;Sul;Carolina;Utilidades Domésticas;R$ 4.712,12;R$ 94,24
+16/03/2010;Norte;Adriana;Móveis e Decoração;R$ 1.254,81;R$ 25,10
+18/03/2010;Sudeste;Ana Maria;Eletrodomésticos;R$ 1.478,63;R$ 29,57
+18/03/2010;Norte;Simone;Roupas e Acessórios;R$ 1.187,07;R$ 23,74
+19/03/2010;Nordeste;Ana Maria;Eletrodomésticos;R$ 305,58;R$ 6,11
+20/03/2010;Centro;Simone;Cama, Mesa e Banho;R$ 829,61;R$ 16,59
+20/03/2010;Nordeste;João Carlos;Cine e Foto;R$ 4.803,57;R$ 96,07
+20/03/2010;Sul;José Luiz;Utilidades Domésticas;R$ 1.444,03;R$ 28,88
+20/03/2010;Sul;Ricardo;Eletrônicos;R$ 2.205,99;R$ 44,12
+21/03/2010;Sul;Ana Maria;Casa e Construção;R$ 4.797,13;R$ 95,94
+21/03/2010;Sul;Roberto;Esporte e Lazer;R$ 3.747,44;R$ 74,95
+22/03/2010;Sudeste;Ana Maria;Eletrônicos;R$ 1.179,97;R$ 23,60
+22/03/2010;Sudeste;João Carlos;Utilidades Domésticas;R$ 1.475,02;R$ 29,50
+22/03/2010;Leste;Simone;Roupas e Acessórios;R$ 3.378,07;R$ 67,56
+22/03/2010;Sudeste;João Carlos;Casa e Construção;R$ 1.013,01;R$ 20,26
+23/03/2010;Oeste;Carolina;Eletrodomésticos;R$ 1.711,37;R$ 34,23
+23/03/2010;Leste;Ana Maria;Cama, Mesa e Banho;R$ 1.941,19;R$ 38,82
+25/03/2010;Sul;João Carlos;Esporte e Lazer;R$ 3.462,17;R$ 69,24
+25/03/2010;Leste;Ana Maria;Eletrodomésticos;R$ 3.025,09;R$ 60,50
+26/03/2010;Sudeste;José Luiz;Roupas e Acessórios;R$ 2.692,83;R$ 53,86
+26/03/2010;Centro;Roberto;Móveis e Decoração;R$ 1.655,22;R$ 33,10
+27/03/2010;Sul;Ana Maria;Cama, Mesa e Banho;R$ 1.056,31;R$ 21,13
+27/03/2010;Norte;Carolina;Casa e Construção;R$ 2.832,11;R$ 56,64
+27/03/2010;Nordeste;João Carlos;Cine e Foto;R$ 931,47;R$ 18,63
+29/03/2010;Sul;Simone;Casa e Construção;R$ 3.209,07;R$ 64,18
+29/03/2010;Sudeste;Ricardo;Cama, Mesa e Banho;R$ 2.127,83;R$ 42,56
+30/03/2010;Leste;Ricardo;Casa e Construção;R$ 3.471,48;R$ 69,43
+30/03/2010;Sudeste;Roberto;Móveis e Decoração;R$ 2.606,85;R$ 52,14
+31/03/2010;Nordeste;Carolina;Móveis e Decoração;R$ 771,32;R$ 15,43
+31/03/2010;Sul;João Carlos;Casa e Construção;R$ 1.225,62;R$ 24,51
+31/03/2010;Sudeste;João Carlos;Cine e Foto;R$ 308,67;R$ 6,17
+02/04/2010;Sudeste;José Luiz;Cama, Mesa e Banho;R$ 3.848,72;R$ 76,97
+02/04/2010;Norte;Carolina;Móveis e Decoração;R$ 430,13;R$ 8,60
+03/04/2010;Norte;Carolina;Utilidades Domésticas;R$ 815,42;R$ 16,31
+03/04/2010;Leste;Carolina;Casa e Construção;R$ 2.981,18;R$ 59,62
+05/04/2010;Oeste;João Carlos;Roupas e Acessórios;R$ 246,01;R$ 4,92
+05/04/2010;Oeste;Ricardo;Cine e Foto;R$ 2.241,81;R$ 44,84
+06/04/2010;Oeste;Simone;Roupas e Acessórios;R$ 710,98;R$ 14,22
+06/04/2010;Sul;Ricardo;Esporte e Lazer;R$ 1.446,37;R$ 28,93
+06/04/2010;Centro;Carolina;Esporte e Lazer;R$ 2.303,66;R$ 46,07
+07/04/2010;Nordeste;Ana Maria;Casa e Construção;R$ 4.768,11;R$ 95,36
+07/04/2010;Sudeste;Ana Maria;Cama, Mesa e Banho;R$ 3.080,76;R$ 61,62
+08/04/2010;Oeste;Ricardo;Utilidades Domésticas;R$ 1.968,14;R$ 39,36
+09/04/2010;Centro;João Carlos;Roupas e Acessórios;R$ 1.164,44;R$ 23,29
+12/04/2010;Leste;Roberto;Esporte e Lazer;R$ 3.386,65;R$ 67,73
+12/04/2010;Oeste;Adriana;Eletrodomésticos;R$ 747,55;R$ 14,95
+14/04/2010;Centro;Carolina;Eletrodomésticos;R$ 775,84;R$ 15,52
+14/04/2010;Oeste;João Carlos;Cama, Mesa e Banho;R$ 2.964,55;R$ 59,29
+15/04/2010;Oeste;Ana Maria;Cine e Foto;R$ 3.105,27;R$ 62,11
+15/04/2010;Nordeste;Carolina;Esporte e Lazer;R$ 2.481,71;R$ 49,63
+15/04/2010;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 2.067,09;R$ 41,34
+15/04/2010;Sul;João Carlos;Móveis e Decoração;R$ 2.836,00;R$ 56,72
+16/04/2010;Nordeste;Ana Maria;Casa e Construção;R$ 4.658,48;R$ 93,17
+17/04/2010;Sudeste;Ana Maria;Roupas e Acessórios;R$ 3.698,73;R$ 73,97
+17/04/2010;Norte;João Carlos;Eletrônicos;R$ 4.914,11;R$ 98,28
+17/04/2010;Norte;João Carlos;Casa e Construção;R$ 478,72;R$ 9,57
+19/04/2010;Sudeste;Roberto;Eletrodomésticos;R$ 4.897,83;R$ 97,96
+19/04/2010;Oeste;João Carlos;Roupas e Acessórios;R$ 1.628,36;R$ 32,57
+19/04/2010;Centro;Ricardo;Cine e Foto;R$ 3.692,04;R$ 73,84
+21/04/2010;Nordeste;Simone;Cama, Mesa e Banho;R$ 3.908,31;R$ 78,17
+21/04/2010;Nordeste;Simone;Eletrodomésticos;R$ 2.126,60;R$ 42,53
+22/04/2010;Norte;João Carlos;Utilidades Domésticas;R$ 2.695,54;R$ 53,91
+22/04/2010;Oeste;Ricardo;Cine e Foto;R$ 995,75;R$ 19,92
+23/04/2010;Centro;João Carlos;Cama, Mesa e Banho;R$ 1.565,86;R$ 31,32
+23/04/2010;Nordeste;Ricardo;Cine e Foto;R$ 3.334,01;R$ 66,68
+25/04/2010;Centro;Carolina;Cama, Mesa e Banho;R$ 2.832,74;R$ 56,65
+25/04/2010;Nordeste;José Luiz;Casa e Construção;R$ 3.114,01;R$ 62,28
+25/04/2010;Oeste;Ricardo;Casa e Construção;R$ 3.106,62;R$ 62,13
+25/04/2010;Sudeste;Ana Maria;Cine e Foto;R$ 946,75;R$ 18,94
+27/04/2010;Centro;João Carlos;Casa e Construção;R$ 388,45;R$ 7,77
+29/04/2010;Nordeste;Ricardo;Eletrodomésticos;R$ 3.611,89;R$ 72,24
+29/04/2010;Centro;José Luiz;Eletrodomésticos;R$ 4.243,71;R$ 84,87
+29/04/2010;Sul;João Carlos;Eletrônicos;R$ 3.601,13;R$ 72,02
+30/04/2010;Nordeste;Roberto;Cine e Foto;R$ 3.602,60;R$ 72,05
+01/05/2010;Leste;João Carlos;Cine e Foto;R$ 1.966,86;R$ 39,34
+01/05/2010;Centro;João Carlos;Utilidades Domésticas;R$ 2.562,53;R$ 51,25
+02/05/2010;Sul;Carolina;Cine e Foto;R$ 2.803,60;R$ 56,07
+03/05/2010;Centro;João Carlos;Utilidades Domésticas;R$ 3.105,32;R$ 62,11
+03/05/2010;Sudeste;João Carlos;Cine e Foto;R$ 3.552,79;R$ 71,06
+03/05/2010;Sudeste;Adriana;Roupas e Acessórios;R$ 1.346,21;R$ 26,92
+04/05/2010;Centro;Simone;Móveis e Decoração;R$ 361,24;R$ 7,22
+05/05/2010;Sudeste;Carolina;Cine e Foto;R$ 914,63;R$ 18,29
+05/05/2010;Sudeste;Simone;Utilidades Domésticas;R$ 2.545,46;R$ 50,91
+06/05/2010;Norte;João Carlos;Casa e Construção;R$ 3.594,21;R$ 71,88
+07/05/2010;Sudeste;Roberto;Eletrônicos;R$ 459,07;R$ 9,18
+07/05/2010;Centro;João Carlos;Móveis e Decoração;R$ 1.279,54;R$ 25,59
+08/05/2010;Norte;Ana Maria;Eletrônicos;R$ 2.084,03;R$ 41,68
+08/05/2010;Sudeste;Ana Maria;Eletrônicos;R$ 2.419,87;R$ 48,40
+09/05/2010;Oeste;Ana Maria;Roupas e Acessórios;R$ 3.607,89;R$ 72,16
+10/05/2010;Sudeste;Roberto;Roupas e Acessórios;R$ 687,01;R$ 13,74
+13/05/2010;Centro;Carolina;Móveis e Decoração;R$ 1.916,95;R$ 38,34
+14/05/2010;Sul;Carolina;Cama, Mesa e Banho;R$ 1.946,89;R$ 38,94
+16/05/2010;Centro;João Carlos;Cama, Mesa e Banho;R$ 1.348,14;R$ 26,96
+17/05/2010;Oeste;Carolina;Eletrônicos;R$ 231,20;R$ 4,62
+18/05/2010;Centro;João Carlos;Móveis e Decoração;R$ 1.309,57;R$ 26,19
+19/05/2010;Nordeste;Ana Maria;Eletrônicos;R$ 4.584,56;R$ 91,69
+19/05/2010;Sul;Ana Maria;Cama, Mesa e Banho;R$ 1.381,97;R$ 27,64
+20/05/2010;Sudeste;João Carlos;Esporte e Lazer;R$ 2.041,60;R$ 40,83
+21/05/2010;Oeste;Adriana;Utilidades Domésticas;R$ 3.632,89;R$ 72,66
+21/05/2010;Centro;Ricardo;Casa e Construção;R$ 2.833,28;R$ 56,67
+22/05/2010;Oeste;Carolina;Casa e Construção;R$ 3.743,85;R$ 74,88
+22/05/2010;Nordeste;Carolina;Casa e Construção;R$ 2.451,99;R$ 49,04
+22/05/2010;Oeste;Carolina;Móveis e Decoração;R$ 3.376,08;R$ 67,52
+23/05/2010;Nordeste;Ricardo;Casa e Construção;R$ 3.644,10;R$ 72,88
+23/05/2010;Sudeste;Carolina;Casa e Construção;R$ 2.550,12;R$ 51,00
+24/05/2010;Nordeste;José Luiz;Esporte e Lazer;R$ 453,40;R$ 9,07
+24/05/2010;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 436,08;R$ 8,72
+24/05/2010;Leste;Carolina;Esporte e Lazer;R$ 4.252,59;R$ 85,05
+25/05/2010;Nordeste;Ana Maria;Móveis e Decoração;R$ 840,12;R$ 16,80
+26/05/2010;Sudeste;João Carlos;Esporte e Lazer;R$ 3.628,50;R$ 72,57
+27/05/2010;Norte;Ricardo;Eletrodomésticos;R$ 546,72;R$ 10,93
+27/05/2010;Sudeste;José Luiz;Roupas e Acessórios;R$ 369,86;R$ 7,40
+27/05/2010;Sudeste;Roberto;Eletrodomésticos;R$ 2.381,40;R$ 47,63
+28/05/2010;Oeste;Carolina;Móveis e Decoração;R$ 1.444,25;R$ 28,89
+28/05/2010;Sudeste;Carolina;Casa e Construção;R$ 961,35;R$ 19,23
+29/05/2010;Centro;Carolina;Eletrônicos;R$ 1.732,83;R$ 34,66
+29/05/2010;Leste;Carolina;Cine e Foto;R$ 2.603,32;R$ 52,07
+30/05/2010;Nordeste;Ricardo;Roupas e Acessórios;R$ 765,32;R$ 15,31
+30/05/2010;Oeste;Adriana;Eletrodomésticos;R$ 4.379,84;R$ 87,60
+31/05/2010;Centro;Ana Maria;Esporte e Lazer;R$ 2.465,52;R$ 49,31
+31/05/2010;Nordeste;Ana Maria;Esporte e Lazer;R$ 4.692,60;R$ 93,85
+31/05/2010;Centro;Adriana;Cama, Mesa e Banho;R$ 3.567,34;R$ 71,35
+01/06/2010;Centro;Ricardo;Móveis e Decoração;R$ 4.266,69;R$ 85,33
+01/06/2010;Centro;João Carlos;Eletrodomésticos;R$ 1.661,41;R$ 33,23
+02/06/2010;Norte;Adriana;Móveis e Decoração;R$ 2.876,35;R$ 57,53
+02/06/2010;Sul;Simone;Eletrodomésticos;R$ 877,73;R$ 17,55
+02/06/2010;Leste;Simone;Cama, Mesa e Banho;R$ 2.642,77;R$ 52,86
+03/06/2010;Sudeste;Carolina;Móveis e Decoração;R$ 4.880,93;R$ 97,62
+03/06/2010;Sudeste;Carolina;Cama, Mesa e Banho;R$ 2.958,40;R$ 59,17
+04/06/2010;Nordeste;Carolina;Cine e Foto;R$ 2.951,67;R$ 59,03
+04/06/2010;Nordeste;Simone;Eletrodomésticos;R$ 1.784,98;R$ 35,70
+04/06/2010;Sudeste;Ana Maria;Eletrônicos;R$ 273,12;R$ 5,46
+05/06/2010;Sudeste;Carolina;Móveis e Decoração;R$ 3.015,83;R$ 60,32
+06/06/2010;Leste;João Carlos;Utilidades Domésticas;R$ 4.973,69;R$ 99,47
+06/06/2010;Sul;Simone;Utilidades Domésticas;R$ 1.141,15;R$ 22,82
+06/06/2010;Norte;Carolina;Cama, Mesa e Banho;R$ 1.356,33;R$ 27,13
+08/06/2010;Centro;Carolina;Esporte e Lazer;R$ 3.453,90;R$ 69,08
+10/06/2010;Nordeste;Ana Maria;Esporte e Lazer;R$ 2.322,27;R$ 46,45
+10/06/2010;Sul;Simone;Utilidades Domésticas;R$ 4.362,34;R$ 87,25
+11/06/2010;Centro;Roberto;Cine e Foto;R$ 3.548,35;R$ 70,97
+12/06/2010;Nordeste;Roberto;Cine e Foto;R$ 4.748,69;R$ 94,97
+12/06/2010;Norte;José Luiz;Esporte e Lazer;R$ 1.596,73;R$ 31,93
+12/06/2010;Oeste;Roberto;Móveis e Decoração;R$ 4.914,42;R$ 98,29
+13/06/2010;Sudeste;Adriana;Eletrônicos;R$ 396,29;R$ 7,93
+14/06/2010;Oeste;Ricardo;Cine e Foto;R$ 3.515,74;R$ 70,31
+14/06/2010;Sudeste;Ana Maria;Eletrônicos;R$ 1.304,81;R$ 26,10
+14/06/2010;Oeste;Ana Maria;Esporte e Lazer;R$ 1.789,89;R$ 35,80
+15/06/2010;Leste;Carolina;Roupas e Acessórios;R$ 1.851,96;R$ 37,04
+16/06/2010;Oeste;João Carlos;Utilidades Domésticas;R$ 3.046,13;R$ 60,92
+16/06/2010;Nordeste;Carolina;Cine e Foto;R$ 2.435,26;R$ 48,71
+18/06/2010;Leste;Simone;Cama, Mesa e Banho;R$ 4.989,70;R$ 99,79
+18/06/2010;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 2.154,92;R$ 43,10
+20/06/2010;Sul;Carolina;Eletrônicos;R$ 1.446,56;R$ 28,93
+20/06/2010;Centro;João Carlos;Cine e Foto;R$ 4.670,02;R$ 93,40
+21/06/2010;Centro;Roberto;Móveis e Decoração;R$ 362,43;R$ 7,25
+21/06/2010;Sul;João Carlos;Casa e Construção;R$ 3.174,17;R$ 63,48
+22/06/2010;Centro;Simone;Esporte e Lazer;R$ 518,52;R$ 10,37
+22/06/2010;Sudeste;Carolina;Eletrônicos;R$ 3.037,60;R$ 60,75
+24/06/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 2.462,32;R$ 49,25
+25/06/2010;Centro;Ana Maria;Esporte e Lazer;R$ 1.348,70;R$ 26,97
+26/06/2010;Sudeste;Ricardo;Roupas e Acessórios;R$ 1.768,02;R$ 35,36
+26/06/2010;Centro;Ana Maria;Esporte e Lazer;R$ 1.370,13;R$ 27,40
+27/06/2010;Norte;João Carlos;Eletrônicos;R$ 1.573,65;R$ 31,47
+27/06/2010;Nordeste;João Carlos;Utilidades Domésticas;R$ 746,86;R$ 14,94
+28/06/2010;Oeste;João Carlos;Esporte e Lazer;R$ 1.314,69;R$ 26,29
+29/06/2010;Sudeste;Carolina;Esporte e Lazer;R$ 327,23;R$ 6,54
+29/06/2010;Sudeste;Ana Maria;Móveis e Decoração;R$ 1.226,14;R$ 24,52
+29/06/2010;Oeste;Simone;Móveis e Decoração;R$ 3.215,16;R$ 64,30
+30/06/2010;Norte;Simone;Cine e Foto;R$ 2.003,52;R$ 40,07
+30/06/2010;Centro;Ricardo;Móveis e Decoração;R$ 2.423,08;R$ 48,46
+01/07/2010;Sudeste;Ricardo;Esporte e Lazer;R$ 3.119,44;R$ 62,39
+01/07/2010;Sudeste;Adriana;Móveis e Decoração;R$ 2.697,62;R$ 53,95
+01/07/2010;Oeste;Ana Maria;Casa e Construção;R$ 1.484,34;R$ 29,69
+01/07/2010;Leste;Ricardo;Eletrodomésticos;R$ 4.581,62;R$ 91,63
+01/07/2010;Leste;Simone;Cama, Mesa e Banho;R$ 3.900,69;R$ 78,01
+01/07/2010;Centro;Simone;Roupas e Acessórios;R$ 490,50;R$ 9,81
+02/07/2010;Sudeste;Simone;Móveis e Decoração;R$ 4.050,99;R$ 81,02
+03/07/2010;Oeste;Ana Maria;Esporte e Lazer;R$ 3.710,94;R$ 74,22
+03/07/2010;Nordeste;José Luiz;Cama, Mesa e Banho;R$ 3.599,70;R$ 71,99
+03/07/2010;Sudeste;Carolina;Cama, Mesa e Banho;R$ 4.447,09;R$ 88,94
+05/07/2010;Norte;Carolina;Esporte e Lazer;R$ 2.582,46;R$ 51,65
+05/07/2010;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 2.610,34;R$ 52,21
+06/07/2010;Sudeste;José Luiz;Esporte e Lazer;R$ 2.212,68;R$ 44,25
+06/07/2010;Centro;João Carlos;Móveis e Decoração;R$ 3.724,17;R$ 74,48
+07/07/2010;Sudeste;Adriana;Cama, Mesa e Banho;R$ 1.658,41;R$ 33,17
+07/07/2010;Leste;Ana Maria;Cine e Foto;R$ 3.993,86;R$ 79,88
+10/07/2010;Sudeste;Ana Maria;Móveis e Decoração;R$ 4.911,17;R$ 98,22
+10/07/2010;Norte;Carolina;Cama, Mesa e Banho;R$ 4.142,19;R$ 82,84
+12/07/2010;Sul;Carolina;Móveis e Decoração;R$ 4.488,49;R$ 89,77
+12/07/2010;Sudeste;João Carlos;Eletrônicos;R$ 1.875,06;R$ 37,50
+12/07/2010;Sul;Simone;Eletrodomésticos;R$ 1.439,13;R$ 28,78
+13/07/2010;Sul;Ana Maria;Móveis e Decoração;R$ 2.129,69;R$ 42,59
+13/07/2010;Centro;José Luiz;Eletrodomésticos;R$ 1.883,87;R$ 37,68
+14/07/2010;Sul;João Carlos;Móveis e Decoração;R$ 1.540,81;R$ 30,82
+15/07/2010;Sudeste;José Luiz;Roupas e Acessórios;R$ 1.788,01;R$ 35,76
+17/07/2010;Sudeste;João Carlos;Roupas e Acessórios;R$ 3.721,49;R$ 74,43
+19/07/2010;Centro;Ana Maria;Eletrônicos;R$ 3.856,35;R$ 77,13
+19/07/2010;Leste;João Carlos;Esporte e Lazer;R$ 3.367,91;R$ 67,36
+20/07/2010;Centro;João Carlos;Cine e Foto;R$ 4.124,52;R$ 82,49
+21/07/2010;Sul;Carolina;Eletrônicos;R$ 1.646,93;R$ 32,94
+21/07/2010;Nordeste;Ana Maria;Eletrodomésticos;R$ 4.203,23;R$ 84,06
+21/07/2010;Sul;Ricardo;Móveis e Decoração;R$ 4.960,30;R$ 99,21
+22/07/2010;Centro;Ricardo;Eletrônicos;R$ 1.086,37;R$ 21,73
+22/07/2010;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 253,13;R$ 5,06
+23/07/2010;Sudeste;Carolina;Casa e Construção;R$ 4.882,61;R$ 97,65
+23/07/2010;Centro;João Carlos;Cine e Foto;R$ 4.286,86;R$ 85,74
+24/07/2010;Oeste;Ana Maria;Casa e Construção;R$ 3.617,62;R$ 72,35
+25/07/2010;Sudeste;José Luiz;Roupas e Acessórios;R$ 3.227,45;R$ 64,55
+25/07/2010;Leste;João Carlos;Cama, Mesa e Banho;R$ 1.674,88;R$ 33,50
+26/07/2010;Leste;João Carlos;Móveis e Decoração;R$ 4.053,29;R$ 81,07
+27/07/2010;Leste;João Carlos;Eletrodomésticos;R$ 2.203,50;R$ 44,07
+27/07/2010;Sudeste;Ricardo;Cama, Mesa e Banho;R$ 4.688,48;R$ 93,77
+28/07/2010;Sul;João Carlos;Móveis e Decoração;R$ 1.638,34;R$ 32,77
+29/07/2010;Centro;Ricardo;Casa e Construção;R$ 2.400,36;R$ 48,01
+30/07/2010;Sudeste;João Carlos;Cine e Foto;R$ 3.995,67;R$ 79,91
+30/07/2010;Centro;Carolina;Eletrodomésticos;R$ 1.638,68;R$ 32,77
+30/07/2010;Leste;Adriana;Casa e Construção;R$ 209,43;R$ 4,19
+31/07/2010;Centro;Carolina;Cine e Foto;R$ 4.047,52;R$ 80,95
+01/08/2010;Centro;João Carlos;Roupas e Acessórios;R$ 4.532,31;R$ 90,65
+02/08/2010;Norte;José Luiz;Cine e Foto;R$ 1.428,03;R$ 28,56
+03/08/2010;Oeste;Adriana;Casa e Construção;R$ 2.090,53;R$ 41,81
+03/08/2010;Sudeste;Ricardo;Utilidades Domésticas;R$ 3.497,93;R$ 69,96
+05/08/2010;Sudeste;João Carlos;Utilidades Domésticas;R$ 1.106,46;R$ 22,13
+05/08/2010;Nordeste;João Carlos;Utilidades Domésticas;R$ 2.383,13;R$ 47,66
+06/08/2010;Centro;Roberto;Cama, Mesa e Banho;R$ 3.012,45;R$ 60,25
+07/08/2010;Sudeste;José Luiz;Cine e Foto;R$ 4.666,75;R$ 93,34
+07/08/2010;Sudeste;Simone;Móveis e Decoração;R$ 883,87;R$ 17,68
+07/08/2010;Sudeste;Roberto;Eletrônicos;R$ 262,76;R$ 5,26
+07/08/2010;Sul;Ana Maria;Esporte e Lazer;R$ 1.022,24;R$ 20,44
+08/08/2010;Nordeste;José Luiz;Utilidades Domésticas;R$ 4.544,95;R$ 90,90
+08/08/2010;Sudeste;Carolina;Cine e Foto;R$ 3.400,62;R$ 68,01
+09/08/2010;Centro;João Carlos;Cine e Foto;R$ 3.132,89;R$ 62,66
+09/08/2010;Leste;Ricardo;Utilidades Domésticas;R$ 729,02;R$ 14,58
+10/08/2010;Nordeste;Ricardo;Esporte e Lazer;R$ 2.388,05;R$ 47,76
+10/08/2010;Sudeste;José Luiz;Esporte e Lazer;R$ 202,71;R$ 4,05
+10/08/2010;Centro;Simone;Esporte e Lazer;R$ 4.024,52;R$ 80,49
+11/08/2010;Sul;Ana Maria;Casa e Construção;R$ 1.674,20;R$ 33,48
+12/08/2010;Sudeste;Adriana;Utilidades Domésticas;R$ 2.526,41;R$ 50,53
+12/08/2010;Leste;Ana Maria;Cine e Foto;R$ 3.807,52;R$ 76,15
+13/08/2010;Sudeste;João Carlos;Roupas e Acessórios;R$ 1.887,44;R$ 37,75
+13/08/2010;Centro;João Carlos;Eletrodomésticos;R$ 2.489,46;R$ 49,79
+14/08/2010;Nordeste;Carolina;Eletrônicos;R$ 3.833,38;R$ 76,67
+15/08/2010;Sul;Adriana;Utilidades Domésticas;R$ 351,73;R$ 7,03
+15/08/2010;Sul;José Luiz;Eletrodomésticos;R$ 4.778,92;R$ 95,58
+15/08/2010;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 4.531,40;R$ 90,63
+16/08/2010;Norte;Adriana;Utilidades Domésticas;R$ 1.815,25;R$ 36,31
+17/08/2010;Sul;Simone;Móveis e Decoração;R$ 3.307,32;R$ 66,15
+18/08/2010;Sudeste;Simone;Eletrônicos;R$ 3.583,02;R$ 71,66
+18/08/2010;Centro;Carolina;Eletrodomésticos;R$ 251,38;R$ 5,03
+18/08/2010;Nordeste;Ricardo;Móveis e Decoração;R$ 4.515,95;R$ 90,32
+19/08/2010;Sudeste;Adriana;Eletrodomésticos;R$ 1.337,18;R$ 26,74
+20/08/2010;Leste;Ana Maria;Casa e Construção;R$ 890,26;R$ 17,81
+22/08/2010;Sudeste;Ana Maria;Eletrodomésticos;R$ 3.911,57;R$ 78,23
+22/08/2010;Leste;João Carlos;Roupas e Acessórios;R$ 2.165,89;R$ 43,32
+22/08/2010;Sudeste;João Carlos;Utilidades Domésticas;R$ 2.552,66;R$ 51,05
+23/08/2010;Norte;Simone;Cama, Mesa e Banho;R$ 4.628,43;R$ 92,57
+24/08/2010;Norte;João Carlos;Roupas e Acessórios;R$ 3.217,13;R$ 64,34
+25/08/2010;Oeste;João Carlos;Eletrodomésticos;R$ 3.952,74;R$ 79,05
+25/08/2010;Leste;João Carlos;Cama, Mesa e Banho;R$ 3.840,37;R$ 76,81
+26/08/2010;Sudeste;Ricardo;Cine e Foto;R$ 3.190,96;R$ 63,82
+27/08/2010;Sul;João Carlos;Eletrodomésticos;R$ 2.979,55;R$ 59,59
+27/08/2010;Nordeste;Roberto;Casa e Construção;R$ 3.185,51;R$ 63,71
+28/08/2010;Leste;João Carlos;Cine e Foto;R$ 906,54;R$ 18,13
+29/08/2010;Sudeste;Ricardo;Cine e Foto;R$ 3.625,77;R$ 72,52
+30/08/2010;Leste;Carolina;Eletrodomésticos;R$ 3.841,32;R$ 76,83
+30/08/2010;Oeste;Carolina;Eletrônicos;R$ 1.322,46;R$ 26,45
+01/09/2010;Nordeste;João Carlos;Casa e Construção;R$ 3.112,65;R$ 62,25
+02/09/2010;Sul;Ricardo;Cine e Foto;R$ 2.728,95;R$ 54,58
+03/09/2010;Centro;Ana Maria;Roupas e Acessórios;R$ 2.528,01;R$ 50,56
+04/09/2010;Leste;Ricardo;Cine e Foto;R$ 1.368,53;R$ 27,37
+05/09/2010;Sudeste;Ana Maria;Eletrodomésticos;R$ 4.884,02;R$ 97,68
+06/09/2010;Centro;João Carlos;Roupas e Acessórios;R$ 2.554,00;R$ 51,08
+07/09/2010;Sudeste;Carolina;Móveis e Decoração;R$ 988,60;R$ 19,77
+08/09/2010;Sudeste;Ricardo;Esporte e Lazer;R$ 2.274,67;R$ 45,49
+09/09/2010;Sul;Ricardo;Eletrodomésticos;R$ 3.162,46;R$ 63,25
+09/09/2010;Norte;João Carlos;Esporte e Lazer;R$ 4.544,43;R$ 90,89
+10/09/2010;Sul;João Carlos;Móveis e Decoração;R$ 309,74;R$ 6,19
+11/09/2010;Centro;José Luiz;Eletrônicos;R$ 3.964,01;R$ 79,28
+11/09/2010;Nordeste;Carolina;Cine e Foto;R$ 2.397,99;R$ 47,96
+12/09/2010;Centro;Ana Maria;Móveis e Decoração;R$ 4.638,30;R$ 92,77
+13/09/2010;Sudeste;João Carlos;Eletrônicos;R$ 4.906,34;R$ 98,13
+14/09/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 1.677,48;R$ 33,55
+14/09/2010;Sul;Ana Maria;Utilidades Domésticas;R$ 249,28;R$ 4,99
+14/09/2010;Sudeste;João Carlos;Esporte e Lazer;R$ 1.412,84;R$ 28,26
+15/09/2010;Sudeste;Carolina;Roupas e Acessórios;R$ 2.576,36;R$ 51,53
+17/09/2010;Nordeste;Ricardo;Utilidades Domésticas;R$ 4.722,47;R$ 94,45
+17/09/2010;Nordeste;Roberto;Roupas e Acessórios;R$ 3.393,21;R$ 67,86
+17/09/2010;Centro;Ana Maria;Cine e Foto;R$ 4.123,99;R$ 82,48
+19/09/2010;Sudeste;Carolina;Cama, Mesa e Banho;R$ 1.202,92;R$ 24,06
+22/09/2010;Nordeste;Adriana;Móveis e Decoração;R$ 2.693,46;R$ 53,87
+23/09/2010;Oeste;João Carlos;Esporte e Lazer;R$ 1.192,20;R$ 23,84
+23/09/2010;Centro;Carolina;Esporte e Lazer;R$ 1.585,25;R$ 31,71
+23/09/2010;Centro;Carolina;Esporte e Lazer;R$ 3.895,91;R$ 77,92
+23/09/2010;Nordeste;Ana Maria;Eletrônicos;R$ 2.183,25;R$ 43,67
+26/09/2010;Leste;José Luiz;Roupas e Acessórios;R$ 2.917,83;R$ 58,36
+26/09/2010;Sudeste;Carolina;Casa e Construção;R$ 4.210,21;R$ 84,20
+26/09/2010;Sudeste;Ana Maria;Casa e Construção;R$ 239,69;R$ 4,79
+27/09/2010;Nordeste;José Luiz;Eletrônicos;R$ 4.320,54;R$ 86,41
+27/09/2010;Sul;José Luiz;Casa e Construção;R$ 3.059,45;R$ 61,19
+28/09/2010;Nordeste;Ana Maria;Móveis e Decoração;R$ 1.899,72;R$ 37,99
+28/09/2010;Nordeste;José Luiz;Eletrônicos;R$ 1.938,34;R$ 38,77
+28/09/2010;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 1.286,60;R$ 25,73
+29/09/2010;Sudeste;Roberto;Roupas e Acessórios;R$ 796,16;R$ 15,92
+29/09/2010;Nordeste;Carolina;Cama, Mesa e Banho;R$ 3.051,86;R$ 61,04
+29/09/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 4.031,54;R$ 80,63
+29/09/2010;Centro;Ana Maria;Utilidades Domésticas;R$ 1.573,94;R$ 31,48
+29/09/2010;Centro;Carolina;Esporte e Lazer;R$ 1.391,69;R$ 27,83
+30/09/2010;Centro;Carolina;Esporte e Lazer;R$ 1.869,88;R$ 37,40
+03/10/2010;Centro;Roberto;Cama, Mesa e Banho;R$ 4.093,79;R$ 81,88
+03/10/2010;Centro;Ana Maria;Móveis e Decoração;R$ 360,22;R$ 7,20
+04/10/2010;Sul;João Carlos;Cama, Mesa e Banho;R$ 1.599,40;R$ 31,99
+04/10/2010;Centro;Ana Maria;Cama, Mesa e Banho;R$ 2.361,53;R$ 47,23
+05/10/2010;Nordeste;Carolina;Cama, Mesa e Banho;R$ 1.871,45;R$ 37,43
+06/10/2010;Centro;Simone;Casa e Construção;R$ 2.668,22;R$ 53,36
+06/10/2010;Norte;Carolina;Eletrônicos;R$ 2.227,39;R$ 44,55
+06/10/2010;Nordeste;José Luiz;Casa e Construção;R$ 4.247,70;R$ 84,95
+07/10/2010;Nordeste;Carolina;Roupas e Acessórios;R$ 538,81;R$ 10,78
+07/10/2010;Nordeste;Ricardo;Roupas e Acessórios;R$ 4.200,02;R$ 84,00
+07/10/2010;Oeste;Carolina;Utilidades Domésticas;R$ 2.787,45;R$ 55,75
+11/10/2010;Centro;João Carlos;Casa e Construção;R$ 1.902,99;R$ 38,06
+11/10/2010;Oeste;João Carlos;Cama, Mesa e Banho;R$ 1.452,52;R$ 29,05
+12/10/2010;Centro;Adriana;Móveis e Decoração;R$ 2.626,43;R$ 52,53
+13/10/2010;Nordeste;João Carlos;Móveis e Decoração;R$ 2.413,43;R$ 48,27
+13/10/2010;Sudeste;Ana Maria;Móveis e Decoração;R$ 4.345,39;R$ 86,91
+13/10/2010;Centro;Ricardo;Móveis e Decoração;R$ 3.689,67;R$ 73,79
+14/10/2010;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 3.947,95;R$ 78,96
+14/10/2010;Sul;Ricardo;Utilidades Domésticas;R$ 3.973,01;R$ 79,46
+17/10/2010;Sul;Roberto;Móveis e Decoração;R$ 2.298,15;R$ 45,96
+18/10/2010;Sudeste;Ricardo;Eletrodomésticos;R$ 3.318,93;R$ 66,38
+19/10/2010;Sul;Adriana;Roupas e Acessórios;R$ 3.114,50;R$ 62,29
+19/10/2010;Norte;Simone;Cama, Mesa e Banho;R$ 966,99;R$ 19,34
+21/10/2010;Sul;Simone;Móveis e Decoração;R$ 816,06;R$ 16,32
+22/10/2010;Leste;Adriana;Casa e Construção;R$ 3.785,59;R$ 75,71
+22/10/2010;Sul;Ricardo;Cine e Foto;R$ 2.926,76;R$ 58,54
+23/10/2010;Norte;Ana Maria;Móveis e Decoração;R$ 340,11;R$ 6,80
+23/10/2010;Nordeste;Ana Maria;Eletrônicos;R$ 1.458,92;R$ 29,18
+25/10/2010;Sudeste;Simone;Roupas e Acessórios;R$ 2.710,43;R$ 54,21
+25/10/2010;Centro;Ricardo;Casa e Construção;R$ 980,85;R$ 19,62
+27/10/2010;Sul;João Carlos;Cine e Foto;R$ 3.512,08;R$ 70,24
+27/10/2010;Sudeste;Simone;Roupas e Acessórios;R$ 1.506,25;R$ 30,13
+27/10/2010;Sudeste;João Carlos;Eletrodomésticos;R$ 4.996,73;R$ 99,93
+27/10/2010;Centro;Ana Maria;Móveis e Decoração;R$ 1.355,37;R$ 27,11
+28/10/2010;Sul;Carolina;Esporte e Lazer;R$ 3.150,14;R$ 63,00
+29/10/2010;Norte;Ricardo;Casa e Construção;R$ 1.816,42;R$ 36,33
+29/10/2010;Nordeste;Adriana;Eletrodomésticos;R$ 3.353,33;R$ 67,07
+29/10/2010;Sudeste;Ricardo;Esporte e Lazer;R$ 1.065,28;R$ 21,31
+30/10/2010;Sul;Simone;Cama, Mesa e Banho;R$ 738,58;R$ 14,77
+30/10/2010;Nordeste;Ricardo;Casa e Construção;R$ 4.452,61;R$ 89,05
+31/10/2010;Sul;Roberto;Eletrônicos;R$ 3.622,16;R$ 72,44
+31/10/2010;Sul;Carolina;Utilidades Domésticas;R$ 1.900,64;R$ 38,01
+03/11/2010;Sul;Adriana;Eletrônicos;R$ 1.176,82;R$ 23,54
+03/11/2010;Sudeste;Carolina;Cama, Mesa e Banho;R$ 4.507,34;R$ 90,15
+03/11/2010;Centro;Ana Maria;Esporte e Lazer;R$ 2.157,31;R$ 43,15
+03/11/2010;Oeste;João Carlos;Roupas e Acessórios;R$ 3.437,51;R$ 68,75
+04/11/2010;Nordeste;Adriana;Esporte e Lazer;R$ 3.306,50;R$ 66,13
+04/11/2010;Leste;José Luiz;Móveis e Decoração;R$ 758,15;R$ 15,16
+05/11/2010;Leste;Roberto;Móveis e Decoração;R$ 342,97;R$ 6,86
+07/11/2010;Sul;Carolina;Eletrodomésticos;R$ 3.250,64;R$ 65,01
+07/11/2010;Leste;Ana Maria;Cine e Foto;R$ 3.441,63;R$ 68,83
+08/11/2010;Nordeste;Ricardo;Eletrônicos;R$ 2.399,10;R$ 47,98
+08/11/2010;Sudeste;João Carlos;Esporte e Lazer;R$ 747,19;R$ 14,94
+09/11/2010;Sudeste;Carolina;Casa e Construção;R$ 3.371,35;R$ 67,43
+10/11/2010;Norte;Ricardo;Eletrodomésticos;R$ 3.682,06;R$ 73,64
+10/11/2010;Norte;Carolina;Utilidades Domésticas;R$ 2.606,25;R$ 52,13
+11/11/2010;Nordeste;Ana Maria;Esporte e Lazer;R$ 4.794,52;R$ 95,89
+12/11/2010;Norte;Carolina;Móveis e Decoração;R$ 1.866,98;R$ 37,34
+12/11/2010;Nordeste;Ana Maria;Móveis e Decoração;R$ 1.733,93;R$ 34,68
+13/11/2010;Centro;João Carlos;Utilidades Domésticas;R$ 4.821,29;R$ 96,43
+13/11/2010;Centro;Carolina;Utilidades Domésticas;R$ 3.909,03;R$ 78,18
+14/11/2010;Sul;Simone;Roupas e Acessórios;R$ 270,37;R$ 5,41
+14/11/2010;Nordeste;Simone;Casa e Construção;R$ 3.063,57;R$ 61,27
+17/11/2010;Norte;João Carlos;Esporte e Lazer;R$ 2.432,54;R$ 48,65
+17/11/2010;Centro;Carolina;Esporte e Lazer;R$ 2.579,14;R$ 51,58
+18/11/2010;Leste;Ana Maria;Eletrodomésticos;R$ 624,76;R$ 12,50
+18/11/2010;Norte;João Carlos;Eletrodomésticos;R$ 4.744,48;R$ 94,89
+19/11/2010;Norte;Ricardo;Roupas e Acessórios;R$ 1.956,29;R$ 39,13
+20/11/2010;Centro;Adriana;Roupas e Acessórios;R$ 650,40;R$ 13,01
+22/11/2010;Sudeste;João Carlos;Casa e Construção;R$ 2.956,98;R$ 59,14
+22/11/2010;Leste;Adriana;Eletrônicos;R$ 2.122,55;R$ 42,45
+23/11/2010;Oeste;Ricardo;Casa e Construção;R$ 3.425,16;R$ 68,50
+23/11/2010;Norte;José Luiz;Eletrodomésticos;R$ 4.122,05;R$ 82,44
+23/11/2010;Norte;Ricardo;Móveis e Decoração;R$ 3.614,64;R$ 72,29
+24/11/2010;Nordeste;José Luiz;Utilidades Domésticas;R$ 3.115,59;R$ 62,31
+24/11/2010;Sudeste;Ricardo;Eletrodomésticos;R$ 3.272,94;R$ 65,46
+25/11/2010;Sul;Ricardo;Móveis e Decoração;R$ 707,09;R$ 14,14
+25/11/2010;Centro;Ricardo;Cine e Foto;R$ 3.488,89;R$ 69,78
+26/11/2010;Centro;Ana Maria;Utilidades Domésticas;R$ 4.230,48;R$ 84,61
+26/11/2010;Sudeste;João Carlos;Esporte e Lazer;R$ 4.988,04;R$ 99,76
+26/11/2010;Sudeste;Roberto;Eletrônicos;R$ 2.285,04;R$ 45,70
+27/11/2010;Centro;Simone;Eletrônicos;R$ 3.656,66;R$ 73,13
+28/11/2010;Norte;João Carlos;Cine e Foto;R$ 4.756,46;R$ 95,13
+28/11/2010;Sudeste;João Carlos;Utilidades Domésticas;R$ 2.984,69;R$ 59,69
+29/11/2010;Sudeste;Simone;Eletrodomésticos;R$ 2.733,64;R$ 54,67
+29/11/2010;Nordeste;Carolina;Esporte e Lazer;R$ 1.097,63;R$ 21,95
+30/11/2010;Sul;Carolina;Cine e Foto;R$ 3.558,91;R$ 71,18
+01/12/2010;Sudeste;João Carlos;Casa e Construção;R$ 4.572,76;R$ 91,46
+01/12/2010;Oeste;João Carlos;Eletrônicos;R$ 2.933,37;R$ 58,67
+01/12/2010;Sul;Carolina;Esporte e Lazer;R$ 1.734,21;R$ 34,68
+02/12/2010;Centro;Ricardo;Cama, Mesa e Banho;R$ 1.173,73;R$ 23,47
+02/12/2010;Sul;Ricardo;Utilidades Domésticas;R$ 1.551,48;R$ 31,03
+02/12/2010;Norte;João Carlos;Móveis e Decoração;R$ 4.211,69;R$ 84,23
+03/12/2010;Oeste;João Carlos;Casa e Construção;R$ 2.987,42;R$ 59,75
+03/12/2010;Oeste;João Carlos;Eletrodomésticos;R$ 4.543,66;R$ 90,87
+03/12/2010;Sudeste;Carolina;Cine e Foto;R$ 3.252,64;R$ 65,05
+04/12/2010;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 4.781,39;R$ 95,63
+04/12/2010;Sul;Ana Maria;Roupas e Acessórios;R$ 4.042,16;R$ 80,84
+05/12/2010;Sudeste;Carolina;Cine e Foto;R$ 1.603,59;R$ 32,07
+05/12/2010;Centro;Ana Maria;Eletrodomésticos;R$ 1.378,81;R$ 27,58
+05/12/2010;Nordeste;Simone;Esporte e Lazer;R$ 1.145,82;R$ 22,92
+06/12/2010;Centro;Ana Maria;Cine e Foto;R$ 319,05;R$ 6,38
+07/12/2010;Centro;Ricardo;Utilidades Domésticas;R$ 459,62;R$ 9,19
+09/12/2010;Leste;José Luiz;Eletrodomésticos;R$ 1.795,87;R$ 35,92
+09/12/2010;Sul;João Carlos;Móveis e Decoração;R$ 1.037,06;R$ 20,74
+10/12/2010;Norte;José Luiz;Casa e Construção;R$ 1.793,36;R$ 35,87
+10/12/2010;Leste;Simone;Eletrônicos;R$ 4.875,31;R$ 97,51
+11/12/2010;Nordeste;João Carlos;Eletrônicos;R$ 1.976,71;R$ 39,53
+11/12/2010;Sudeste;Simone;Casa e Construção;R$ 1.228,64;R$ 24,57
+11/12/2010;Centro;Carolina;Utilidades Domésticas;R$ 2.402,14;R$ 48,04
+12/12/2010;Leste;Roberto;Roupas e Acessórios;R$ 737,45;R$ 14,75
+13/12/2010;Centro;João Carlos;Eletrônicos;R$ 1.093,01;R$ 21,86
+13/12/2010;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 556,80;R$ 11,14
+13/12/2010;Sudeste;Ricardo;Eletrodomésticos;R$ 3.824,24;R$ 76,48
+14/12/2010;Nordeste;Ricardo;Roupas e Acessórios;R$ 4.138,77;R$ 82,78
+14/12/2010;Sudeste;João Carlos;Cine e Foto;R$ 2.277,74;R$ 45,55
+15/12/2010;Sudeste;Carolina;Cama, Mesa e Banho;R$ 1.215,87;R$ 24,32
+15/12/2010;Sudeste;José Luiz;Roupas e Acessórios;R$ 330,32;R$ 6,61
+16/12/2010;Centro;José Luiz;Casa e Construção;R$ 4.829,69;R$ 96,59
+16/12/2010;Sudeste;José Luiz;Roupas e Acessórios;R$ 3.772,05;R$ 75,44
+17/12/2010;Centro;Carolina;Casa e Construção;R$ 4.507,05;R$ 90,14
+17/12/2010;Nordeste;Ana Maria;Cama, Mesa e Banho;R$ 436,52;R$ 8,73
+19/12/2010;Leste;João Carlos;Casa e Construção;R$ 4.331,58;R$ 86,63
+19/12/2010;Oeste;Ana Maria;Roupas e Acessórios;R$ 3.799,43;R$ 75,99
+19/12/2010;Sudeste;Roberto;Roupas e Acessórios;R$ 4.174,01;R$ 83,48
+19/12/2010;Centro;Carolina;Roupas e Acessórios;R$ 3.483,99;R$ 69,68
+20/12/2010;Sul;João Carlos;Cine e Foto;R$ 905,30;R$ 18,11
+20/12/2010;Sudeste;Carolina;Utilidades Domésticas;R$ 2.971,69;R$ 59,43
+21/12/2010;Oeste;Ana Maria;Eletrônicos;R$ 758,81;R$ 15,18
+22/12/2010;Nordeste;José Luiz;Casa e Construção;R$ 4.413,16;R$ 88,26
+23/12/2010;Sudeste;Ana Maria;Esporte e Lazer;R$ 3.891,81;R$ 77,84
+23/12/2010;Oeste;Simone;Móveis e Decoração;R$ 1.427,89;R$ 28,56
+23/12/2010;Norte;Carolina;Eletrodomésticos;R$ 2.458,11;R$ 49,16
+23/12/2010;Norte;Ana Maria;Casa e Construção;R$ 4.430,97;R$ 88,62
+23/12/2010;Nordeste;João Carlos;Cine e Foto;R$ 2.013,77;R$ 40,28
+24/12/2010;Centro;Carolina;Roupas e Acessórios;R$ 477,38;R$ 9,55
+24/12/2010;Sudeste;Ricardo;Esporte e Lazer;R$ 794,14;R$ 15,88
+24/12/2010;Nordeste;Ana Maria;Eletrônicos;R$ 2.644,09;R$ 52,88
+24/12/2010;Norte;Ricardo;Cama, Mesa e Banho;R$ 2.023,89;R$ 40,48
+25/12/2010;Sudeste;Roberto;Eletrodomésticos;R$ 2.476,55;R$ 49,53
+26/12/2010;Leste;Roberto;Cine e Foto;R$ 1.547,99;R$ 30,96
+28/12/2010;Centro;Ana Maria;Esporte e Lazer;R$ 2.297,24;R$ 45,94
+28/12/2010;Nordeste;Carolina;Eletrodomésticos;R$ 1.091,72;R$ 21,83
+29/12/2010;Nordeste;Ana Maria;Eletrodomésticos;R$ 563,64;R$ 11,27
+29/12/2010;Nordeste;Ana Maria;Eletrodomésticos;R$ 2.443,17;R$ 48,86
+29/12/2010;Sul;Simone;Esporte e Lazer;R$ 3.123,23;R$ 62,46
+30/12/2010;Centro;Simone;Cine e Foto;R$ 3.318,37;R$ 66,37
+30/12/2010;Sul;Ricardo;Eletrodomésticos;R$ 4.766,00;R$ 95,32
+31/12/2010;Sudeste;Adriana;Eletrodomésticos;R$ 247,05;R$ 4,94
+31/12/2010;Nordeste;João Carlos;Cine e Foto;R$ 1.690,31;R$ 33,81
+01/01/2011;Leste;João Carlos;Roupas e Acessórios;R$ 4.819,02;R$ 96,38
+02/01/2011;Sudeste;Ana Maria;Cama, Mesa e Banho;R$ 1.752,21;R$ 35,04
+04/01/2011;Nordeste;João Carlos;Eletrodomésticos;R$ 368,13;R$ 7,36
+05/01/2011;Nordeste;Ana Maria;Cine e Foto;R$ 939,57;R$ 18,79
+05/01/2011;Sudeste;João Carlos;Casa e Construção;R$ 2.506,47;R$ 50,13
+05/01/2011;Nordeste;Ana Maria;Cine e Foto;R$ 3.511,53;R$ 70,23
+05/01/2011;Sul;Ana Maria;Móveis e Decoração;R$ 1.789,63;R$ 35,79
+06/01/2011;Sul;Ricardo;Eletrônicos;R$ 250,72;R$ 5,01
+06/01/2011;Nordeste;João Carlos;Eletrodomésticos;R$ 388,43;R$ 7,77
+06/01/2011;Centro;Carolina;Esporte e Lazer;R$ 369,59;R$ 7,39
+07/01/2011;Nordeste;Adriana;Utilidades Domésticas;R$ 2.287,25;R$ 45,75
+07/01/2011;Oeste;Carolina;Eletrodomésticos;R$ 3.920,64;R$ 78,41
+10/01/2011;Sudeste;João Carlos;Utilidades Domésticas;R$ 3.863,69;R$ 77,27
+10/01/2011;Centro;João Carlos;Esporte e Lazer;R$ 534,37;R$ 10,69
+10/01/2011;Sul;Ana Maria;Casa e Construção;R$ 916,95;R$ 18,34
+10/01/2011;Sudeste;Ricardo;Móveis e Decoração;R$ 678,31;R$ 13,57
+10/01/2011;Sudeste;Carolina;Roupas e Acessórios;R$ 3.475,18;R$ 69,50
+11/01/2011;Nordeste;Roberto;Roupas e Acessórios;R$ 4.971,34;R$ 99,43
+11/01/2011;Nordeste;Ana Maria;Eletrônicos;R$ 3.151,71;R$ 63,03
+13/01/2011;Sul;João Carlos;Eletrodomésticos;R$ 4.541,67;R$ 90,83
+14/01/2011;Leste;Ricardo;Roupas e Acessórios;R$ 4.658,75;R$ 93,18
+16/01/2011;Oeste;Carolina;Cama, Mesa e Banho;R$ 3.060,56;R$ 61,21
+17/01/2011;Sudeste;Simone;Utilidades Domésticas;R$ 783,76;R$ 15,68
+17/01/2011;Sudeste;Ana Maria;Roupas e Acessórios;R$ 309,25;R$ 6,19
+17/01/2011;Centro;José Luiz;Utilidades Domésticas;R$ 2.334,66;R$ 46,69
+19/01/2011;Sudeste;Ricardo;Eletrodomésticos;R$ 813,86;R$ 16,28
+20/01/2011;Centro;Ricardo;Cine e Foto;R$ 4.732,24;R$ 94,64
+20/01/2011;Nordeste;Ricardo;Casa e Construção;R$ 2.608,31;R$ 52,17
+20/01/2011;Sul;Adriana;Esporte e Lazer;R$ 4.837,71;R$ 96,75
+20/01/2011;Nordeste;João Carlos;Esporte e Lazer;R$ 3.654,54;R$ 73,09
+21/01/2011;Sudeste;Ana Maria;Casa e Construção;R$ 3.101,24;R$ 62,02
+21/01/2011;Nordeste;Carolina;Cine e Foto;R$ 2.178,75;R$ 43,58
+22/01/2011;Centro;Adriana;Casa e Construção;R$ 509,41;R$ 10,19
+23/01/2011;Norte;Ricardo;Eletrodomésticos;R$ 3.716,31;R$ 74,33
+24/01/2011;Oeste;José Luiz;Eletrônicos;R$ 3.236,02;R$ 64,72
+24/01/2011;Norte;Carolina;Cama, Mesa e Banho;R$ 3.160,17;R$ 63,20
+24/01/2011;Nordeste;João Carlos;Utilidades Domésticas;R$ 2.862,84;R$ 57,26
+25/01/2011;Norte;João Carlos;Roupas e Acessórios;R$ 1.125,10;R$ 22,50
+26/01/2011;Centro;Ricardo;Móveis e Decoração;R$ 1.014,13;R$ 20,28
+27/01/2011;Leste;José Luiz;Esporte e Lazer;R$ 544,78;R$ 10,90
+28/01/2011;Centro;João Carlos;Utilidades Domésticas;R$ 902,53;R$ 18,05
+28/01/2011;Sudeste;João Carlos;Casa e Construção;R$ 303,66;R$ 6,07
+29/01/2011;Leste;Ricardo;Cama, Mesa e Banho;R$ 3.293,15;R$ 65,86
+31/01/2011;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 3.909,26;R$ 78,19
+01/02/2011;Oeste;Carolina;Roupas e Acessórios;R$ 1.809,20;R$ 36,18
+01/02/2011;Nordeste;Ricardo;Roupas e Acessórios;R$ 2.092,38;R$ 41,85
+03/02/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 4.012,89;R$ 80,26
+05/02/2011;Norte;José Luiz;Roupas e Acessórios;R$ 1.376,20;R$ 27,52
+05/02/2011;Sudeste;João Carlos;Móveis e Decoração;R$ 1.098,55;R$ 21,97
+06/02/2011;Sul;João Carlos;Esporte e Lazer;R$ 662,74;R$ 13,25
+06/02/2011;Sudeste;Roberto;Roupas e Acessórios;R$ 2.123,67;R$ 42,47
+06/02/2011;Oeste;Roberto;Eletrônicos;R$ 2.178,81;R$ 43,58
+07/02/2011;Nordeste;José Luiz;Móveis e Decoração;R$ 2.225,36;R$ 44,51
+07/02/2011;Sudeste;Ricardo;Cine e Foto;R$ 3.473,42;R$ 69,47
+08/02/2011;Norte;João Carlos;Móveis e Decoração;R$ 3.673,10;R$ 73,46
+09/02/2011;Centro;Carolina;Eletrodomésticos;R$ 2.850,31;R$ 57,01
+10/02/2011;Sul;Simone;Casa e Construção;R$ 1.699,55;R$ 33,99
+10/02/2011;Sudeste;Ricardo;Casa e Construção;R$ 4.013,03;R$ 80,26
+11/02/2011;Sudeste;João Carlos;Roupas e Acessórios;R$ 4.930,70;R$ 98,61
+11/02/2011;Sudeste;João Carlos;Cine e Foto;R$ 212,14;R$ 4,24
+14/02/2011;Leste;Carolina;Móveis e Decoração;R$ 3.666,85;R$ 73,34
+15/02/2011;Oeste;Ricardo;Roupas e Acessórios;R$ 228,83;R$ 4,58
+17/02/2011;Norte;João Carlos;Roupas e Acessórios;R$ 1.064,41;R$ 21,29
+18/02/2011;Leste;Carolina;Roupas e Acessórios;R$ 2.069,08;R$ 41,38
+20/02/2011;Oeste;Ricardo;Eletrônicos;R$ 749,98;R$ 15,00
+20/02/2011;Sudeste;Carolina;Móveis e Decoração;R$ 2.515,64;R$ 50,31
+20/02/2011;Centro;Carolina;Eletrodomésticos;R$ 2.426,19;R$ 48,52
+20/02/2011;Centro;Adriana;Utilidades Domésticas;R$ 4.043,24;R$ 80,86
+22/02/2011;Oeste;José Luiz;Utilidades Domésticas;R$ 3.395,95;R$ 67,92
+22/02/2011;Oeste;José Luiz;Cine e Foto;R$ 4.637,46;R$ 92,75
+23/02/2011;Sul;José Luiz;Cine e Foto;R$ 4.372,85;R$ 87,46
+24/02/2011;Centro;João Carlos;Esporte e Lazer;R$ 2.731,38;R$ 54,63
+24/02/2011;Nordeste;José Luiz;Cama, Mesa e Banho;R$ 4.842,43;R$ 96,85
+25/02/2011;Nordeste;João Carlos;Eletrodomésticos;R$ 586,45;R$ 11,73
+25/02/2011;Sudeste;João Carlos;Eletrodomésticos;R$ 3.613,06;R$ 72,26
+26/02/2011;Oeste;Ana Maria;Cine e Foto;R$ 1.688,39;R$ 33,77
+27/02/2011;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 1.196,82;R$ 23,94
+27/02/2011;Sul;Adriana;Eletrodomésticos;R$ 4.526,22;R$ 90,52
+28/02/2011;Leste;Carolina;Utilidades Domésticas;R$ 3.816,47;R$ 76,33
+01/03/2011;Sul;Carolina;Eletrônicos;R$ 2.675,45;R$ 53,51
+05/03/2011;Sudeste;José Luiz;Móveis e Decoração;R$ 1.502,41;R$ 30,05
+05/03/2011;Sudeste;Ana Maria;Roupas e Acessórios;R$ 2.015,39;R$ 40,31
+05/03/2011;Nordeste;Roberto;Utilidades Domésticas;R$ 3.076,43;R$ 61,53
+06/03/2011;Sul;Ricardo;Eletrônicos;R$ 4.687,20;R$ 93,74
+06/03/2011;Norte;Adriana;Utilidades Domésticas;R$ 1.583,08;R$ 31,66
+07/03/2011;Nordeste;Ricardo;Eletrodomésticos;R$ 253,96;R$ 5,08
+08/03/2011;Norte;Roberto;Cine e Foto;R$ 2.199,43;R$ 43,99
+10/03/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 2.323,72;R$ 46,47
+10/03/2011;Norte;Simone;Eletrodomésticos;R$ 4.380,80;R$ 87,62
+11/03/2011;Sudeste;João Carlos;Móveis e Decoração;R$ 2.043,94;R$ 40,88
+13/03/2011;Sudeste;Carolina;Móveis e Decoração;R$ 2.691,83;R$ 53,84
+13/03/2011;Nordeste;Adriana;Utilidades Domésticas;R$ 2.639,36;R$ 52,79
+14/03/2011;Sudeste;João Carlos;Roupas e Acessórios;R$ 2.541,53;R$ 50,83
+16/03/2011;Nordeste;Ana Maria;Eletrônicos;R$ 2.990,98;R$ 59,82
+16/03/2011;Leste;João Carlos;Eletrodomésticos;R$ 2.369,96;R$ 47,40
+16/03/2011;Centro;Adriana;Casa e Construção;R$ 1.542,80;R$ 30,86
+16/03/2011;Centro;Carolina;Cine e Foto;R$ 1.355,81;R$ 27,12
+17/03/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 4.472,67;R$ 89,45
+20/03/2011;Nordeste;João Carlos;Cine e Foto;R$ 2.699,63;R$ 53,99
+21/03/2011;Nordeste;Simone;Móveis e Decoração;R$ 755,59;R$ 15,11
+21/03/2011;Leste;João Carlos;Casa e Construção;R$ 1.493,82;R$ 29,88
+26/03/2011;Sudeste;Ana Maria;Móveis e Decoração;R$ 3.039,16;R$ 60,78
+26/03/2011;Oeste;Ana Maria;Eletrodomésticos;R$ 836,95;R$ 16,74
+27/03/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 411,93;R$ 8,24
+27/03/2011;Sul;Carolina;Esporte e Lazer;R$ 4.459,91;R$ 89,20
+27/03/2011;Nordeste;Adriana;Roupas e Acessórios;R$ 3.123,48;R$ 62,47
+28/03/2011;Sul;João Carlos;Cine e Foto;R$ 2.916,20;R$ 58,32
+28/03/2011;Sul;Roberto;Eletrodomésticos;R$ 1.314,12;R$ 26,28
+29/03/2011;Sul;Carolina;Casa e Construção;R$ 3.117,01;R$ 62,34
+31/03/2011;Sudeste;Ricardo;Cine e Foto;R$ 4.591,30;R$ 91,83
+31/03/2011;Sul;Adriana;Utilidades Domésticas;R$ 4.761,56;R$ 95,23
+01/04/2011;Norte;Ana Maria;Móveis e Decoração;R$ 3.539,51;R$ 70,79
+02/04/2011;Centro;Ana Maria;Cine e Foto;R$ 4.790,60;R$ 95,81
+03/04/2011;Sudeste;Ricardo;Eletrodomésticos;R$ 869,92;R$ 17,40
+04/04/2011;Centro;Ricardo;Utilidades Domésticas;R$ 3.345,88;R$ 66,92
+05/04/2011;Sudeste;Ricardo;Roupas e Acessórios;R$ 4.669,01;R$ 93,38
+05/04/2011;Sudeste;Carolina;Roupas e Acessórios;R$ 358,07;R$ 7,16
+07/04/2011;Norte;José Luiz;Móveis e Decoração;R$ 714,85;R$ 14,30
+07/04/2011;Sul;Simone;Móveis e Decoração;R$ 1.063,17;R$ 21,26
+08/04/2011;Sul;Roberto;Eletrônicos;R$ 691,95;R$ 13,84
+09/04/2011;Sul;João Carlos;Eletrodomésticos;R$ 4.280,12;R$ 85,60
+10/04/2011;Norte;José Luiz;Móveis e Decoração;R$ 4.259,86;R$ 85,20
+10/04/2011;Norte;João Carlos;Utilidades Domésticas;R$ 1.428,14;R$ 28,56
+10/04/2011;Centro;Carolina;Eletrônicos;R$ 357,05;R$ 7,14
+11/04/2011;Oeste;Carolina;Eletrônicos;R$ 2.778,99;R$ 55,58
+11/04/2011;Sudeste;Carolina;Esporte e Lazer;R$ 598,25;R$ 11,97
+12/04/2011;Centro;Adriana;Eletrodomésticos;R$ 2.304,34;R$ 46,09
+12/04/2011;Centro;Carolina;Casa e Construção;R$ 1.373,22;R$ 27,46
+13/04/2011;Sudeste;Carolina;Cine e Foto;R$ 4.696,53;R$ 93,93
+14/04/2011;Centro;Roberto;Eletrodomésticos;R$ 2.471,10;R$ 49,42
+15/04/2011;Sudeste;José Luiz;Utilidades Domésticas;R$ 3.942,44;R$ 78,85
+18/04/2011;Nordeste;José Luiz;Móveis e Decoração;R$ 501,37;R$ 10,03
+19/04/2011;Oeste;Ricardo;Móveis e Decoração;R$ 2.271,29;R$ 45,43
+20/04/2011;Sudeste;Carolina;Móveis e Decoração;R$ 4.894,04;R$ 97,88
+20/04/2011;Oeste;João Carlos;Esporte e Lazer;R$ 698,30;R$ 13,97
+20/04/2011;Leste;Ana Maria;Utilidades Domésticas;R$ 3.887,06;R$ 77,74
+21/04/2011;Centro;Simone;Esporte e Lazer;R$ 4.630,91;R$ 92,62
+21/04/2011;Sudeste;Ricardo;Eletrônicos;R$ 2.975,66;R$ 59,51
+21/04/2011;Norte;Carolina;Eletrônicos;R$ 2.150,74;R$ 43,01
+22/04/2011;Sul;Carolina;Cama, Mesa e Banho;R$ 3.764,35;R$ 75,29
+22/04/2011;Nordeste;João Carlos;Cine e Foto;R$ 435,98;R$ 8,72
+22/04/2011;Sul;Carolina;Cine e Foto;R$ 3.656,00;R$ 73,12
+23/04/2011;Centro;Roberto;Cama, Mesa e Banho;R$ 2.920,79;R$ 58,42
+24/04/2011;Sul;Roberto;Roupas e Acessórios;R$ 4.880,04;R$ 97,60
+24/04/2011;Norte;Ana Maria;Casa e Construção;R$ 946,68;R$ 18,93
+25/04/2011;Nordeste;Ricardo;Casa e Construção;R$ 3.039,26;R$ 60,79
+26/04/2011;Norte;Ricardo;Roupas e Acessórios;R$ 3.030,72;R$ 60,61
+27/04/2011;Sudeste;João Carlos;Esporte e Lazer;R$ 3.406,64;R$ 68,13
+28/04/2011;Sudeste;Adriana;Casa e Construção;R$ 1.109,18;R$ 22,18
+28/04/2011;Sudeste;Simone;Móveis e Decoração;R$ 861,98;R$ 17,24
+28/04/2011;Nordeste;Ana Maria;Eletrodomésticos;R$ 1.808,44;R$ 36,17
+28/04/2011;Oeste;Carolina;Utilidades Domésticas;R$ 3.037,57;R$ 60,75
+30/04/2011;Centro;João Carlos;Eletrônicos;R$ 3.644,24;R$ 72,88
+01/05/2011;Sul;Carolina;Eletrônicos;R$ 4.363,69;R$ 87,27
+01/05/2011;Nordeste;Carolina;Casa e Construção;R$ 1.646,96;R$ 32,94
+02/05/2011;Oeste;Simone;Cine e Foto;R$ 1.295,55;R$ 25,91
+02/05/2011;Oeste;Carolina;Cama, Mesa e Banho;R$ 1.356,22;R$ 27,12
+02/05/2011;Sudeste;João Carlos;Utilidades Domésticas;R$ 3.051,97;R$ 61,04
+03/05/2011;Centro;João Carlos;Eletrodomésticos;R$ 2.507,28;R$ 50,15
+04/05/2011;Sudeste;João Carlos;Eletrodomésticos;R$ 4.322,51;R$ 86,45
+04/05/2011;Sul;João Carlos;Cama, Mesa e Banho;R$ 3.918,99;R$ 78,38
+05/05/2011;Nordeste;José Luiz;Eletrodomésticos;R$ 3.771,55;R$ 75,43
+06/05/2011;Sudeste;Carolina;Eletrônicos;R$ 4.680,61;R$ 93,61
+06/05/2011;Centro;Carolina;Eletrônicos;R$ 4.707,38;R$ 94,15
+07/05/2011;Nordeste;Carolina;Cine e Foto;R$ 3.064,87;R$ 61,30
+07/05/2011;Sudeste;Carolina;Cine e Foto;R$ 2.865,57;R$ 57,31
+07/05/2011;Leste;Carolina;Cine e Foto;R$ 2.827,12;R$ 56,54
+09/05/2011;Centro;João Carlos;Móveis e Decoração;R$ 495,40;R$ 9,91
+11/05/2011;Sul;Roberto;Móveis e Decoração;R$ 1.343,21;R$ 26,86
+11/05/2011;Centro;Roberto;Esporte e Lazer;R$ 4.542,24;R$ 90,84
+11/05/2011;Centro;Carolina;Roupas e Acessórios;R$ 2.584,62;R$ 51,69
+12/05/2011;Sul;Ana Maria;Roupas e Acessórios;R$ 678,75;R$ 13,58
+13/05/2011;Sul;Roberto;Utilidades Domésticas;R$ 3.567,54;R$ 71,35
+14/05/2011;Nordeste;Carolina;Utilidades Domésticas;R$ 2.762,51;R$ 55,25
+14/05/2011;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 296,75;R$ 5,94
+15/05/2011;Centro;João Carlos;Móveis e Decoração;R$ 4.513,31;R$ 90,27
+15/05/2011;Sul;João Carlos;Utilidades Domésticas;R$ 369,22;R$ 7,38
+15/05/2011;Norte;José Luiz;Cama, Mesa e Banho;R$ 4.440,72;R$ 88,81
+15/05/2011;Centro;Simone;Esporte e Lazer;R$ 1.780,00;R$ 35,60
+16/05/2011;Norte;Carolina;Utilidades Domésticas;R$ 4.934,45;R$ 98,69
+17/05/2011;Sudeste;João Carlos;Casa e Construção;R$ 1.717,99;R$ 34,36
+17/05/2011;Oeste;Carolina;Cine e Foto;R$ 1.115,56;R$ 22,31
+18/05/2011;Sul;João Carlos;Móveis e Decoração;R$ 2.280,85;R$ 45,62
+19/05/2011;Centro;José Luiz;Roupas e Acessórios;R$ 4.725,50;R$ 94,51
+20/05/2011;Oeste;Carolina;Eletrodomésticos;R$ 1.134,56;R$ 22,69
+21/05/2011;Sul;Carolina;Roupas e Acessórios;R$ 4.064,66;R$ 81,29
+21/05/2011;Sudeste;Ana Maria;Eletrônicos;R$ 3.489,25;R$ 69,79
+21/05/2011;Nordeste;Carolina;Eletrônicos;R$ 3.760,28;R$ 75,21
+22/05/2011;Sul;Ana Maria;Roupas e Acessórios;R$ 571,48;R$ 11,43
+22/05/2011;Sudeste;Adriana;Esporte e Lazer;R$ 1.586,75;R$ 31,74
+22/05/2011;Centro;João Carlos;Móveis e Decoração;R$ 1.481,70;R$ 29,63
+23/05/2011;Centro;Simone;Esporte e Lazer;R$ 4.172,58;R$ 83,45
+24/05/2011;Norte;Ana Maria;Casa e Construção;R$ 4.317,60;R$ 86,35
+24/05/2011;Sudeste;Ricardo;Esporte e Lazer;R$ 3.152,16;R$ 63,04
+25/05/2011;Norte;Carolina;Cama, Mesa e Banho;R$ 3.346,17;R$ 66,92
+25/05/2011;Sul;Ricardo;Esporte e Lazer;R$ 2.522,65;R$ 50,45
+26/05/2011;Nordeste;Roberto;Utilidades Domésticas;R$ 2.355,33;R$ 47,11
+27/05/2011;Sul;Carolina;Roupas e Acessórios;R$ 4.589,98;R$ 91,80
+29/05/2011;Sudeste;Carolina;Roupas e Acessórios;R$ 4.084,02;R$ 81,68
+31/05/2011;Norte;Ana Maria;Roupas e Acessórios;R$ 779,01;R$ 15,58
+31/05/2011;Nordeste;Carolina;Roupas e Acessórios;R$ 3.696,49;R$ 73,93
+31/05/2011;Oeste;José Luiz;Cine e Foto;R$ 1.932,07;R$ 38,64
+31/05/2011;Sudeste;Adriana;Casa e Construção;R$ 3.144,09;R$ 62,88
+01/06/2011;Oeste;João Carlos;Cine e Foto;R$ 2.951,81;R$ 59,04
+01/06/2011;Centro;Carolina;Eletrônicos;R$ 1.765,12;R$ 35,30
+01/06/2011;Sul;Simone;Eletrônicos;R$ 3.133,99;R$ 62,68
+02/06/2011;Centro;José Luiz;Móveis e Decoração;R$ 3.404,89;R$ 68,10
+03/06/2011;Sudeste;Carolina;Casa e Construção;R$ 2.605,78;R$ 52,12
+05/06/2011;Centro;José Luiz;Cama, Mesa e Banho;R$ 4.130,26;R$ 82,61
+06/06/2011;Oeste;Ana Maria;Eletrodomésticos;R$ 792,14;R$ 15,84
+07/06/2011;Norte;João Carlos;Casa e Construção;R$ 1.085,84;R$ 21,72
+09/06/2011;Sudeste;Simone;Roupas e Acessórios;R$ 4.298,79;R$ 85,98
+10/06/2011;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 801,17;R$ 16,02
+10/06/2011;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 1.082,96;R$ 21,66
+10/06/2011;Oeste;Ana Maria;Utilidades Domésticas;R$ 4.354,92;R$ 87,10
+10/06/2011;Sul;Ricardo;Eletrônicos;R$ 4.549,89;R$ 91,00
+10/06/2011;Sul;Ricardo;Eletrônicos;R$ 3.963,82;R$ 79,28
+11/06/2011;Nordeste;João Carlos;Eletrodomésticos;R$ 3.872,16;R$ 77,44
+13/06/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 3.911,88;R$ 78,24
+13/06/2011;Centro;Ricardo;Roupas e Acessórios;R$ 1.249,35;R$ 24,99
+13/06/2011;Leste;Ricardo;Esporte e Lazer;R$ 1.381,78;R$ 27,64
+15/06/2011;Centro;Simone;Móveis e Decoração;R$ 4.331,97;R$ 86,64
+15/06/2011;Sudeste;Simone;Cama, Mesa e Banho;R$ 858,30;R$ 17,17
+16/06/2011;Sudeste;Carolina;Utilidades Domésticas;R$ 3.173,50;R$ 63,47
+17/06/2011;Nordeste;Ana Maria;Móveis e Decoração;R$ 3.157,57;R$ 63,15
+18/06/2011;Sudeste;João Carlos;Móveis e Decoração;R$ 4.384,98;R$ 87,70
+19/06/2011;Centro;Ana Maria;Eletrodomésticos;R$ 1.686,92;R$ 33,74
+21/06/2011;Nordeste;Ana Maria;Roupas e Acessórios;R$ 315,19;R$ 6,30
+21/06/2011;Sul;Ana Maria;Utilidades Domésticas;R$ 231,99;R$ 4,64
+22/06/2011;Sudeste;Carolina;Cine e Foto;R$ 371,55;R$ 7,43
+23/06/2011;Sudeste;Ricardo;Utilidades Domésticas;R$ 1.300,07;R$ 26,00
+25/06/2011;Centro;João Carlos;Esporte e Lazer;R$ 3.801,82;R$ 76,04
+25/06/2011;Nordeste;Ricardo;Roupas e Acessórios;R$ 3.575,96;R$ 71,52
+29/06/2011;Sudeste;João Carlos;Esporte e Lazer;R$ 4.199,01;R$ 83,98
+29/06/2011;Nordeste;Roberto;Eletrodomésticos;R$ 255,36;R$ 5,11
+29/06/2011;Norte;Carolina;Roupas e Acessórios;R$ 3.486,41;R$ 69,73
+30/06/2011;Leste;Ana Maria;Cama, Mesa e Banho;R$ 3.890,83;R$ 77,82
+01/07/2011;Oeste;José Luiz;Cama, Mesa e Banho;R$ 3.200,88;R$ 64,02
+01/07/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 1.093,94;R$ 21,88
+03/07/2011;Centro;Roberto;Utilidades Domésticas;R$ 573,79;R$ 11,48
+05/07/2011;Nordeste;Roberto;Cama, Mesa e Banho;R$ 1.425,83;R$ 28,52
+05/07/2011;Nordeste;Ana Maria;Cama, Mesa e Banho;R$ 2.518,03;R$ 50,36
+05/07/2011;Leste;Ana Maria;Esporte e Lazer;R$ 1.044,00;R$ 20,88
+05/07/2011;Sudeste;Simone;Roupas e Acessórios;R$ 3.499,81;R$ 70,00
+05/07/2011;Oeste;João Carlos;Roupas e Acessórios;R$ 732,42;R$ 14,65
+05/07/2011;Leste;Ana Maria;Cine e Foto;R$ 3.216,99;R$ 64,34
+05/07/2011;Centro;Carolina;Utilidades Domésticas;R$ 2.932,06;R$ 58,64
+06/07/2011;Centro;Carolina;Móveis e Decoração;R$ 3.716,21;R$ 74,32
+07/07/2011;Sul;João Carlos;Cine e Foto;R$ 929,72;R$ 18,59
+09/07/2011;Nordeste;José Luiz;Eletrônicos;R$ 3.477,26;R$ 69,55
+10/07/2011;Nordeste;Ricardo;Utilidades Domésticas;R$ 1.582,63;R$ 31,65
+10/07/2011;Norte;Simone;Cama, Mesa e Banho;R$ 3.529,17;R$ 70,58
+11/07/2011;Sul;Adriana;Eletrônicos;R$ 1.972,02;R$ 39,44
+11/07/2011;Nordeste;Simone;Casa e Construção;R$ 846,08;R$ 16,92
+14/07/2011;Leste;Carolina;Cama, Mesa e Banho;R$ 1.064,90;R$ 21,30
+14/07/2011;Centro;Carolina;Eletrônicos;R$ 2.944,64;R$ 58,89
+14/07/2011;Sudeste;Carolina;Móveis e Decoração;R$ 2.470,21;R$ 49,40
+14/07/2011;Nordeste;Roberto;Utilidades Domésticas;R$ 1.189,16;R$ 23,78
+16/07/2011;Sudeste;Ricardo;Utilidades Domésticas;R$ 660,20;R$ 13,20
+18/07/2011;Sudeste;Ana Maria;Cine e Foto;R$ 3.376,39;R$ 67,53
+18/07/2011;Centro;João Carlos;Roupas e Acessórios;R$ 3.893,62;R$ 77,87
+20/07/2011;Centro;Ana Maria;Roupas e Acessórios;R$ 2.321,39;R$ 46,43
+20/07/2011;Centro;João Carlos;Esporte e Lazer;R$ 1.944,75;R$ 38,90
+21/07/2011;Leste;Carolina;Roupas e Acessórios;R$ 2.223,99;R$ 44,48
+21/07/2011;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 4.498,62;R$ 89,97
+22/07/2011;Centro;Adriana;Eletrodomésticos;R$ 4.304,08;R$ 86,08
+23/07/2011;Sudeste;José Luiz;Cine e Foto;R$ 1.742,84;R$ 34,86
+24/07/2011;Norte;Adriana;Casa e Construção;R$ 4.958,41;R$ 99,17
+25/07/2011;Sul;José Luiz;Utilidades Domésticas;R$ 4.689,86;R$ 93,80
+25/07/2011;Sul;Carolina;Casa e Construção;R$ 1.192,66;R$ 23,85
+25/07/2011;Sul;Carolina;Roupas e Acessórios;R$ 2.977,91;R$ 59,56
+26/07/2011;Sudeste;Ana Maria;Eletrônicos;R$ 4.052,81;R$ 81,06
+27/07/2011;Nordeste;João Carlos;Roupas e Acessórios;R$ 4.469,34;R$ 89,39
+27/07/2011;Leste;Adriana;Roupas e Acessórios;R$ 2.775,38;R$ 55,51
+27/07/2011;Sudeste;João Carlos;Eletrodomésticos;R$ 2.159,71;R$ 43,19
+28/07/2011;Sudeste;Ricardo;Eletrônicos;R$ 3.714,85;R$ 74,30
+28/07/2011;Sudeste;João Carlos;Eletrodomésticos;R$ 4.937,46;R$ 98,75
+29/07/2011;Centro;Carolina;Esporte e Lazer;R$ 1.192,28;R$ 23,85
+29/07/2011;Sudeste;Carolina;Esporte e Lazer;R$ 3.038,26;R$ 60,77
+30/07/2011;Centro;Carolina;Esporte e Lazer;R$ 808,79;R$ 16,18
+30/07/2011;Sul;Ricardo;Cama, Mesa e Banho;R$ 513,82;R$ 10,28
+31/07/2011;Sudeste;Ana Maria;Cine e Foto;R$ 2.101,16;R$ 42,02
+31/07/2011;Sudeste;Ricardo;Móveis e Decoração;R$ 2.680,57;R$ 53,61
+01/08/2011;Centro;Ricardo;Eletrodomésticos;R$ 899,98;R$ 18,00
+02/08/2011;Sudeste;João Carlos;Esporte e Lazer;R$ 4.563,94;R$ 91,28
+02/08/2011;Sudeste;João Carlos;Eletrônicos;R$ 4.476,32;R$ 89,53
+03/08/2011;Sul;João Carlos;Roupas e Acessórios;R$ 1.942,84;R$ 38,86
+05/08/2011;Sul;João Carlos;Eletrodomésticos;R$ 1.571,46;R$ 31,43
+05/08/2011;Nordeste;João Carlos;Cine e Foto;R$ 3.563,42;R$ 71,27
+06/08/2011;Sudeste;Ana Maria;Eletrodomésticos;R$ 2.405,69;R$ 48,11
+09/08/2011;Centro;José Luiz;Utilidades Domésticas;R$ 4.791,52;R$ 95,83
+09/08/2011;Sudeste;João Carlos;Eletrônicos;R$ 2.909,04;R$ 58,18
+09/08/2011;Sul;Ana Maria;Casa e Construção;R$ 4.954,60;R$ 99,09
+10/08/2011;Centro;Ana Maria;Casa e Construção;R$ 2.617,67;R$ 52,35
+10/08/2011;Nordeste;Ana Maria;Eletrônicos;R$ 1.752,09;R$ 35,04
+11/08/2011;Sudeste;Carolina;Casa e Construção;R$ 4.217,82;R$ 84,36
+12/08/2011;Norte;Simone;Cama, Mesa e Banho;R$ 4.876,89;R$ 97,54
+13/08/2011;Sudeste;Simone;Móveis e Decoração;R$ 1.740,37;R$ 34,81
+14/08/2011;Centro;Carolina;Eletrodomésticos;R$ 3.681,97;R$ 73,64
+16/08/2011;Sul;Simone;Eletrodomésticos;R$ 1.015,79;R$ 20,32
+16/08/2011;Norte;João Carlos;Móveis e Decoração;R$ 3.030,71;R$ 60,61
+19/08/2011;Centro;Adriana;Móveis e Decoração;R$ 4.770,60;R$ 95,41
+20/08/2011;Centro;Roberto;Esporte e Lazer;R$ 4.017,82;R$ 80,36
+20/08/2011;Sul;Roberto;Roupas e Acessórios;R$ 408,94;R$ 8,18
+20/08/2011;Centro;Adriana;Eletrodomésticos;R$ 4.360,55;R$ 87,21
+20/08/2011;Centro;Adriana;Cama, Mesa e Banho;R$ 1.797,33;R$ 35,95
+20/08/2011;Sudeste;Adriana;Eletrônicos;R$ 337,05;R$ 6,74
+20/08/2011;Oeste;Ana Maria;Móveis e Decoração;R$ 2.046,13;R$ 40,92
+21/08/2011;Oeste;Ricardo;Móveis e Decoração;R$ 1.673,45;R$ 33,47
+22/08/2011;Nordeste;Roberto;Eletrodomésticos;R$ 1.874,22;R$ 37,48
+23/08/2011;Oeste;Adriana;Móveis e Decoração;R$ 3.664,64;R$ 73,29
+23/08/2011;Sudeste;Adriana;Casa e Construção;R$ 4.054,34;R$ 81,09
+24/08/2011;Oeste;Adriana;Cine e Foto;R$ 4.029,80;R$ 80,60
+24/08/2011;Sudeste;Carolina;Eletrodomésticos;R$ 2.937,21;R$ 58,74
+24/08/2011;Oeste;Carolina;Eletrônicos;R$ 3.665,86;R$ 73,32
+24/08/2011;Norte;Adriana;Utilidades Domésticas;R$ 395,76;R$ 7,92
+24/08/2011;Sudeste;Ana Maria;Casa e Construção;R$ 4.766,95;R$ 95,34
+25/08/2011;Sul;Carolina;Cama, Mesa e Banho;R$ 727,68;R$ 14,55
+26/08/2011;Centro;Ricardo;Móveis e Decoração;R$ 2.314,66;R$ 46,29
+27/08/2011;Centro;João Carlos;Roupas e Acessórios;R$ 3.385,97;R$ 67,72
+27/08/2011;Leste;João Carlos;Roupas e Acessórios;R$ 4.010,32;R$ 80,21
+28/08/2011;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 1.956,41;R$ 39,13
+29/08/2011;Leste;Simone;Eletrônicos;R$ 4.983,75;R$ 99,68
+30/08/2011;Nordeste;Simone;Roupas e Acessórios;R$ 3.481,94;R$ 69,64
+30/08/2011;Centro;Simone;Esporte e Lazer;R$ 4.583,92;R$ 91,68
+30/08/2011;Leste;José Luiz;Cama, Mesa e Banho;R$ 2.217,22;R$ 44,34
+30/08/2011;Norte;Simone;Eletrônicos;R$ 601,00;R$ 12,02
+31/08/2011;Sudeste;João Carlos;Cine e Foto;R$ 3.570,21;R$ 71,40
+01/09/2011;Sul;João Carlos;Casa e Construção;R$ 1.216,37;R$ 24,33
+01/09/2011;Oeste;Simone;Casa e Construção;R$ 958,88;R$ 19,18
+03/09/2011;Oeste;Carolina;Roupas e Acessórios;R$ 510,53;R$ 10,21
+03/09/2011;Nordeste;Roberto;Eletrodomésticos;R$ 1.175,96;R$ 23,52
+04/09/2011;Oeste;Ricardo;Esporte e Lazer;R$ 251,18;R$ 5,02
+05/09/2011;Norte;Ricardo;Roupas e Acessórios;R$ 2.974,62;R$ 59,49
+05/09/2011;Sul;Carolina;Esporte e Lazer;R$ 3.071,17;R$ 61,42
+06/09/2011;Centro;João Carlos;Roupas e Acessórios;R$ 2.058,76;R$ 41,18
+06/09/2011;Nordeste;João Carlos;Esporte e Lazer;R$ 1.734,16;R$ 34,68
+07/09/2011;Sudeste;Carolina;Eletrônicos;R$ 2.278,24;R$ 45,56
+07/09/2011;Centro;Ricardo;Móveis e Decoração;R$ 255,21;R$ 5,10
+08/09/2011;Sul;Simone;Casa e Construção;R$ 2.312,84;R$ 46,26
+08/09/2011;Centro;Ana Maria;Móveis e Decoração;R$ 2.106,08;R$ 42,12
+08/09/2011;Leste;Ricardo;Casa e Construção;R$ 4.914,95;R$ 98,30
+10/09/2011;Leste;Roberto;Móveis e Decoração;R$ 729,27;R$ 14,59
+11/09/2011;Sudeste;Ana Maria;Móveis e Decoração;R$ 743,37;R$ 14,87
+12/09/2011;Oeste;Carolina;Cama, Mesa e Banho;R$ 2.421,00;R$ 48,42
+12/09/2011;Leste;João Carlos;Esporte e Lazer;R$ 4.941,35;R$ 98,83
+13/09/2011;Nordeste;Carolina;Casa e Construção;R$ 1.074,37;R$ 21,49
+13/09/2011;Centro;Ricardo;Utilidades Domésticas;R$ 2.287,46;R$ 45,75
+13/09/2011;Sudeste;Simone;Casa e Construção;R$ 2.777,42;R$ 55,55
+14/09/2011;Sul;Adriana;Utilidades Domésticas;R$ 4.902,87;R$ 98,06
+16/09/2011;Sudeste;Ana Maria;Eletrodomésticos;R$ 2.510,07;R$ 50,20
+17/09/2011;Centro;Carolina;Móveis e Decoração;R$ 2.495,61;R$ 49,91
+17/09/2011;Norte;José Luiz;Eletrônicos;R$ 3.415,93;R$ 68,32
+18/09/2011;Leste;Carolina;Casa e Construção;R$ 1.874,91;R$ 37,50
+19/09/2011;Sul;João Carlos;Móveis e Decoração;R$ 1.925,98;R$ 38,52
+20/09/2011;Nordeste;Carolina;Cine e Foto;R$ 2.284,06;R$ 45,68
+20/09/2011;Leste;Ricardo;Eletrônicos;R$ 3.682,64;R$ 73,65
+21/09/2011;Nordeste;Ana Maria;Roupas e Acessórios;R$ 468,45;R$ 9,37
+21/09/2011;Sudeste;Simone;Eletrodomésticos;R$ 3.879,37;R$ 77,59
+21/09/2011;Leste;Ana Maria;Esporte e Lazer;R$ 3.804,10;R$ 76,08
+21/09/2011;Centro;Ana Maria;Roupas e Acessórios;R$ 4.667,68;R$ 93,35
+22/09/2011;Sul;José Luiz;Móveis e Decoração;R$ 2.732,73;R$ 54,65
+24/09/2011;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 2.614,95;R$ 52,30
+24/09/2011;Norte;Adriana;Roupas e Acessórios;R$ 4.461,17;R$ 89,22
+25/09/2011;Centro;Roberto;Eletrônicos;R$ 1.599,69;R$ 31,99
+26/09/2011;Nordeste;Carolina;Utilidades Domésticas;R$ 3.656,87;R$ 73,14
+27/09/2011;Norte;Simone;Cine e Foto;R$ 1.552,21;R$ 31,04
+29/09/2011;Sudeste;João Carlos;Eletrodomésticos;R$ 2.403,08;R$ 48,06
+29/09/2011;Norte;Simone;Cama, Mesa e Banho;R$ 1.446,10;R$ 28,92
+30/09/2011;Sul;Roberto;Cine e Foto;R$ 901,62;R$ 18,03
+30/09/2011;Sul;João Carlos;Utilidades Domésticas;R$ 4.794,46;R$ 95,89
+01/10/2011;Sudeste;Carolina;Cine e Foto;R$ 1.495,09;R$ 29,90
+01/10/2011;Oeste;José Luiz;Esporte e Lazer;R$ 2.623,97;R$ 52,48
+02/10/2011;Sudeste;Simone;Cama, Mesa e Banho;R$ 3.114,64;R$ 62,29
+02/10/2011;Sul;Ana Maria;Cine e Foto;R$ 2.414,22;R$ 48,28
+03/10/2011;Centro;Roberto;Roupas e Acessórios;R$ 3.617,68;R$ 72,35
+03/10/2011;Sudeste;Carolina;Móveis e Decoração;R$ 3.484,66;R$ 69,69
+04/10/2011;Sudeste;João Carlos;Móveis e Decoração;R$ 3.390,18;R$ 67,80
+04/10/2011;Sudeste;Carolina;Casa e Construção;R$ 4.325,53;R$ 86,51
+04/10/2011;Sudeste;Adriana;Utilidades Domésticas;R$ 3.068,52;R$ 61,37
+07/10/2011;Norte;Ana Maria;Roupas e Acessórios;R$ 2.242,23;R$ 44,84
+07/10/2011;Norte;João Carlos;Eletrodomésticos;R$ 2.453,59;R$ 49,07
+08/10/2011;Sul;José Luiz;Cine e Foto;R$ 1.844,33;R$ 36,89
+08/10/2011;Sudeste;Ricardo;Cama, Mesa e Banho;R$ 2.103,35;R$ 42,07
+08/10/2011;Nordeste;Ricardo;Roupas e Acessórios;R$ 3.380,35;R$ 67,61
+09/10/2011;Leste;João Carlos;Casa e Construção;R$ 2.788,17;R$ 55,76
+11/10/2011;Sul;Carolina;Utilidades Domésticas;R$ 2.220,48;R$ 44,41
+11/10/2011;Nordeste;João Carlos;Cine e Foto;R$ 2.567,98;R$ 51,36
+11/10/2011;Sudeste;João Carlos;Utilidades Domésticas;R$ 3.430,93;R$ 68,62
+12/10/2011;Centro;João Carlos;Cama, Mesa e Banho;R$ 4.438,39;R$ 88,77
+13/10/2011;Sul;Ricardo;Móveis e Decoração;R$ 3.485,93;R$ 69,72
+14/10/2011;Nordeste;Ricardo;Eletrodomésticos;R$ 889,07;R$ 17,78
+14/10/2011;Sudeste;Ana Maria;Casa e Construção;R$ 2.496,82;R$ 49,94
+14/10/2011;Sul;Carolina;Esporte e Lazer;R$ 3.710,85;R$ 74,22
+15/10/2011;Centro;João Carlos;Roupas e Acessórios;R$ 4.814,75;R$ 96,30
+16/10/2011;Sudeste;José Luiz;Utilidades Domésticas;R$ 1.179,39;R$ 23,59
+18/10/2011;Centro;Ana Maria;Eletrodomésticos;R$ 3.010,46;R$ 60,21
+18/10/2011;Sul;Carolina;Cine e Foto;R$ 3.424,22;R$ 68,48
+18/10/2011;Nordeste;João Carlos;Móveis e Decoração;R$ 4.831,29;R$ 96,63
+19/10/2011;Sudeste;Ricardo;Cine e Foto;R$ 1.148,00;R$ 22,96
+20/10/2011;Sudeste;Roberto;Cine e Foto;R$ 3.028,27;R$ 60,57
+22/10/2011;Sul;Carolina;Móveis e Decoração;R$ 933,06;R$ 18,66
+22/10/2011;Sudeste;Ricardo;Cine e Foto;R$ 3.110,04;R$ 62,20
+22/10/2011;Sul;Ana Maria;Casa e Construção;R$ 3.297,55;R$ 65,95
+25/10/2011;Centro;Carolina;Casa e Construção;R$ 408,53;R$ 8,17
+25/10/2011;Norte;Roberto;Móveis e Decoração;R$ 4.660,71;R$ 93,21
+25/10/2011;Nordeste;Roberto;Eletrodomésticos;R$ 4.550,03;R$ 91,00
+26/10/2011;Sul;João Carlos;Esporte e Lazer;R$ 464,80;R$ 9,30
+28/10/2011;Leste;Carolina;Móveis e Decoração;R$ 1.325,27;R$ 26,51
+28/10/2011;Sudeste;Ricardo;Eletrodomésticos;R$ 4.413,54;R$ 88,27
+28/10/2011;Norte;João Carlos;Utilidades Domésticas;R$ 4.527,70;R$ 90,55
+29/10/2011;Centro;Roberto;Esporte e Lazer;R$ 4.542,49;R$ 90,85
+30/10/2011;Sudeste;Carolina;Eletrônicos;R$ 1.821,53;R$ 36,43
+30/10/2011;Nordeste;Ana Maria;Roupas e Acessórios;R$ 1.909,19;R$ 38,18
+31/10/2011;Nordeste;Adriana;Cine e Foto;R$ 872,29;R$ 17,45
+01/11/2011;Norte;João Carlos;Roupas e Acessórios;R$ 611,03;R$ 12,22
+04/11/2011;Centro;João Carlos;Cine e Foto;R$ 4.542,87;R$ 90,86
+05/11/2011;Sul;Ricardo;Cine e Foto;R$ 653,56;R$ 13,07
+05/11/2011;Sudeste;Carolina;Roupas e Acessórios;R$ 1.396,12;R$ 27,92
+06/11/2011;Oeste;Adriana;Roupas e Acessórios;R$ 1.771,88;R$ 35,44
+06/11/2011;Nordeste;Roberto;Eletrodomésticos;R$ 827,08;R$ 16,54
+07/11/2011;Sul;Ana Maria;Roupas e Acessórios;R$ 1.126,83;R$ 22,54
+07/11/2011;Nordeste;Ana Maria;Casa e Construção;R$ 4.927,31;R$ 98,55
+08/11/2011;Leste;Roberto;Cama, Mesa e Banho;R$ 4.089,16;R$ 81,78
+09/11/2011;Nordeste;Roberto;Esporte e Lazer;R$ 1.205,93;R$ 24,12
+09/11/2011;Sudeste;Carolina;Casa e Construção;R$ 2.163,80;R$ 43,28
+09/11/2011;Sudeste;José Luiz;Utilidades Domésticas;R$ 2.083,09;R$ 41,66
+09/11/2011;Leste;Ricardo;Eletrônicos;R$ 2.059,51;R$ 41,19
+10/11/2011;Leste;Carolina;Cama, Mesa e Banho;R$ 477,56;R$ 9,55
+12/11/2011;Sul;Ana Maria;Roupas e Acessórios;R$ 4.644,19;R$ 92,88
+12/11/2011;Norte;Ana Maria;Eletrodomésticos;R$ 674,15;R$ 13,48
+12/11/2011;Nordeste;Ana Maria;Utilidades Domésticas;R$ 2.519,28;R$ 50,39
+13/11/2011;Sudeste;Carolina;Cine e Foto;R$ 2.892,46;R$ 57,85
+13/11/2011;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 202,16;R$ 4,04
+13/11/2011;Centro;Roberto;Roupas e Acessórios;R$ 255,59;R$ 5,11
+14/11/2011;Sudeste;Carolina;Casa e Construção;R$ 2.724,31;R$ 54,49
+15/11/2011;Sudeste;Ana Maria;Eletrônicos;R$ 1.331,25;R$ 26,63
+16/11/2011;Sudeste;Ricardo;Cine e Foto;R$ 3.015,07;R$ 60,30
+17/11/2011;Sul;João Carlos;Móveis e Decoração;R$ 4.231,70;R$ 84,63
+17/11/2011;Sul;Adriana;Cama, Mesa e Banho;R$ 621,36;R$ 12,43
+17/11/2011;Sul;João Carlos;Cama, Mesa e Banho;R$ 1.914,95;R$ 38,30
+18/11/2011;Sul;Adriana;Eletrônicos;R$ 2.824,01;R$ 56,48
+18/11/2011;Sul;Carolina;Cama, Mesa e Banho;R$ 4.452,86;R$ 89,06
+19/11/2011;Sul;Ricardo;Roupas e Acessórios;R$ 3.785,79;R$ 75,72
+19/11/2011;Leste;Carolina;Roupas e Acessórios;R$ 4.778,86;R$ 95,58
+20/11/2011;Nordeste;Ana Maria;Eletrodomésticos;R$ 2.410,90;R$ 48,22
+20/11/2011;Norte;João Carlos;Roupas e Acessórios;R$ 3.711,74;R$ 74,23
+20/11/2011;Sudeste;Ana Maria;Roupas e Acessórios;R$ 3.265,61;R$ 65,31
+21/11/2011;Sudeste;João Carlos;Móveis e Decoração;R$ 2.026,81;R$ 40,54
+21/11/2011;Sudeste;Simone;Roupas e Acessórios;R$ 812,33;R$ 16,25
+22/11/2011;Sudeste;Carolina;Casa e Construção;R$ 4.380,32;R$ 87,61
+22/11/2011;Sudeste;Simone;Eletrônicos;R$ 4.241,02;R$ 84,82
+22/11/2011;Oeste;Ricardo;Esporte e Lazer;R$ 4.825,69;R$ 96,51
+22/11/2011;Sul;Ana Maria;Roupas e Acessórios;R$ 2.516,94;R$ 50,34
+23/11/2011;Centro;João Carlos;Utilidades Domésticas;R$ 1.615,49;R$ 32,31
+24/11/2011;Sudeste;João Carlos;Esporte e Lazer;R$ 2.048,95;R$ 40,98
+24/11/2011;Nordeste;Ana Maria;Móveis e Decoração;R$ 2.277,69;R$ 45,55
+24/11/2011;Sudeste;Carolina;Casa e Construção;R$ 3.600,46;R$ 72,01
+25/11/2011;Leste;Adriana;Eletrodomésticos;R$ 2.596,15;R$ 51,92
+25/11/2011;Sudeste;João Carlos;Eletrônicos;R$ 1.724,64;R$ 34,49
+26/11/2011;Oeste;Roberto;Utilidades Domésticas;R$ 4.694,13;R$ 93,88
+27/11/2011;Centro;Adriana;Móveis e Decoração;R$ 2.436,49;R$ 48,73
+27/11/2011;Sul;Carolina;Móveis e Decoração;R$ 3.571,76;R$ 71,44
+28/11/2011;Sudeste;Adriana;Casa e Construção;R$ 4.171,87;R$ 83,44
+28/11/2011;Nordeste;João Carlos;Eletrodomésticos;R$ 4.429,37;R$ 88,59
+28/11/2011;Sudeste;Ana Maria;Casa e Construção;R$ 1.566,03;R$ 31,32
+29/11/2011;Sudeste;Simone;Móveis e Decoração;R$ 2.711,17;R$ 54,22
+30/11/2011;Sul;Ricardo;Cine e Foto;R$ 2.175,96;R$ 43,52
+30/11/2011;Oeste;Ana Maria;Eletrônicos;R$ 3.714,88;R$ 74,30
+01/12/2011;Sul;José Luiz;Eletrônicos;R$ 4.449,89;R$ 89,00
+02/12/2011;Nordeste;João Carlos;Esporte e Lazer;R$ 3.863,13;R$ 77,26
+04/12/2011;Leste;Ricardo;Cama, Mesa e Banho;R$ 2.049,65;R$ 40,99
+05/12/2011;Sudeste;José Luiz;Eletrodomésticos;R$ 3.146,49;R$ 62,93
+06/12/2011;Sul;Ana Maria;Esporte e Lazer;R$ 2.384,06;R$ 47,68
+07/12/2011;Centro;José Luiz;Móveis e Decoração;R$ 4.401,30;R$ 88,03
+07/12/2011;Centro;Carolina;Roupas e Acessórios;R$ 1.037,30;R$ 20,75
+08/12/2011;Leste;João Carlos;Eletrodomésticos;R$ 2.849,64;R$ 56,99
+08/12/2011;Nordeste;Carolina;Cama, Mesa e Banho;R$ 1.941,88;R$ 38,84
+08/12/2011;Sudeste;Roberto;Esporte e Lazer;R$ 4.072,02;R$ 81,44
+09/12/2011;Centro;João Carlos;Cine e Foto;R$ 4.864,29;R$ 97,29
+12/12/2011;Sudeste;Ricardo;Esporte e Lazer;R$ 2.374,60;R$ 47,49
+13/12/2011;Sudeste;Carolina;Móveis e Decoração;R$ 2.520,88;R$ 50,42
+13/12/2011;Leste;Carolina;Cama, Mesa e Banho;R$ 1.734,52;R$ 34,69
+13/12/2011;Sul;José Luiz;Móveis e Decoração;R$ 4.738,92;R$ 94,78
+14/12/2011;Leste;Carolina;Eletrônicos;R$ 2.604,01;R$ 52,08
+14/12/2011;Centro;Carolina;Cama, Mesa e Banho;R$ 493,62;R$ 9,87
+15/12/2011;Centro;Ana Maria;Roupas e Acessórios;R$ 1.803,31;R$ 36,07
+16/12/2011;Norte;Adriana;Casa e Construção;R$ 1.627,00;R$ 32,54
+16/12/2011;Sudeste;Roberto;Eletrônicos;R$ 4.948,91;R$ 98,98
+16/12/2011;Sul;Roberto;Cama, Mesa e Banho;R$ 2.176,07;R$ 43,52
+17/12/2011;Sudeste;Carolina;Cine e Foto;R$ 1.447,83;R$ 28,96
+17/12/2011;Sul;Ricardo;Casa e Construção;R$ 2.011,98;R$ 40,24
+18/12/2011;Sul;Carolina;Cine e Foto;R$ 3.515,22;R$ 70,30
+19/12/2011;Centro;Carolina;Eletrônicos;R$ 1.796,49;R$ 35,93
+19/12/2011;Centro;Simone;Móveis e Decoração;R$ 2.027,15;R$ 40,54
+19/12/2011;Sul;Simone;Cama, Mesa e Banho;R$ 2.198,99;R$ 43,98
+20/12/2011;Nordeste;Adriana;Esporte e Lazer;R$ 1.555,82;R$ 31,12
+21/12/2011;Sul;João Carlos;Cama, Mesa e Banho;R$ 219,62;R$ 4,39
+22/12/2011;Oeste;João Carlos;Roupas e Acessórios;R$ 2.717,49;R$ 54,35
+23/12/2011;Centro;João Carlos;Casa e Construção;R$ 1.503,50;R$ 30,07
+24/12/2011;Sul;Carolina;Casa e Construção;R$ 1.571,74;R$ 31,43
+25/12/2011;Nordeste;Carolina;Utilidades Domésticas;R$ 1.818,46;R$ 36,37
+26/12/2011;Sudeste;Ricardo;Casa e Construção;R$ 2.731,77;R$ 54,64
+27/12/2011;Sudeste;Adriana;Casa e Construção;R$ 3.567,85;R$ 71,36
+27/12/2011;Centro;Ricardo;Eletrodomésticos;R$ 3.501,31;R$ 70,03
+28/12/2011;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 3.718,85;R$ 74,38
+29/12/2011;Sul;Simone;Cine e Foto;R$ 4.247,22;R$ 84,94
+30/12/2011;Oeste;Carolina;Eletrodomésticos;R$ 3.387,07;R$ 67,74
+30/12/2011;Nordeste;Ana Maria;Cama, Mesa e Banho;R$ 4.825,13;R$ 96,50
+02/01/2012;Nordeste;Carolina;Casa e Construção;R$ 3.476,58;R$ 69,53
+03/01/2012;Centro;Adriana;Utilidades Domésticas;R$ 4.706,39;R$ 94,13
+05/01/2012;Sudeste;João Carlos;Casa e Construção;R$ 1.822,31;R$ 36,45
+05/01/2012;Centro;Roberto;Eletrodomésticos;R$ 2.814,67;R$ 56,29
+05/01/2012;Sudeste;Roberto;Utilidades Domésticas;R$ 995,77;R$ 19,92
+08/01/2012;Sudeste;Ricardo;Roupas e Acessórios;R$ 3.541,49;R$ 70,83
+08/01/2012;Sudeste;Adriana;Cine e Foto;R$ 1.573,11;R$ 31,46
+09/01/2012;Centro;José Luiz;Móveis e Decoração;R$ 1.971,06;R$ 39,42
+09/01/2012;Sul;Adriana;Eletrodomésticos;R$ 1.049,77;R$ 21,00
+10/01/2012;Nordeste;Carolina;Roupas e Acessórios;R$ 2.413,40;R$ 48,27
+10/01/2012;Oeste;Adriana;Roupas e Acessórios;R$ 1.993,13;R$ 39,86
+11/01/2012;Sudeste;José Luiz;Cama, Mesa e Banho;R$ 3.102,80;R$ 62,06
+12/01/2012;Leste;João Carlos;Cine e Foto;R$ 432,83;R$ 8,66
+12/01/2012;Sudeste;Roberto;Cine e Foto;R$ 4.182,97;R$ 83,66
+13/01/2012;Leste;Carolina;Cama, Mesa e Banho;R$ 2.920,73;R$ 58,41
+14/01/2012;Norte;Carolina;Esporte e Lazer;R$ 521,48;R$ 10,43
+14/01/2012;Centro;Ricardo;Cine e Foto;R$ 4.979,24;R$ 99,58
+16/01/2012;Centro;Carolina;Cine e Foto;R$ 2.130,58;R$ 42,61
+17/01/2012;Nordeste;João Carlos;Esporte e Lazer;R$ 336,89;R$ 6,74
+17/01/2012;Centro;Ana Maria;Móveis e Decoração;R$ 4.400,22;R$ 88,00
+17/01/2012;Leste;Ricardo;Eletrônicos;R$ 1.188,70;R$ 23,77
+18/01/2012;Sudeste;Adriana;Móveis e Decoração;R$ 2.070,88;R$ 41,42
+19/01/2012;Sul;Roberto;Roupas e Acessórios;R$ 2.843,28;R$ 56,87
+20/01/2012;Sul;João Carlos;Móveis e Decoração;R$ 4.316,63;R$ 86,33
+23/01/2012;Centro;Ricardo;Roupas e Acessórios;R$ 1.331,15;R$ 26,62
+23/01/2012;Nordeste;Carolina;Utilidades Domésticas;R$ 4.215,23;R$ 84,30
+25/01/2012;Sudeste;Simone;Casa e Construção;R$ 392,10;R$ 7,84
+26/01/2012;Sudeste;Carolina;Móveis e Decoração;R$ 1.561,95;R$ 31,24
+27/01/2012;Sudeste;Carolina;Eletrônicos;R$ 3.194,23;R$ 63,88
+28/01/2012;Centro;João Carlos;Utilidades Domésticas;R$ 2.084,02;R$ 41,68
+28/01/2012;Sudeste;Carolina;Eletrônicos;R$ 1.876,60;R$ 37,53
+28/01/2012;Oeste;Ana Maria;Casa e Construção;R$ 3.571,79;R$ 71,44
+29/01/2012;Oeste;João Carlos;Esporte e Lazer;R$ 3.455,99;R$ 69,12
+29/01/2012;Oeste;Carolina;Esporte e Lazer;R$ 948,14;R$ 18,96
+30/01/2012;Sudeste;Carolina;Cama, Mesa e Banho;R$ 1.990,36;R$ 39,81
+30/01/2012;Sul;Carolina;Móveis e Decoração;R$ 2.087,85;R$ 41,76
+30/01/2012;Sudeste;José Luiz;Móveis e Decoração;R$ 657,55;R$ 13,15
+02/02/2012;Nordeste;Simone;Cine e Foto;R$ 2.667,67;R$ 53,35
+02/02/2012;Centro;Ricardo;Móveis e Decoração;R$ 4.217,64;R$ 84,35
+02/02/2012;Centro;Simone;Eletrodomésticos;R$ 2.039,14;R$ 40,78
+02/02/2012;Sudeste;Carolina;Esporte e Lazer;R$ 4.398,10;R$ 87,96
+04/02/2012;Sudeste;José Luiz;Esporte e Lazer;R$ 4.407,30;R$ 88,15
+05/02/2012;Sul;João Carlos;Cine e Foto;R$ 1.810,66;R$ 36,21
+06/02/2012;Leste;João Carlos;Móveis e Decoração;R$ 4.702,02;R$ 94,04
+06/02/2012;Nordeste;José Luiz;Móveis e Decoração;R$ 1.083,12;R$ 21,66
+07/02/2012;Oeste;Ana Maria;Eletrônicos;R$ 3.826,35;R$ 76,53
+07/02/2012;Sul;Roberto;Cama, Mesa e Banho;R$ 3.965,77;R$ 79,32
+07/02/2012;Sul;Simone;Cine e Foto;R$ 1.774,30;R$ 35,49
+07/02/2012;Sudeste;José Luiz;Cine e Foto;R$ 1.274,73;R$ 25,49
+07/02/2012;Centro;Adriana;Cama, Mesa e Banho;R$ 4.857,23;R$ 97,14
+07/02/2012;Sul;Carolina;Eletrodomésticos;R$ 4.162,76;R$ 83,26
+08/02/2012;Centro;Simone;Eletrodomésticos;R$ 2.614,21;R$ 52,28
+08/02/2012;Norte;João Carlos;Utilidades Domésticas;R$ 3.582,51;R$ 71,65
+08/02/2012;Centro;Carolina;Móveis e Decoração;R$ 1.852,85;R$ 37,06
+09/02/2012;Sudeste;Carolina;Casa e Construção;R$ 4.661,88;R$ 93,24
+09/02/2012;Centro;José Luiz;Utilidades Domésticas;R$ 2.094,96;R$ 41,90
+10/02/2012;Sudeste;Ana Maria;Cine e Foto;R$ 3.171,57;R$ 63,43
+11/02/2012;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 4.167,84;R$ 83,36
+12/02/2012;Nordeste;Simone;Cine e Foto;R$ 1.315,18;R$ 26,30
+12/02/2012;Norte;Ricardo;Móveis e Decoração;R$ 1.983,47;R$ 39,67
+12/02/2012;Centro;João Carlos;Cama, Mesa e Banho;R$ 2.461,85;R$ 49,24
+12/02/2012;Sudeste;Ana Maria;Móveis e Decoração;R$ 1.129,92;R$ 22,60
+13/02/2012;Sudeste;Simone;Cine e Foto;R$ 637,90;R$ 12,76
+13/02/2012;Oeste;Roberto;Cama, Mesa e Banho;R$ 2.718,90;R$ 54,38
+14/02/2012;Nordeste;Ricardo;Eletrodomésticos;R$ 1.818,33;R$ 36,37
+16/02/2012;Sudeste;Ricardo;Móveis e Decoração;R$ 782,48;R$ 15,65
+16/02/2012;Sudeste;José Luiz;Casa e Construção;R$ 4.956,63;R$ 99,13
+17/02/2012;Norte;Carolina;Cama, Mesa e Banho;R$ 1.826,36;R$ 36,53
+20/02/2012;Nordeste;Roberto;Cama, Mesa e Banho;R$ 2.697,96;R$ 53,96
+20/02/2012;Leste;João Carlos;Utilidades Domésticas;R$ 4.764,15;R$ 95,28
+21/02/2012;Centro;Roberto;Eletrodomésticos;R$ 1.395,91;R$ 27,92
+22/02/2012;Leste;Carolina;Casa e Construção;R$ 372,45;R$ 7,45
+23/02/2012;Centro;Ricardo;Móveis e Decoração;R$ 2.578,88;R$ 51,58
+24/02/2012;Sudeste;João Carlos;Cine e Foto;R$ 3.656,83;R$ 73,14
+24/02/2012;Leste;Ricardo;Cine e Foto;R$ 1.497,87;R$ 29,96
+26/02/2012;Sul;Carolina;Cine e Foto;R$ 1.046,09;R$ 20,92
+27/02/2012;Nordeste;Ana Maria;Móveis e Decoração;R$ 1.485,45;R$ 29,71
+27/02/2012;Centro;Simone;Eletrônicos;R$ 2.245,91;R$ 44,92
+27/02/2012;Sudeste;José Luiz;Roupas e Acessórios;R$ 1.530,13;R$ 30,60
+28/02/2012;Sudeste;José Luiz;Eletrodomésticos;R$ 2.619,55;R$ 52,39
+29/02/2012;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 4.422,71;R$ 88,45
+01/03/2012;Norte;Carolina;Utilidades Domésticas;R$ 2.262,13;R$ 45,24
+01/03/2012;Nordeste;José Luiz;Cama, Mesa e Banho;R$ 243,52;R$ 4,87
+02/03/2012;Sudeste;José Luiz;Móveis e Decoração;R$ 3.134,27;R$ 62,69
+03/03/2012;Nordeste;Ricardo;Utilidades Domésticas;R$ 3.366,08;R$ 67,32
+04/03/2012;Sudeste;João Carlos;Esporte e Lazer;R$ 3.060,98;R$ 61,22
+05/03/2012;Leste;Ricardo;Eletrônicos;R$ 2.218,21;R$ 44,36
+05/03/2012;Sudeste;Ana Maria;Esporte e Lazer;R$ 2.353,09;R$ 47,06
+07/03/2012;Sul;João Carlos;Roupas e Acessórios;R$ 4.576,30;R$ 91,53
+08/03/2012;Nordeste;Carolina;Roupas e Acessórios;R$ 3.747,68;R$ 74,95
+10/03/2012;Sudeste;Ricardo;Utilidades Domésticas;R$ 3.622,34;R$ 72,45
+11/03/2012;Nordeste;Adriana;Casa e Construção;R$ 492,51;R$ 9,85
+12/03/2012;Nordeste;Ana Maria;Utilidades Domésticas;R$ 3.738,79;R$ 74,78
+13/03/2012;Leste;Simone;Eletrônicos;R$ 623,23;R$ 12,46
+15/03/2012;Sudeste;Simone;Casa e Construção;R$ 4.061,74;R$ 81,23
+19/03/2012;Sudeste;José Luiz;Eletrônicos;R$ 3.480,50;R$ 69,61
+19/03/2012;Sudeste;Adriana;Roupas e Acessórios;R$ 3.302,68;R$ 66,05
+19/03/2012;Leste;Carolina;Casa e Construção;R$ 2.488,74;R$ 49,77
+19/03/2012;Sudeste;João Carlos;Utilidades Domésticas;R$ 4.206,97;R$ 84,14
+20/03/2012;Sudeste;Ana Maria;Eletrônicos;R$ 1.165,44;R$ 23,31
+20/03/2012;Sudeste;Roberto;Móveis e Decoração;R$ 4.353,36;R$ 87,07
+21/03/2012;Centro;João Carlos;Cama, Mesa e Banho;R$ 2.372,50;R$ 47,45
+21/03/2012;Norte;João Carlos;Esporte e Lazer;R$ 4.443,40;R$ 88,87
+21/03/2012;Sudeste;João Carlos;Móveis e Decoração;R$ 4.552,33;R$ 91,05
+22/03/2012;Sudeste;Simone;Cine e Foto;R$ 2.301,96;R$ 46,04
+23/03/2012;Centro;Ana Maria;Eletrodomésticos;R$ 1.984,81;R$ 39,70
+23/03/2012;Sudeste;Ana Maria;Esporte e Lazer;R$ 4.253,50;R$ 85,07
+24/03/2012;Centro;Roberto;Casa e Construção;R$ 1.812,68;R$ 36,25
+25/03/2012;Norte;Ricardo;Eletrônicos;R$ 1.438,10;R$ 28,76
+26/03/2012;Leste;Ana Maria;Cama, Mesa e Banho;R$ 2.902,69;R$ 58,05
+26/03/2012;Sudeste;Adriana;Esporte e Lazer;R$ 3.336,56;R$ 66,73
+27/03/2012;Nordeste;Ana Maria;Casa e Construção;R$ 1.301,65;R$ 26,03
+27/03/2012;Sul;Carolina;Casa e Construção;R$ 1.946,20;R$ 38,92
+28/03/2012;Nordeste;Ana Maria;Utilidades Domésticas;R$ 229,14;R$ 4,58
+28/03/2012;Nordeste;Simone;Esporte e Lazer;R$ 4.813,56;R$ 96,27
+28/03/2012;Sul;Ana Maria;Móveis e Decoração;R$ 2.143,88;R$ 42,88
+29/03/2012;Leste;João Carlos;Móveis e Decoração;R$ 404,14;R$ 8,08
+30/03/2012;Sul;José Luiz;Esporte e Lazer;R$ 3.138,23;R$ 62,76
+30/03/2012;Norte;Carolina;Eletrônicos;R$ 766,80;R$ 15,34
+30/03/2012;Centro;Simone;Roupas e Acessórios;R$ 3.836,43;R$ 76,73
+31/03/2012;Sudeste;Adriana;Esporte e Lazer;R$ 1.961,66;R$ 39,23
+31/03/2012;Norte;João Carlos;Roupas e Acessórios;R$ 948,18;R$ 18,96
+31/03/2012;Leste;Ricardo;Eletrônicos;R$ 2.932,92;R$ 58,66
+01/04/2012;Nordeste;Ana Maria;Roupas e Acessórios;R$ 2.777,01;R$ 55,54
+01/04/2012;Centro;Carolina;Eletrônicos;R$ 1.825,48;R$ 36,51
+02/04/2012;Sudeste;Carolina;Utilidades Domésticas;R$ 4.985,46;R$ 99,71
+02/04/2012;Norte;Ricardo;Eletrônicos;R$ 2.069,80;R$ 41,40
+02/04/2012;Centro;José Luiz;Cine e Foto;R$ 1.432,01;R$ 28,64
+02/04/2012;Nordeste;Simone;Eletrodomésticos;R$ 2.322,94;R$ 46,46
+03/04/2012;Sudeste;Carolina;Móveis e Decoração;R$ 1.061,84;R$ 21,24
+04/04/2012;Sul;Simone;Cine e Foto;R$ 1.070,81;R$ 21,42
+05/04/2012;Centro;Ricardo;Cama, Mesa e Banho;R$ 4.661,63;R$ 93,23
+05/04/2012;Sul;Ana Maria;Cine e Foto;R$ 691,88;R$ 13,84
+06/04/2012;Sudeste;Ricardo;Móveis e Decoração;R$ 1.628,08;R$ 32,56
+07/04/2012;Norte;João Carlos;Casa e Construção;R$ 2.999,38;R$ 59,99
+08/04/2012;Leste;Carolina;Eletrônicos;R$ 1.781,76;R$ 35,64
+08/04/2012;Centro;Roberto;Eletrônicos;R$ 2.443,72;R$ 48,87
+08/04/2012;Sudeste;Ana Maria;Cama, Mesa e Banho;R$ 1.945,51;R$ 38,91
+09/04/2012;Oeste;José Luiz;Cine e Foto;R$ 4.671,90;R$ 93,44
+09/04/2012;Sul;Ricardo;Eletrônicos;R$ 4.130,30;R$ 82,61
+12/04/2012;Nordeste;João Carlos;Cine e Foto;R$ 3.230,74;R$ 64,61
+12/04/2012;Centro;João Carlos;Cine e Foto;R$ 4.537,30;R$ 90,75
+12/04/2012;Centro;João Carlos;Casa e Construção;R$ 387,03;R$ 7,74
+12/04/2012;Sudeste;Ana Maria;Utilidades Domésticas;R$ 2.981,41;R$ 59,63
+13/04/2012;Centro;João Carlos;Cine e Foto;R$ 383,63;R$ 7,67
+13/04/2012;Sul;Ricardo;Eletrodomésticos;R$ 788,52;R$ 15,77
+13/04/2012;Sudeste;Ana Maria;Cine e Foto;R$ 2.116,41;R$ 42,33
+13/04/2012;Centro;João Carlos;Casa e Construção;R$ 4.587,88;R$ 91,76
+14/04/2012;Centro;Carolina;Casa e Construção;R$ 3.165,11;R$ 63,30
+14/04/2012;Centro;Ricardo;Eletrônicos;R$ 4.026,82;R$ 80,54
+15/04/2012;Sudeste;Ricardo;Esporte e Lazer;R$ 2.095,80;R$ 41,92
+15/04/2012;Sudeste;Carolina;Cama, Mesa e Banho;R$ 3.526,55;R$ 70,53
+15/04/2012;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 3.692,85;R$ 73,86
+16/04/2012;Centro;Carolina;Casa e Construção;R$ 4.987,56;R$ 99,75
+16/04/2012;Centro;José Luiz;Casa e Construção;R$ 2.770,77;R$ 55,42
+17/04/2012;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 2.722,85;R$ 54,46
+17/04/2012;Oeste;Adriana;Móveis e Decoração;R$ 4.647,75;R$ 92,96
+18/04/2012;Leste;Simone;Roupas e Acessórios;R$ 2.221,53;R$ 44,43
+18/04/2012;Norte;Ana Maria;Cama, Mesa e Banho;R$ 3.607,33;R$ 72,15
+19/04/2012;Leste;Roberto;Cama, Mesa e Banho;R$ 1.536,83;R$ 30,74
+20/04/2012;Oeste;João Carlos;Roupas e Acessórios;R$ 1.666,98;R$ 33,34
+20/04/2012;Centro;Ricardo;Cama, Mesa e Banho;R$ 349,41;R$ 6,99
+21/04/2012;Sudeste;Carolina;Utilidades Domésticas;R$ 268,96;R$ 5,38
+22/04/2012;Sul;Simone;Utilidades Domésticas;R$ 822,38;R$ 16,45
+22/04/2012;Centro;Carolina;Esporte e Lazer;R$ 499,64;R$ 9,99
+23/04/2012;Sul;Ricardo;Utilidades Domésticas;R$ 1.307,19;R$ 26,14
+23/04/2012;Centro;José Luiz;Utilidades Domésticas;R$ 615,81;R$ 12,32
+24/04/2012;Nordeste;Carolina;Móveis e Decoração;R$ 3.496,53;R$ 69,93
+27/04/2012;Nordeste;Adriana;Móveis e Decoração;R$ 4.518,92;R$ 90,38
+27/04/2012;Nordeste;Carolina;Roupas e Acessórios;R$ 447,54;R$ 8,95
+28/04/2012;Centro;Ana Maria;Utilidades Domésticas;R$ 2.538,31;R$ 50,77
+28/04/2012;Nordeste;Adriana;Utilidades Domésticas;R$ 4.693,84;R$ 93,88
+29/04/2012;Sul;Carolina;Roupas e Acessórios;R$ 4.386,96;R$ 87,74
+29/04/2012;Centro;José Luiz;Eletrônicos;R$ 2.267,14;R$ 45,34
+29/04/2012;Centro;Ana Maria;Roupas e Acessórios;R$ 4.089,19;R$ 81,78
+29/04/2012;Leste;João Carlos;Eletrodomésticos;R$ 4.442,11;R$ 88,84
+30/04/2012;Sul;Ana Maria;Cine e Foto;R$ 3.910,54;R$ 78,21
+30/04/2012;Nordeste;Ricardo;Utilidades Domésticas;R$ 1.464,10;R$ 29,28
+30/04/2012;Nordeste;Simone;Roupas e Acessórios;R$ 3.185,10;R$ 63,70
+30/04/2012;Sudeste;Ana Maria;Esporte e Lazer;R$ 4.479,41;R$ 89,59
+01/05/2012;Centro;Ana Maria;Casa e Construção;R$ 4.807,78;R$ 96,16
+02/05/2012;Sudeste;João Carlos;Cine e Foto;R$ 3.760,37;R$ 75,21
+03/05/2012;Sul;Carolina;Móveis e Decoração;R$ 2.875,69;R$ 57,51
+04/05/2012;Sudeste;Simone;Eletrodomésticos;R$ 1.538,26;R$ 30,77
+04/05/2012;Sudeste;Simone;Utilidades Domésticas;R$ 4.960,57;R$ 99,21
+04/05/2012;Sul;Adriana;Cama, Mesa e Banho;R$ 243,13;R$ 4,86
+04/05/2012;Nordeste;Carolina;Cama, Mesa e Banho;R$ 4.474,19;R$ 89,48
+04/05/2012;Sul;Simone;Eletrônicos;R$ 2.101,17;R$ 42,02
+04/05/2012;Sudeste;Ana Maria;Utilidades Domésticas;R$ 2.824,36;R$ 56,49
+05/05/2012;Sudeste;Carolina;Eletrodomésticos;R$ 1.709,50;R$ 34,19
+05/05/2012;Centro;Ana Maria;Móveis e Decoração;R$ 3.870,96;R$ 77,42
+07/05/2012;Norte;João Carlos;Esporte e Lazer;R$ 554,32;R$ 11,09
+07/05/2012;Sul;João Carlos;Móveis e Decoração;R$ 2.187,83;R$ 43,76
+09/05/2012;Sudeste;João Carlos;Roupas e Acessórios;R$ 3.997,11;R$ 79,94
+11/05/2012;Nordeste;João Carlos;Cine e Foto;R$ 628,04;R$ 12,56
+11/05/2012;Sul;João Carlos;Casa e Construção;R$ 1.923,62;R$ 38,47
+12/05/2012;Sul;Ricardo;Móveis e Decoração;R$ 1.205,43;R$ 24,11
+12/05/2012;Centro;João Carlos;Eletrônicos;R$ 927,97;R$ 18,56
+13/05/2012;Sudeste;Ricardo;Utilidades Domésticas;R$ 2.408,77;R$ 48,18
+14/05/2012;Sudeste;Adriana;Cama, Mesa e Banho;R$ 4.306,90;R$ 86,14
+14/05/2012;Oeste;Ricardo;Casa e Construção;R$ 4.199,66;R$ 83,99
+14/05/2012;Oeste;José Luiz;Móveis e Decoração;R$ 2.847,50;R$ 56,95
+14/05/2012;Sudeste;Carolina;Móveis e Decoração;R$ 3.542,29;R$ 70,85
+15/05/2012;Nordeste;Ana Maria;Eletrodomésticos;R$ 1.268,32;R$ 25,37
+16/05/2012;Sul;Roberto;Casa e Construção;R$ 4.055,92;R$ 81,12
+16/05/2012;Sul;João Carlos;Cama, Mesa e Banho;R$ 3.393,67;R$ 67,87
+16/05/2012;Leste;Ana Maria;Móveis e Decoração;R$ 4.367,37;R$ 87,35
+16/05/2012;Leste;José Luiz;Esporte e Lazer;R$ 2.046,37;R$ 40,93
+17/05/2012;Sudeste;Ana Maria;Cine e Foto;R$ 4.107,40;R$ 82,15
+17/05/2012;Oeste;Ana Maria;Cama, Mesa e Banho;R$ 353,45;R$ 7,07
+17/05/2012;Sudeste;Simone;Casa e Construção;R$ 3.323,57;R$ 66,47
+18/05/2012;Nordeste;Ana Maria;Cine e Foto;R$ 3.362,86;R$ 67,26
+18/05/2012;Oeste;Ricardo;Casa e Construção;R$ 621,60;R$ 12,43
+19/05/2012;Sul;Roberto;Roupas e Acessórios;R$ 265,48;R$ 5,31
+20/05/2012;Norte;Ana Maria;Esporte e Lazer;R$ 2.991,93;R$ 59,84
+20/05/2012;Leste;Carolina;Móveis e Decoração;R$ 3.800,64;R$ 76,01
+20/05/2012;Sudeste;Carolina;Cine e Foto;R$ 3.397,98;R$ 67,96
+21/05/2012;Leste;Adriana;Utilidades Domésticas;R$ 3.874,27;R$ 77,49
+22/05/2012;Sudeste;Ana Maria;Eletrônicos;R$ 628,54;R$ 12,57
+22/05/2012;Oeste;Carolina;Casa e Construção;R$ 4.409,33;R$ 88,19
+23/05/2012;Sul;Adriana;Móveis e Decoração;R$ 2.329,32;R$ 46,59
+25/05/2012;Sul;João Carlos;Utilidades Domésticas;R$ 4.718,66;R$ 94,37
+25/05/2012;Leste;Carolina;Cama, Mesa e Banho;R$ 1.041,48;R$ 20,83
+25/05/2012;Leste;João Carlos;Eletrônicos;R$ 4.229,20;R$ 84,58
+29/05/2012;Sudeste;Ricardo;Cama, Mesa e Banho;R$ 3.644,63;R$ 72,89
+30/05/2012;Centro;Roberto;Cama, Mesa e Banho;R$ 2.219,35;R$ 44,39
+31/05/2012;Nordeste;Ana Maria;Móveis e Decoração;R$ 3.497,05;R$ 69,94
+31/05/2012;Sudeste;Ricardo;Móveis e Decoração;R$ 433,88;R$ 8,68
+01/06/2012;Sudeste;Adriana;Utilidades Domésticas;R$ 1.090,86;R$ 21,82
+02/06/2012;Nordeste;José Luiz;Cama, Mesa e Banho;R$ 3.204,62;R$ 64,09
+05/06/2012;Nordeste;João Carlos;Eletrodomésticos;R$ 2.747,80;R$ 54,96
+05/06/2012;Sul;Carolina;Cama, Mesa e Banho;R$ 1.603,15;R$ 32,06
+05/06/2012;Centro;José Luiz;Esporte e Lazer;R$ 4.813,72;R$ 96,27
+06/06/2012;Sul;Ricardo;Cama, Mesa e Banho;R$ 4.539,39;R$ 90,79
+06/06/2012;Norte;João Carlos;Casa e Construção;R$ 4.974,87;R$ 99,50
+06/06/2012;Oeste;Ana Maria;Roupas e Acessórios;R$ 768,34;R$ 15,37
+07/06/2012;Leste;João Carlos;Casa e Construção;R$ 3.274,63;R$ 65,49
+08/06/2012;Centro;Ana Maria;Eletrodomésticos;R$ 4.585,06;R$ 91,70
+09/06/2012;Centro;Carolina;Cama, Mesa e Banho;R$ 2.051,86;R$ 41,04
+11/06/2012;Sudeste;Carolina;Roupas e Acessórios;R$ 1.512,64;R$ 30,25
+11/06/2012;Nordeste;João Carlos;Eletrodomésticos;R$ 4.273,93;R$ 85,48
+12/06/2012;Sudeste;Simone;Cine e Foto;R$ 4.895,54;R$ 97,91
+12/06/2012;Centro;Ana Maria;Cine e Foto;R$ 3.926,76;R$ 78,54
+13/06/2012;Oeste;Carolina;Esporte e Lazer;R$ 622,68;R$ 12,45
+13/06/2012;Centro;João Carlos;Casa e Construção;R$ 3.861,77;R$ 77,24
+13/06/2012;Oeste;João Carlos;Casa e Construção;R$ 3.923,45;R$ 78,47
+13/06/2012;Centro;Carolina;Utilidades Domésticas;R$ 2.503,24;R$ 50,06
+13/06/2012;Sul;Carolina;Casa e Construção;R$ 4.934,24;R$ 98,68
+14/06/2012;Sul;Adriana;Móveis e Decoração;R$ 4.134,98;R$ 82,70
+15/06/2012;Centro;João Carlos;Móveis e Decoração;R$ 368,16;R$ 7,36
+17/06/2012;Centro;Carolina;Cine e Foto;R$ 3.205,47;R$ 64,11
+18/06/2012;Oeste;José Luiz;Eletrodomésticos;R$ 589,30;R$ 11,79
+18/06/2012;Centro;Ana Maria;Móveis e Decoração;R$ 2.320,84;R$ 46,42
+19/06/2012;Sul;João Carlos;Roupas e Acessórios;R$ 4.236,63;R$ 84,73
+20/06/2012;Sul;João Carlos;Utilidades Domésticas;R$ 4.251,95;R$ 85,04
+21/06/2012;Nordeste;Ana Maria;Móveis e Decoração;R$ 1.641,28;R$ 32,83
+21/06/2012;Norte;João Carlos;Utilidades Domésticas;R$ 2.717,70;R$ 54,35
+22/06/2012;Sudeste;Carolina;Eletrônicos;R$ 1.955,12;R$ 39,10
+22/06/2012;Nordeste;José Luiz;Eletrodomésticos;R$ 2.467,46;R$ 49,35
+22/06/2012;Centro;Carolina;Roupas e Acessórios;R$ 2.586,46;R$ 51,73
+26/06/2012;Nordeste;Carolina;Esporte e Lazer;R$ 1.373,73;R$ 27,47
+27/06/2012;Nordeste;João Carlos;Móveis e Decoração;R$ 4.043,93;R$ 80,88
+28/06/2012;Sul;Carolina;Cine e Foto;R$ 1.118,64;R$ 22,37
+28/06/2012;Sul;Ana Maria;Utilidades Domésticas;R$ 4.913,21;R$ 98,26
+29/06/2012;Sudeste;José Luiz;Cama, Mesa e Banho;R$ 2.413,03;R$ 48,26
+29/06/2012;Oeste;Ana Maria;Roupas e Acessórios;R$ 3.768,07;R$ 75,36
+29/06/2012;Centro;Ricardo;Eletrônicos;R$ 3.240,57;R$ 64,81
+30/06/2012;Sul;Simone;Móveis e Decoração;R$ 4.267,68;R$ 85,35
+30/06/2012;Centro;Ana Maria;Cine e Foto;R$ 501,44;R$ 10,03
+30/06/2012;Sudeste;João Carlos;Cine e Foto;R$ 4.300,01;R$ 86,00
+30/06/2012;Oeste;Simone;Casa e Construção;R$ 529,75;R$ 10,60
+30/06/2012;Nordeste;Roberto;Eletrodomésticos;R$ 2.553,14;R$ 51,06
+01/07/2012;Sul;José Luiz;Esporte e Lazer;R$ 4.567,59;R$ 91,35
+01/07/2012;Sudeste;Ana Maria;Roupas e Acessórios;R$ 3.442,49;R$ 68,85
+02/07/2012;Nordeste;Ana Maria;Casa e Construção;R$ 1.579,21;R$ 31,58
+02/07/2012;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 769,33;R$ 15,39
+05/07/2012;Sul;Ricardo;Eletrodomésticos;R$ 4.475,36;R$ 89,51
+06/07/2012;Sul;Simone;Casa e Construção;R$ 3.681,47;R$ 73,63
+06/07/2012;Sul;João Carlos;Móveis e Decoração;R$ 2.880,66;R$ 57,61
+07/07/2012;Centro;Ana Maria;Casa e Construção;R$ 2.670,67;R$ 53,41
+07/07/2012;Leste;João Carlos;Cama, Mesa e Banho;R$ 520,05;R$ 10,40
+07/07/2012;Oeste;João Carlos;Cine e Foto;R$ 2.071,73;R$ 41,43
+08/07/2012;Leste;João Carlos;Cine e Foto;R$ 1.070,58;R$ 21,41
+09/07/2012;Centro;Simone;Roupas e Acessórios;R$ 2.312,92;R$ 46,26
+09/07/2012;Leste;Ana Maria;Móveis e Decoração;R$ 2.178,25;R$ 43,57
+09/07/2012;Norte;João Carlos;Casa e Construção;R$ 3.863,11;R$ 77,26
+09/07/2012;Sudeste;João Carlos;Utilidades Domésticas;R$ 4.114,85;R$ 82,30
+10/07/2012;Nordeste;Carolina;Eletrodomésticos;R$ 2.261,16;R$ 45,22
+14/07/2012;Nordeste;Ricardo;Eletrônicos;R$ 2.890,22;R$ 57,80
+15/07/2012;Centro;Simone;Cine e Foto;R$ 2.148,64;R$ 42,97
+15/07/2012;Sul;Adriana;Móveis e Decoração;R$ 1.128,64;R$ 22,57
+15/07/2012;Sul;Ricardo;Cama, Mesa e Banho;R$ 1.082,91;R$ 21,66
+16/07/2012;Sudeste;João Carlos;Móveis e Decoração;R$ 2.812,07;R$ 56,24
+18/07/2012;Centro;Roberto;Móveis e Decoração;R$ 1.871,72;R$ 37,43
+18/07/2012;Sul;João Carlos;Cine e Foto;R$ 2.058,32;R$ 41,17
+18/07/2012;Sudeste;Ricardo;Eletrodomésticos;R$ 2.293,26;R$ 45,87
+19/07/2012;Sul;Carolina;Esporte e Lazer;R$ 4.077,46;R$ 81,55
+19/07/2012;Sudeste;José Luiz;Esporte e Lazer;R$ 2.502,34;R$ 50,05
+21/07/2012;Oeste;Ana Maria;Esporte e Lazer;R$ 329,84;R$ 6,60
+21/07/2012;Oeste;José Luiz;Roupas e Acessórios;R$ 1.244,84;R$ 24,90
+21/07/2012;Norte;João Carlos;Casa e Construção;R$ 501,52;R$ 10,03
+21/07/2012;Nordeste;Carolina;Utilidades Domésticas;R$ 428,81;R$ 8,58
+22/07/2012;Nordeste;Carolina;Cama, Mesa e Banho;R$ 4.851,75;R$ 97,04
+22/07/2012;Sul;Carolina;Cine e Foto;R$ 4.922,09;R$ 98,44
+23/07/2012;Leste;Ana Maria;Móveis e Decoração;R$ 1.607,83;R$ 32,16
+23/07/2012;Centro;Simone;Roupas e Acessórios;R$ 864,55;R$ 17,29
+24/07/2012;Sul;Ana Maria;Casa e Construção;R$ 4.058,32;R$ 81,17
+25/07/2012;Nordeste;Simone;Móveis e Decoração;R$ 1.478,59;R$ 29,57
+26/07/2012;Nordeste;João Carlos;Eletrônicos;R$ 3.399,06;R$ 67,98
+27/07/2012;Oeste;Simone;Móveis e Decoração;R$ 3.073,97;R$ 61,48
+27/07/2012;Sudeste;Carolina;Eletrônicos;R$ 1.116,66;R$ 22,33
+27/07/2012;Oeste;João Carlos;Cama, Mesa e Banho;R$ 3.267,66;R$ 65,35
+28/07/2012;Centro;Ricardo;Móveis e Decoração;R$ 1.605,38;R$ 32,11
+29/07/2012;Leste;Carolina;Casa e Construção;R$ 2.134,36;R$ 42,69
+29/07/2012;Centro;Carolina;Cama, Mesa e Banho;R$ 2.675,76;R$ 53,52
+29/07/2012;Nordeste;Adriana;Cine e Foto;R$ 801,72;R$ 16,03
+29/07/2012;Sul;João Carlos;Cama, Mesa e Banho;R$ 4.156,87;R$ 83,14
+29/07/2012;Sul;Ana Maria;Esporte e Lazer;R$ 2.630,79;R$ 52,62
+30/07/2012;Sudeste;Simone;Cama, Mesa e Banho;R$ 1.424,37;R$ 28,49
+31/07/2012;Sudeste;João Carlos;Eletrodomésticos;R$ 3.582,01;R$ 71,64
+31/07/2012;Centro;João Carlos;Móveis e Decoração;R$ 1.172,88;R$ 23,46
+31/07/2012;Leste;José Luiz;Utilidades Domésticas;R$ 2.643,91;R$ 52,88
+01/08/2012;Sudeste;Adriana;Utilidades Domésticas;R$ 770,59;R$ 15,41
+02/08/2012;Sul;João Carlos;Eletrônicos;R$ 2.476,33;R$ 49,53
+02/08/2012;Centro;Ana Maria;Eletrônicos;R$ 1.304,61;R$ 26,09
+03/08/2012;Sul;Carolina;Utilidades Domésticas;R$ 2.195,14;R$ 43,90
+03/08/2012;Nordeste;Simone;Roupas e Acessórios;R$ 1.254,11;R$ 25,08
+03/08/2012;Sul;Ana Maria;Cine e Foto;R$ 2.026,29;R$ 40,53
+04/08/2012;Sudeste;Carolina;Móveis e Decoração;R$ 2.761,38;R$ 55,23
+04/08/2012;Sul;João Carlos;Eletrônicos;R$ 4.468,99;R$ 89,38
+05/08/2012;Nordeste;Ricardo;Móveis e Decoração;R$ 4.044,12;R$ 80,88
+07/08/2012;Sudeste;Carolina;Eletrônicos;R$ 3.567,19;R$ 71,34
+08/08/2012;Sul;Ricardo;Eletrodomésticos;R$ 3.753,38;R$ 75,07
+09/08/2012;Nordeste;João Carlos;Roupas e Acessórios;R$ 4.893,73;R$ 97,87
+11/08/2012;Sul;Ana Maria;Utilidades Domésticas;R$ 1.546,26;R$ 30,93
+12/08/2012;Sudeste;João Carlos;Esporte e Lazer;R$ 4.044,44;R$ 80,89
+12/08/2012;Sul;José Luiz;Eletrodomésticos;R$ 2.235,28;R$ 44,71
+13/08/2012;Sudeste;João Carlos;Casa e Construção;R$ 2.438,51;R$ 48,77
+15/08/2012;Oeste;Carolina;Móveis e Decoração;R$ 3.564,65;R$ 71,29
+16/08/2012;Sul;João Carlos;Casa e Construção;R$ 3.002,94;R$ 60,06
+17/08/2012;Nordeste;Simone;Roupas e Acessórios;R$ 4.522,41;R$ 90,45
+17/08/2012;Oeste;Carolina;Eletrodomésticos;R$ 1.946,70;R$ 38,93
+18/08/2012;Sudeste;Simone;Esporte e Lazer;R$ 1.329,57;R$ 26,59
+18/08/2012;Nordeste;Carolina;Cine e Foto;R$ 4.979,55;R$ 99,59
+18/08/2012;Oeste;Ana Maria;Roupas e Acessórios;R$ 804,00;R$ 16,08
+18/08/2012;Leste;Adriana;Cama, Mesa e Banho;R$ 619,03;R$ 12,38
+20/08/2012;Nordeste;Ricardo;Cine e Foto;R$ 3.127,29;R$ 62,55
+20/08/2012;Sul;João Carlos;Esporte e Lazer;R$ 3.764,17;R$ 75,28
+20/08/2012;Sudeste;Carolina;Eletrodomésticos;R$ 1.227,78;R$ 24,56
+22/08/2012;Nordeste;Ana Maria;Eletrônicos;R$ 1.309,79;R$ 26,20
+22/08/2012;Centro;João Carlos;Casa e Construção;R$ 1.382,77;R$ 27,66
+23/08/2012;Oeste;Carolina;Roupas e Acessórios;R$ 2.001,70;R$ 40,03
+24/08/2012;Sul;Carolina;Eletrodomésticos;R$ 4.303,34;R$ 86,07
+25/08/2012;Nordeste;Carolina;Roupas e Acessórios;R$ 4.253,52;R$ 85,07
+25/08/2012;Sudeste;Roberto;Esporte e Lazer;R$ 1.386,94;R$ 27,74
+26/08/2012;Sul;Simone;Casa e Construção;R$ 575,63;R$ 11,51
+26/08/2012;Sudeste;Adriana;Esporte e Lazer;R$ 4.236,48;R$ 84,73
+27/08/2012;Centro;Roberto;Esporte e Lazer;R$ 620,98;R$ 12,42
+29/08/2012;Centro;João Carlos;Esporte e Lazer;R$ 2.772,35;R$ 55,45
+29/08/2012;Sul;João Carlos;Eletrônicos;R$ 1.614,80;R$ 32,30
+30/08/2012;Nordeste;João Carlos;Cine e Foto;R$ 4.545,92;R$ 90,92
+30/08/2012;Oeste;Ana Maria;Casa e Construção;R$ 2.623,48;R$ 52,47
+31/08/2012;Sudeste;Ana Maria;Eletrônicos;R$ 4.417,10;R$ 88,34
+01/09/2012;Nordeste;Simone;Eletrônicos;R$ 2.057,31;R$ 41,15
+01/09/2012;Centro;Ricardo;Cama, Mesa e Banho;R$ 760,07;R$ 15,20
+03/09/2012;Nordeste;Ricardo;Eletrônicos;R$ 3.194,40;R$ 63,89
+03/09/2012;Oeste;Adriana;Cama, Mesa e Banho;R$ 4.721,47;R$ 94,43
+04/09/2012;Leste;José Luiz;Esporte e Lazer;R$ 3.601,88;R$ 72,04
+05/09/2012;Sudeste;João Carlos;Utilidades Domésticas;R$ 2.210,98;R$ 44,22
+05/09/2012;Centro;Ricardo;Eletrônicos;R$ 2.069,05;R$ 41,38
+06/09/2012;Centro;José Luiz;Esporte e Lazer;R$ 4.232,18;R$ 84,64
+06/09/2012;Sudeste;Ricardo;Esporte e Lazer;R$ 2.760,43;R$ 55,21
+07/09/2012;Sudeste;Roberto;Utilidades Domésticas;R$ 3.732,25;R$ 74,65
+07/09/2012;Sudeste;Roberto;Eletrônicos;R$ 3.795,89;R$ 75,92
+07/09/2012;Nordeste;Carolina;Utilidades Domésticas;R$ 2.070,96;R$ 41,42
+08/09/2012;Sul;Roberto;Esporte e Lazer;R$ 1.189,29;R$ 23,79
+08/09/2012;Nordeste;Ricardo;Utilidades Domésticas;R$ 1.826,54;R$ 36,53
+09/09/2012;Leste;Ricardo;Eletrodomésticos;R$ 2.092,74;R$ 41,85
+11/09/2012;Centro;Ana Maria;Eletrônicos;R$ 2.155,30;R$ 43,11
+12/09/2012;Norte;Ana Maria;Roupas e Acessórios;R$ 3.704,62;R$ 74,09
+12/09/2012;Leste;Ricardo;Esporte e Lazer;R$ 2.928,48;R$ 58,57
+13/09/2012;Nordeste;Ana Maria;Eletrodomésticos;R$ 2.408,88;R$ 48,18
+15/09/2012;Sudeste;Ricardo;Utilidades Domésticas;R$ 3.838,24;R$ 76,76
+15/09/2012;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 335,06;R$ 6,70
+16/09/2012;Sudeste;Simone;Casa e Construção;R$ 3.542,58;R$ 70,85
+16/09/2012;Sudeste;Ricardo;Eletrodomésticos;R$ 4.541,03;R$ 90,82
+16/09/2012;Norte;Carolina;Esporte e Lazer;R$ 3.885,61;R$ 77,71
+16/09/2012;Nordeste;Adriana;Casa e Construção;R$ 2.068,69;R$ 41,37
+16/09/2012;Oeste;Carolina;Móveis e Decoração;R$ 3.430,63;R$ 68,61
+17/09/2012;Centro;Adriana;Cama, Mesa e Banho;R$ 4.254,84;R$ 85,10
+18/09/2012;Sul;Adriana;Utilidades Domésticas;R$ 697,61;R$ 13,95
+18/09/2012;Norte;Carolina;Móveis e Decoração;R$ 355,15;R$ 7,10
+19/09/2012;Sul;Roberto;Cama, Mesa e Banho;R$ 536,94;R$ 10,74
+20/09/2012;Sudeste;Ana Maria;Móveis e Decoração;R$ 415,51;R$ 8,31
+21/09/2012;Sudeste;Carolina;Móveis e Decoração;R$ 3.593,74;R$ 71,87
+22/09/2012;Sul;Simone;Roupas e Acessórios;R$ 3.400,74;R$ 68,01
+24/09/2012;Sudeste;João Carlos;Casa e Construção;R$ 3.898,34;R$ 77,97
+25/09/2012;Centro;Adriana;Cine e Foto;R$ 431,09;R$ 8,62
+26/09/2012;Norte;Ricardo;Eletrônicos;R$ 2.263,92;R$ 45,28
+26/09/2012;Nordeste;Simone;Casa e Construção;R$ 1.777,06;R$ 35,54
+27/09/2012;Centro;Adriana;Utilidades Domésticas;R$ 2.380,98;R$ 47,62
+27/09/2012;Leste;Ana Maria;Cama, Mesa e Banho;R$ 3.393,56;R$ 67,87
+27/09/2012;Sul;Carolina;Utilidades Domésticas;R$ 3.279,40;R$ 65,59
+27/09/2012;Nordeste;Ricardo;Casa e Construção;R$ 3.971,21;R$ 79,42
+28/09/2012;Sul;Ana Maria;Cine e Foto;R$ 4.514,70;R$ 90,29
+28/09/2012;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 219,34;R$ 4,39
+29/09/2012;Nordeste;Ana Maria;Roupas e Acessórios;R$ 3.614,70;R$ 72,29
+29/09/2012;Sudeste;Adriana;Roupas e Acessórios;R$ 4.996,97;R$ 99,94
+01/10/2012;Sul;Roberto;Esporte e Lazer;R$ 1.694,71;R$ 33,89
+01/10/2012;Sudeste;Ana Maria;Cine e Foto;R$ 4.049,71;R$ 80,99
+02/10/2012;Sudeste;Ricardo;Esporte e Lazer;R$ 2.245,22;R$ 44,90
+03/10/2012;Nordeste;Carolina;Eletrodomésticos;R$ 1.331,83;R$ 26,64
+04/10/2012;Nordeste;José Luiz;Utilidades Domésticas;R$ 764,81;R$ 15,30
+04/10/2012;Norte;Carolina;Cama, Mesa e Banho;R$ 4.775,64;R$ 95,51
+05/10/2012;Centro;José Luiz;Casa e Construção;R$ 1.021,28;R$ 20,43
+06/10/2012;Sudeste;Simone;Esporte e Lazer;R$ 444,99;R$ 8,90
+06/10/2012;Sudeste;Adriana;Casa e Construção;R$ 2.155,04;R$ 43,10
+07/10/2012;Leste;Ana Maria;Eletrônicos;R$ 3.372,17;R$ 67,44
+07/10/2012;Norte;Roberto;Esporte e Lazer;R$ 3.780,00;R$ 75,60
+08/10/2012;Nordeste;Roberto;Eletrodomésticos;R$ 1.981,15;R$ 39,62
+08/10/2012;Sul;João Carlos;Eletrodomésticos;R$ 661,39;R$ 13,23
+09/10/2012;Sul;Roberto;Cine e Foto;R$ 3.093,37;R$ 61,87
+10/10/2012;Nordeste;Carolina;Eletrônicos;R$ 3.578,10;R$ 71,56
+11/10/2012;Sudeste;Carolina;Móveis e Decoração;R$ 2.939,03;R$ 58,78
+11/10/2012;Centro;Ana Maria;Móveis e Decoração;R$ 1.414,05;R$ 28,28
+12/10/2012;Centro;Ricardo;Cine e Foto;R$ 1.224,34;R$ 24,49
+12/10/2012;Centro;Simone;Cine e Foto;R$ 1.849,98;R$ 37,00
+14/10/2012;Nordeste;Carolina;Roupas e Acessórios;R$ 3.022,42;R$ 60,45
+14/10/2012;Centro;Roberto;Cine e Foto;R$ 3.823,98;R$ 76,48
+14/10/2012;Centro;Simone;Cama, Mesa e Banho;R$ 2.355,53;R$ 47,11
+16/10/2012;Centro;João Carlos;Esporte e Lazer;R$ 4.632,07;R$ 92,64
+17/10/2012;Centro;Carolina;Utilidades Domésticas;R$ 825,38;R$ 16,51
+18/10/2012;Norte;Roberto;Roupas e Acessórios;R$ 1.808,20;R$ 36,16
+18/10/2012;Sudeste;Ricardo;Roupas e Acessórios;R$ 4.064,28;R$ 81,29
+19/10/2012;Centro;Roberto;Cama, Mesa e Banho;R$ 3.482,28;R$ 69,65
+20/10/2012;Leste;Roberto;Eletrodomésticos;R$ 2.505,28;R$ 50,11
+20/10/2012;Nordeste;Carolina;Móveis e Decoração;R$ 2.090,92;R$ 41,82
+20/10/2012;Nordeste;Simone;Eletrodomésticos;R$ 3.779,58;R$ 75,59
+22/10/2012;Nordeste;Ricardo;Casa e Construção;R$ 1.627,78;R$ 32,56
+23/10/2012;Sudeste;João Carlos;Casa e Construção;R$ 2.626,37;R$ 52,53
+23/10/2012;Sudeste;Carolina;Roupas e Acessórios;R$ 4.552,80;R$ 91,06
+26/10/2012;Oeste;João Carlos;Móveis e Decoração;R$ 687,35;R$ 13,75
+27/10/2012;Oeste;Carolina;Eletrodomésticos;R$ 4.406,52;R$ 88,13
+27/10/2012;Oeste;João Carlos;Móveis e Decoração;R$ 2.335,90;R$ 46,72
+30/10/2012;Leste;Carolina;Móveis e Decoração;R$ 4.171,57;R$ 83,43
+30/10/2012;Sul;Ana Maria;Eletrodomésticos;R$ 2.130,76;R$ 42,62
+31/10/2012;Sul;Carolina;Casa e Construção;R$ 3.945,17;R$ 78,90
+31/10/2012;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 4.885,09;R$ 97,70
+31/10/2012;Sudeste;Adriana;Roupas e Acessórios;R$ 372,13;R$ 7,44
+01/11/2012;Nordeste;Ana Maria;Esporte e Lazer;R$ 2.634,63;R$ 52,69
+02/11/2012;Sul;Carolina;Eletrodomésticos;R$ 2.695,82;R$ 53,92
+02/11/2012;Oeste;Carolina;Cine e Foto;R$ 1.068,13;R$ 21,36
+02/11/2012;Sudeste;José Luiz;Cine e Foto;R$ 922,89;R$ 18,46
+03/11/2012;Oeste;Simone;Roupas e Acessórios;R$ 4.567,65;R$ 91,35
+05/11/2012;Sudeste;Adriana;Eletrodomésticos;R$ 1.157,29;R$ 23,15
+05/11/2012;Centro;Simone;Móveis e Decoração;R$ 4.453,11;R$ 89,06
+06/11/2012;Nordeste;Ana Maria;Cama, Mesa e Banho;R$ 1.231,59;R$ 24,63
+07/11/2012;Centro;José Luiz;Utilidades Domésticas;R$ 4.466,03;R$ 89,32
+07/11/2012;Sul;Simone;Roupas e Acessórios;R$ 632,49;R$ 12,65
+08/11/2012;Centro;João Carlos;Casa e Construção;R$ 3.959,83;R$ 79,20
+09/11/2012;Sudeste;Carolina;Utilidades Domésticas;R$ 203,19;R$ 4,06
+09/11/2012;Nordeste;Ana Maria;Esporte e Lazer;R$ 4.188,85;R$ 83,78
+10/11/2012;Norte;Roberto;Eletrônicos;R$ 2.925,83;R$ 58,52
+10/11/2012;Norte;Ricardo;Esporte e Lazer;R$ 2.627,22;R$ 52,54
+10/11/2012;Sudeste;Ricardo;Esporte e Lazer;R$ 4.746,05;R$ 94,92
+10/11/2012;Centro;Ricardo;Eletrodomésticos;R$ 4.768,88;R$ 95,38
+12/11/2012;Sudeste;Simone;Roupas e Acessórios;R$ 2.121,38;R$ 42,43
+15/11/2012;Sul;Ricardo;Cama, Mesa e Banho;R$ 3.939,41;R$ 78,79
+15/11/2012;Centro;João Carlos;Roupas e Acessórios;R$ 1.461,83;R$ 29,24
+15/11/2012;Nordeste;Ricardo;Roupas e Acessórios;R$ 610,53;R$ 12,21
+15/11/2012;Leste;José Luiz;Eletrodomésticos;R$ 1.073,96;R$ 21,48
+16/11/2012;Sul;Carolina;Eletrônicos;R$ 1.629,63;R$ 32,59
+16/11/2012;Centro;Simone;Cine e Foto;R$ 3.852,87;R$ 77,06
+17/11/2012;Norte;João Carlos;Eletrodomésticos;R$ 4.853,87;R$ 97,08
+17/11/2012;Sudeste;Adriana;Casa e Construção;R$ 3.532,74;R$ 70,65
+18/11/2012;Sudeste;Ana Maria;Cine e Foto;R$ 1.250,31;R$ 25,01
+18/11/2012;Nordeste;João Carlos;Utilidades Domésticas;R$ 4.871,46;R$ 97,43
+19/11/2012;Sul;Carolina;Utilidades Domésticas;R$ 1.204,65;R$ 24,09
+19/11/2012;Norte;Carolina;Casa e Construção;R$ 1.841,16;R$ 36,82
+19/11/2012;Sudeste;Ana Maria;Casa e Construção;R$ 2.166,59;R$ 43,33
+22/11/2012;Nordeste;João Carlos;Eletrodomésticos;R$ 3.619,59;R$ 72,39
+22/11/2012;Centro;João Carlos;Eletrônicos;R$ 3.544,54;R$ 70,89
+23/11/2012;Sul;José Luiz;Eletrônicos;R$ 663,47;R$ 13,27
+24/11/2012;Sul;Ricardo;Utilidades Domésticas;R$ 1.562,32;R$ 31,25
+24/11/2012;Nordeste;Ana Maria;Cine e Foto;R$ 3.853,79;R$ 77,08
+25/11/2012;Sul;João Carlos;Móveis e Decoração;R$ 1.390,20;R$ 27,80
+27/11/2012;Centro;João Carlos;Utilidades Domésticas;R$ 2.169,39;R$ 43,39
+27/11/2012;Sudeste;Carolina;Casa e Construção;R$ 1.553,43;R$ 31,07
+29/11/2012;Norte;Ricardo;Esporte e Lazer;R$ 782,08;R$ 15,64
+30/11/2012;Oeste;João Carlos;Cama, Mesa e Banho;R$ 4.683,76;R$ 93,68
+30/11/2012;Nordeste;Ana Maria;Eletrodomésticos;R$ 640,33;R$ 12,81
+30/11/2012;Oeste;Carolina;Cine e Foto;R$ 3.847,90;R$ 76,96
+01/12/2012;Nordeste;Ricardo;Utilidades Domésticas;R$ 4.704,83;R$ 94,10
+02/12/2012;Sul;Adriana;Cama, Mesa e Banho;R$ 3.243,02;R$ 64,86
+02/12/2012;Norte;Ricardo;Utilidades Domésticas;R$ 4.583,83;R$ 91,68
+04/12/2012;Nordeste;Roberto;Esporte e Lazer;R$ 616,54;R$ 12,33
+05/12/2012;Centro;João Carlos;Casa e Construção;R$ 4.006,26;R$ 80,13
+05/12/2012;Oeste;Ana Maria;Esporte e Lazer;R$ 1.860,50;R$ 37,21
+06/12/2012;Sudeste;Ricardo;Roupas e Acessórios;R$ 1.950,20;R$ 39,00
+06/12/2012;Centro;João Carlos;Esporte e Lazer;R$ 3.512,03;R$ 70,24
+06/12/2012;Sudeste;João Carlos;Móveis e Decoração;R$ 2.146,00;R$ 42,92
+06/12/2012;Nordeste;Ricardo;Móveis e Decoração;R$ 2.967,96;R$ 59,36
+08/12/2012;Sul;Ana Maria;Roupas e Acessórios;R$ 1.796,14;R$ 35,92
+09/12/2012;Sul;José Luiz;Casa e Construção;R$ 455,64;R$ 9,11
+11/12/2012;Sudeste;João Carlos;Eletrônicos;R$ 620,24;R$ 12,40
+13/12/2012;Nordeste;José Luiz;Utilidades Domésticas;R$ 3.951,76;R$ 79,04
+15/12/2012;Oeste;Carolina;Esporte e Lazer;R$ 2.219,66;R$ 44,39
+15/12/2012;Leste;José Luiz;Móveis e Decoração;R$ 488,64;R$ 9,77
+15/12/2012;Leste;Adriana;Roupas e Acessórios;R$ 3.572,21;R$ 71,44
+16/12/2012;Nordeste;Adriana;Roupas e Acessórios;R$ 1.976,97;R$ 39,54
+17/12/2012;Centro;Carolina;Utilidades Domésticas;R$ 349,17;R$ 6,98
+17/12/2012;Sudeste;Ricardo;Utilidades Domésticas;R$ 2.511,18;R$ 50,22
+18/12/2012;Sudeste;Adriana;Eletrodomésticos;R$ 3.787,29;R$ 75,75
+18/12/2012;Nordeste;Ricardo;Eletrônicos;R$ 947,43;R$ 18,95
+18/12/2012;Sul;Carolina;Cine e Foto;R$ 3.786,81;R$ 75,74
+19/12/2012;Norte;Roberto;Esporte e Lazer;R$ 4.993,76;R$ 99,88
+19/12/2012;Sudeste;Roberto;Cama, Mesa e Banho;R$ 1.797,39;R$ 35,95
+20/12/2012;Nordeste;Carolina;Eletrodomésticos;R$ 4.520,38;R$ 90,41
+21/12/2012;Centro;João Carlos;Eletrônicos;R$ 1.600,91;R$ 32,02
+21/12/2012;Oeste;Ricardo;Roupas e Acessórios;R$ 4.824,95;R$ 96,50
+21/12/2012;Sudeste;Ana Maria;Eletrodomésticos;R$ 2.948,48;R$ 58,97
+21/12/2012;Oeste;Simone;Eletrodomésticos;R$ 4.484,44;R$ 89,69
+22/12/2012;Sul;João Carlos;Cama, Mesa e Banho;R$ 4.320,30;R$ 86,41
+22/12/2012;Oeste;João Carlos;Esporte e Lazer;R$ 2.382,45;R$ 47,65
+23/12/2012;Sul;Ricardo;Eletrônicos;R$ 3.672,69;R$ 73,45
+24/12/2012;Leste;João Carlos;Utilidades Domésticas;R$ 1.472,99;R$ 29,46
+24/12/2012;Oeste;José Luiz;Eletrônicos;R$ 3.102,22;R$ 62,04
+25/12/2012;Sudeste;José Luiz;Roupas e Acessórios;R$ 2.551,61;R$ 51,03
+26/12/2012;Sudeste;Adriana;Cama, Mesa e Banho;R$ 2.177,25;R$ 43,55
+26/12/2012;Leste;Ana Maria;Cine e Foto;R$ 4.139,64;R$ 82,79
+27/12/2012;Centro;Carolina;Cine e Foto;R$ 1.754,48;R$ 35,09
+27/12/2012;Nordeste;Ana Maria;Casa e Construção;R$ 4.467,90;R$ 89,36
+27/12/2012;Norte;Ricardo;Casa e Construção;R$ 1.633,15;R$ 32,66
+27/12/2012;Norte;Carolina;Móveis e Decoração;R$ 4.719,99;R$ 94,40
+29/12/2012;Sudeste;Carolina;Casa e Construção;R$ 797,92;R$ 15,96
+31/12/2012;Sudeste;Ricardo;Móveis e Decoração;R$ 3.587,04;R$ 71,74
+31/12/2012;Sul;João Carlos;Utilidades Domésticas;R$ 1.902,73;R$ 38,05
+31/12/2012;Sudeste;João Carlos;Casa e Construção;R$ 1.979,38;R$ 39,59
+31/12/2012;Oeste;Ricardo;Eletrodomésticos;R$ 2.793,50;R$ 55,87
+01/01/2013;Sudeste;Carolina;Móveis e Decoração;R$ 3.856,93;R$ 77,14
+01/01/2013;Nordeste;Ana Maria;Casa e Construção;R$ 1.511,34;R$ 30,23
+02/01/2013;Norte;José Luiz;Eletrodomésticos;R$ 1.373,31;R$ 27,47
+06/01/2013;Centro;João Carlos;Cama, Mesa e Banho;R$ 4.933,73;R$ 98,67
+06/01/2013;Sudeste;João Carlos;Roupas e Acessórios;R$ 1.819,30;R$ 36,39
+07/01/2013;Sudeste;José Luiz;Móveis e Decoração;R$ 3.771,39;R$ 75,43
+08/01/2013;Norte;Ana Maria;Esporte e Lazer;R$ 2.618,03;R$ 52,36
+08/01/2013;Nordeste;Ana Maria;Eletrodomésticos;R$ 2.489,56;R$ 49,79
+09/01/2013;Sudeste;Adriana;Móveis e Decoração;R$ 1.986,20;R$ 39,72
+09/01/2013;Sul;Carolina;Cine e Foto;R$ 4.708,44;R$ 94,17
+10/01/2013;Sudeste;Carolina;Eletrodomésticos;R$ 1.989,91;R$ 39,80
+12/01/2013;Nordeste;Carolina;Eletrônicos;R$ 2.927,08;R$ 58,54
+12/01/2013;Sul;Ricardo;Roupas e Acessórios;R$ 3.706,90;R$ 74,14
+13/01/2013;Norte;Ana Maria;Cama, Mesa e Banho;R$ 1.579,08;R$ 31,58
+13/01/2013;Nordeste;Ana Maria;Eletrodomésticos;R$ 2.537,90;R$ 50,76
+13/01/2013;Leste;Roberto;Cama, Mesa e Banho;R$ 1.682,69;R$ 33,65
+14/01/2013;Nordeste;Carolina;Roupas e Acessórios;R$ 3.067,08;R$ 61,34
+14/01/2013;Sul;João Carlos;Esporte e Lazer;R$ 3.576,58;R$ 71,53
+16/01/2013;Sul;Adriana;Roupas e Acessórios;R$ 242,22;R$ 4,84
+16/01/2013;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 2.192,30;R$ 43,85
+17/01/2013;Leste;Ricardo;Cine e Foto;R$ 1.139,67;R$ 22,79
+18/01/2013;Sudeste;José Luiz;Eletrônicos;R$ 1.904,57;R$ 38,09
+18/01/2013;Centro;Carolina;Móveis e Decoração;R$ 1.302,67;R$ 26,05
+21/01/2013;Sul;Ana Maria;Utilidades Domésticas;R$ 4.363,67;R$ 87,27
+21/01/2013;Nordeste;João Carlos;Eletrônicos;R$ 4.437,99;R$ 88,76
+21/01/2013;Sudeste;Carolina;Eletrodomésticos;R$ 2.469,32;R$ 49,39
+21/01/2013;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 4.369,27;R$ 87,39
+21/01/2013;Nordeste;José Luiz;Roupas e Acessórios;R$ 1.336,45;R$ 26,73
+22/01/2013;Sul;Ana Maria;Utilidades Domésticas;R$ 3.832,28;R$ 76,65
+22/01/2013;Centro;Carolina;Móveis e Decoração;R$ 4.853,39;R$ 97,07
+23/01/2013;Nordeste;Adriana;Cama, Mesa e Banho;R$ 1.501,83;R$ 30,04
+26/01/2013;Sul;Simone;Casa e Construção;R$ 2.131,37;R$ 42,63
+27/01/2013;Oeste;Carolina;Roupas e Acessórios;R$ 2.459,06;R$ 49,18
+29/01/2013;Sul;Roberto;Casa e Construção;R$ 1.620,12;R$ 32,40
+30/01/2013;Sudeste;Ana Maria;Móveis e Decoração;R$ 1.854,25;R$ 37,09
+30/01/2013;Oeste;Ricardo;Eletrônicos;R$ 4.917,73;R$ 98,35
+01/02/2013;Norte;Ricardo;Eletrônicos;R$ 3.650,87;R$ 73,02
+01/02/2013;Oeste;Ricardo;Eletrônicos;R$ 3.703,95;R$ 74,08
+01/02/2013;Sul;Ricardo;Utilidades Domésticas;R$ 4.638,97;R$ 92,78
+03/02/2013;Sudeste;Simone;Cine e Foto;R$ 1.241,80;R$ 24,84
+05/02/2013;Norte;João Carlos;Esporte e Lazer;R$ 2.790,42;R$ 55,81
+06/02/2013;Centro;Adriana;Cine e Foto;R$ 2.298,61;R$ 45,97
+06/02/2013;Sul;Ana Maria;Esporte e Lazer;R$ 1.389,45;R$ 27,79
+08/02/2013;Sul;João Carlos;Móveis e Decoração;R$ 3.004,08;R$ 60,08
+08/02/2013;Sul;Ana Maria;Eletrônicos;R$ 995,55;R$ 19,91
+09/02/2013;Nordeste;Ana Maria;Utilidades Domésticas;R$ 1.657,84;R$ 33,16
+09/02/2013;Oeste;Ricardo;Roupas e Acessórios;R$ 4.089,60;R$ 81,79
+11/02/2013;Nordeste;Adriana;Móveis e Decoração;R$ 4.559,64;R$ 91,19
+12/02/2013;Oeste;Adriana;Móveis e Decoração;R$ 1.754,37;R$ 35,09
+13/02/2013;Sudeste;João Carlos;Esporte e Lazer;R$ 1.503,13;R$ 30,06
+13/02/2013;Sudeste;João Carlos;Casa e Construção;R$ 1.598,58;R$ 31,97
+13/02/2013;Nordeste;Carolina;Esporte e Lazer;R$ 3.402,64;R$ 68,05
+14/02/2013;Nordeste;José Luiz;Cine e Foto;R$ 4.090,00;R$ 81,80
+14/02/2013;Sudeste;José Luiz;Roupas e Acessórios;R$ 2.858,30;R$ 57,17
+15/02/2013;Sudeste;Simone;Eletrônicos;R$ 919,33;R$ 18,39
+16/02/2013;Leste;Roberto;Cine e Foto;R$ 4.644,17;R$ 92,88
+18/02/2013;Norte;João Carlos;Esporte e Lazer;R$ 2.596,18;R$ 51,92
+19/02/2013;Oeste;Adriana;Cine e Foto;R$ 438,34;R$ 8,77
+19/02/2013;Nordeste;Ricardo;Móveis e Decoração;R$ 2.223,01;R$ 44,46
+19/02/2013;Centro;João Carlos;Eletrônicos;R$ 3.057,71;R$ 61,15
+21/02/2013;Norte;João Carlos;Roupas e Acessórios;R$ 2.272,61;R$ 45,45
+22/02/2013;Leste;Roberto;Utilidades Domésticas;R$ 642,36;R$ 12,85
+22/02/2013;Centro;Ana Maria;Eletrônicos;R$ 2.411,37;R$ 48,23
+23/02/2013;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 398,43;R$ 7,97
+24/02/2013;Norte;João Carlos;Cine e Foto;R$ 3.970,12;R$ 79,40
+25/02/2013;Centro;Ricardo;Cama, Mesa e Banho;R$ 1.384,34;R$ 27,69
+25/02/2013;Sul;João Carlos;Móveis e Decoração;R$ 2.844,48;R$ 56,89
+27/02/2013;Sudeste;Carolina;Eletrodomésticos;R$ 3.192,37;R$ 63,85
+27/02/2013;Centro;João Carlos;Eletrônicos;R$ 529,35;R$ 10,59
+27/02/2013;Sudeste;João Carlos;Utilidades Domésticas;R$ 1.785,15;R$ 35,70
+28/02/2013;Nordeste;Adriana;Eletrodomésticos;R$ 1.540,73;R$ 30,81
+28/02/2013;Leste;Carolina;Utilidades Domésticas;R$ 1.300,50;R$ 26,01
+01/03/2013;Nordeste;Roberto;Eletrônicos;R$ 1.000,99;R$ 20,02
+01/03/2013;Sudeste;João Carlos;Roupas e Acessórios;R$ 1.569,44;R$ 31,39
+01/03/2013;Sul;Adriana;Cama, Mesa e Banho;R$ 3.461,42;R$ 69,23
+01/03/2013;Centro;Ana Maria;Casa e Construção;R$ 2.400,97;R$ 48,02
+02/03/2013;Sul;Carolina;Eletrodomésticos;R$ 4.123,99;R$ 82,48
+03/03/2013;Sul;Simone;Esporte e Lazer;R$ 3.463,13;R$ 69,26
+03/03/2013;Leste;Roberto;Esporte e Lazer;R$ 2.388,21;R$ 47,76
+04/03/2013;Nordeste;João Carlos;Casa e Construção;R$ 4.129,78;R$ 82,60
+05/03/2013;Centro;Adriana;Utilidades Domésticas;R$ 1.935,67;R$ 38,71
+05/03/2013;Centro;João Carlos;Esporte e Lazer;R$ 1.053,45;R$ 21,07
+05/03/2013;Sudeste;Ana Maria;Utilidades Domésticas;R$ 4.408,91;R$ 88,18
+05/03/2013;Oeste;Ana Maria;Casa e Construção;R$ 1.403,26;R$ 28,07
+06/03/2013;Leste;Adriana;Esporte e Lazer;R$ 730,31;R$ 14,61
+06/03/2013;Centro;Simone;Cine e Foto;R$ 1.327,42;R$ 26,55
+06/03/2013;Sul;Ricardo;Casa e Construção;R$ 4.340,78;R$ 86,82
+06/03/2013;Centro;Carolina;Esporte e Lazer;R$ 1.351,20;R$ 27,02
+06/03/2013;Leste;José Luiz;Esporte e Lazer;R$ 3.818,55;R$ 76,37
+08/03/2013;Oeste;Carolina;Cine e Foto;R$ 2.361,82;R$ 47,24
+08/03/2013;Leste;João Carlos;Eletrônicos;R$ 3.529,91;R$ 70,60
+09/03/2013;Sul;José Luiz;Casa e Construção;R$ 3.983,98;R$ 79,68
+09/03/2013;Centro;Ricardo;Utilidades Domésticas;R$ 1.488,27;R$ 29,77
+09/03/2013;Sudeste;Ricardo;Eletrodomésticos;R$ 544,78;R$ 10,90
+10/03/2013;Centro;Carolina;Móveis e Decoração;R$ 1.454,22;R$ 29,08
+12/03/2013;Sudeste;Roberto;Móveis e Decoração;R$ 2.289,76;R$ 45,80
+12/03/2013;Sudeste;Simone;Cama, Mesa e Banho;R$ 1.991,42;R$ 39,83
+12/03/2013;Nordeste;Roberto;Cama, Mesa e Banho;R$ 3.825,30;R$ 76,51
+12/03/2013;Leste;Carolina;Utilidades Domésticas;R$ 3.949,07;R$ 78,98
+12/03/2013;Nordeste;Ana Maria;Utilidades Domésticas;R$ 4.093,65;R$ 81,87
+13/03/2013;Oeste;José Luiz;Esporte e Lazer;R$ 2.763,18;R$ 55,26
+13/03/2013;Nordeste;Ana Maria;Casa e Construção;R$ 1.140,54;R$ 22,81
+14/03/2013;Nordeste;Carolina;Utilidades Domésticas;R$ 3.569,65;R$ 71,39
+15/03/2013;Leste;Carolina;Cine e Foto;R$ 1.980,32;R$ 39,61
+17/03/2013;Oeste;Carolina;Cama, Mesa e Banho;R$ 4.465,89;R$ 89,32
+17/03/2013;Leste;Adriana;Móveis e Decoração;R$ 3.390,33;R$ 67,81
+18/03/2013;Oeste;José Luiz;Utilidades Domésticas;R$ 2.987,23;R$ 59,74
+18/03/2013;Nordeste;Roberto;Cama, Mesa e Banho;R$ 4.958,23;R$ 99,16
+18/03/2013;Sudeste;Ricardo;Móveis e Decoração;R$ 3.527,11;R$ 70,54
+18/03/2013;Centro;Carolina;Roupas e Acessórios;R$ 782,09;R$ 15,64
+20/03/2013;Leste;João Carlos;Casa e Construção;R$ 3.125,43;R$ 62,51
+20/03/2013;Nordeste;Carolina;Cama, Mesa e Banho;R$ 2.313,67;R$ 46,27
+20/03/2013;Sul;Ana Maria;Esporte e Lazer;R$ 965,20;R$ 19,30
+20/03/2013;Leste;Ana Maria;Eletrônicos;R$ 453,42;R$ 9,07
+20/03/2013;Oeste;João Carlos;Eletrônicos;R$ 2.262,50;R$ 45,25
+21/03/2013;Leste;Ana Maria;Móveis e Decoração;R$ 1.524,02;R$ 30,48
+21/03/2013;Sul;Roberto;Roupas e Acessórios;R$ 886,51;R$ 17,73
+22/03/2013;Leste;Ana Maria;Eletrodomésticos;R$ 3.726,60;R$ 74,53
+22/03/2013;Norte;Ricardo;Eletrodomésticos;R$ 551,47;R$ 11,03
+23/03/2013;Sudeste;Ana Maria;Cama, Mesa e Banho;R$ 1.235,22;R$ 24,70
+24/03/2013;Sul;Ana Maria;Esporte e Lazer;R$ 404,22;R$ 8,08
+25/03/2013;Sudeste;José Luiz;Roupas e Acessórios;R$ 2.846,26;R$ 56,93
+25/03/2013;Centro;Ricardo;Eletrônicos;R$ 3.618,03;R$ 72,36
+26/03/2013;Norte;Adriana;Utilidades Domésticas;R$ 4.677,70;R$ 93,55
+27/03/2013;Sudeste;José Luiz;Utilidades Domésticas;R$ 4.742,43;R$ 94,85
+28/03/2013;Sudeste;Ana Maria;Eletrodomésticos;R$ 3.990,10;R$ 79,80
+29/03/2013;Centro;Simone;Eletrodomésticos;R$ 1.714,12;R$ 34,28
+30/03/2013;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 3.200,11;R$ 64,00
+30/03/2013;Sudeste;João Carlos;Cine e Foto;R$ 1.311,36;R$ 26,23
+31/03/2013;Nordeste;Carolina;Casa e Construção;R$ 3.778,14;R$ 75,56
+31/03/2013;Oeste;João Carlos;Esporte e Lazer;R$ 2.677,40;R$ 53,55
+02/04/2013;Leste;João Carlos;Eletrônicos;R$ 1.186,79;R$ 23,74
+03/04/2013;Oeste;Ricardo;Cama, Mesa e Banho;R$ 269,27;R$ 5,39
+03/04/2013;Sudeste;Adriana;Cama, Mesa e Banho;R$ 576,74;R$ 11,53
+05/04/2013;Oeste;Ana Maria;Roupas e Acessórios;R$ 3.358,46;R$ 67,17
+05/04/2013;Norte;Carolina;Utilidades Domésticas;R$ 1.358,72;R$ 27,17
+06/04/2013;Sudeste;Ana Maria;Cine e Foto;R$ 4.649,75;R$ 93,00
+06/04/2013;Sudeste;Ricardo;Esporte e Lazer;R$ 4.120,75;R$ 82,42
+08/04/2013;Sudeste;Ricardo;Móveis e Decoração;R$ 3.469,77;R$ 69,40
+09/04/2013;Sul;Adriana;Roupas e Acessórios;R$ 2.364,34;R$ 47,29
+09/04/2013;Centro;Simone;Roupas e Acessórios;R$ 3.127,70;R$ 62,55
+10/04/2013;Sudeste;José Luiz;Móveis e Decoração;R$ 4.057,10;R$ 81,14
+10/04/2013;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 2.624,51;R$ 52,49
+11/04/2013;Sudeste;Simone;Utilidades Domésticas;R$ 4.929,46;R$ 98,59
+11/04/2013;Norte;Ricardo;Eletrônicos;R$ 4.344,34;R$ 86,89
+11/04/2013;Sul;Roberto;Cama, Mesa e Banho;R$ 4.907,47;R$ 98,15
+12/04/2013;Centro;João Carlos;Esporte e Lazer;R$ 2.188,70;R$ 43,77
+12/04/2013;Sul;Ana Maria;Casa e Construção;R$ 1.188,78;R$ 23,78
+12/04/2013;Norte;Ana Maria;Cine e Foto;R$ 2.704,20;R$ 54,08
+12/04/2013;Leste;João Carlos;Roupas e Acessórios;R$ 1.506,41;R$ 30,13
+12/04/2013;Norte;Carolina;Cama, Mesa e Banho;R$ 4.577,03;R$ 91,54
+12/04/2013;Sudeste;Ana Maria;Eletrodomésticos;R$ 4.756,44;R$ 95,13
+13/04/2013;Sul;Adriana;Cama, Mesa e Banho;R$ 3.511,06;R$ 70,22
+14/04/2013;Norte;Ana Maria;Cama, Mesa e Banho;R$ 3.154,29;R$ 63,09
+15/04/2013;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 4.551,89;R$ 91,04
+15/04/2013;Oeste;Ana Maria;Casa e Construção;R$ 945,04;R$ 18,90
+16/04/2013;Oeste;Adriana;Roupas e Acessórios;R$ 1.908,82;R$ 38,18
+17/04/2013;Norte;João Carlos;Eletrônicos;R$ 229,51;R$ 4,59
+17/04/2013;Nordeste;Ana Maria;Esporte e Lazer;R$ 1.397,74;R$ 27,95
+18/04/2013;Nordeste;Adriana;Móveis e Decoração;R$ 1.037,55;R$ 20,75
+18/04/2013;Leste;Carolina;Eletrodomésticos;R$ 4.953,42;R$ 99,07
+19/04/2013;Nordeste;Carolina;Eletrônicos;R$ 1.927,70;R$ 38,55
+19/04/2013;Centro;José Luiz;Utilidades Domésticas;R$ 4.332,10;R$ 86,64
+20/04/2013;Nordeste;Carolina;Casa e Construção;R$ 2.760,57;R$ 55,21
+20/04/2013;Nordeste;Ricardo;Eletrônicos;R$ 4.448,25;R$ 88,97
+21/04/2013;Sudeste;Carolina;Cine e Foto;R$ 2.040,17;R$ 40,80
+22/04/2013;Sudeste;Carolina;Utilidades Domésticas;R$ 1.667,99;R$ 33,36
+22/04/2013;Leste;Carolina;Cama, Mesa e Banho;R$ 768,53;R$ 15,37
+22/04/2013;Leste;Roberto;Eletrônicos;R$ 3.261,12;R$ 65,22
+23/04/2013;Sudeste;Carolina;Eletrodomésticos;R$ 4.726,81;R$ 94,54
+23/04/2013;Nordeste;Adriana;Casa e Construção;R$ 2.397,27;R$ 47,95
+23/04/2013;Sudeste;Simone;Cama, Mesa e Banho;R$ 4.476,76;R$ 89,54
+24/04/2013;Sudeste;Carolina;Roupas e Acessórios;R$ 1.975,85;R$ 39,52
+25/04/2013;Leste;Carolina;Cama, Mesa e Banho;R$ 1.762,27;R$ 35,25
+25/04/2013;Sul;Roberto;Cama, Mesa e Banho;R$ 3.252,69;R$ 65,05
+25/04/2013;Centro;José Luiz;Casa e Construção;R$ 3.748,03;R$ 74,96
+26/04/2013;Sudeste;José Luiz;Eletrodomésticos;R$ 1.778,62;R$ 35,57
+28/04/2013;Sul;João Carlos;Esporte e Lazer;R$ 1.817,65;R$ 36,35
+28/04/2013;Nordeste;Carolina;Cama, Mesa e Banho;R$ 3.615,02;R$ 72,30
+28/04/2013;Centro;Carolina;Cine e Foto;R$ 3.708,59;R$ 74,17
+29/04/2013;Sudeste;Carolina;Cine e Foto;R$ 3.182,97;R$ 63,66
+30/04/2013;Sudeste;Adriana;Utilidades Domésticas;R$ 1.914,42;R$ 38,29
+30/04/2013;Sudeste;Ana Maria;Eletrodomésticos;R$ 4.918,79;R$ 98,38
+30/04/2013;Sudeste;João Carlos;Casa e Construção;R$ 2.854,29;R$ 57,09
+30/04/2013;Sul;Adriana;Cama, Mesa e Banho;R$ 3.892,05;R$ 77,84
+01/05/2013;Nordeste;Carolina;Eletrodomésticos;R$ 4.704,27;R$ 94,09
+01/05/2013;Nordeste;Ricardo;Eletrônicos;R$ 1.728,35;R$ 34,57
+01/05/2013;Sudeste;José Luiz;Roupas e Acessórios;R$ 4.162,81;R$ 83,26
+02/05/2013;Sudeste;João Carlos;Roupas e Acessórios;R$ 2.422,32;R$ 48,45
+03/05/2013;Sudeste;João Carlos;Roupas e Acessórios;R$ 2.850,03;R$ 57,00
+04/05/2013;Norte;Carolina;Utilidades Domésticas;R$ 503,41;R$ 10,07
+04/05/2013;Nordeste;Carolina;Utilidades Domésticas;R$ 3.417,07;R$ 68,34
+04/05/2013;Centro;Ana Maria;Móveis e Decoração;R$ 3.207,49;R$ 64,15
+04/05/2013;Centro;Carolina;Utilidades Domésticas;R$ 3.380,07;R$ 67,60
+05/05/2013;Norte;Roberto;Utilidades Domésticas;R$ 1.199,19;R$ 23,98
+05/05/2013;Oeste;Adriana;Utilidades Domésticas;R$ 807,19;R$ 16,14
+05/05/2013;Centro;João Carlos;Eletrônicos;R$ 2.549,98;R$ 51,00
+06/05/2013;Sul;Adriana;Eletrônicos;R$ 4.826,20;R$ 96,52
+06/05/2013;Sudeste;Carolina;Esporte e Lazer;R$ 711,66;R$ 14,23
+06/05/2013;Sul;Ricardo;Roupas e Acessórios;R$ 608,84;R$ 12,18
+06/05/2013;Sudeste;João Carlos;Casa e Construção;R$ 2.924,86;R$ 58,50
+07/05/2013;Sul;João Carlos;Roupas e Acessórios;R$ 1.333,99;R$ 26,68
+07/05/2013;Centro;Carolina;Utilidades Domésticas;R$ 4.141,03;R$ 82,82
+07/05/2013;Leste;Carolina;Utilidades Domésticas;R$ 3.745,34;R$ 74,91
+08/05/2013;Nordeste;Ricardo;Cama, Mesa e Banho;R$ 1.794,76;R$ 35,90
+08/05/2013;Leste;José Luiz;Cine e Foto;R$ 550,43;R$ 11,01
+10/05/2013;Sul;Ricardo;Cama, Mesa e Banho;R$ 1.832,15;R$ 36,64
+10/05/2013;Norte;Ricardo;Eletrônicos;R$ 2.234,30;R$ 44,69
+11/05/2013;Sudeste;João Carlos;Casa e Construção;R$ 4.371,09;R$ 87,42
+12/05/2013;Nordeste;Ricardo;Cine e Foto;R$ 2.861,78;R$ 57,24
+13/05/2013;Sudeste;João Carlos;Utilidades Domésticas;R$ 566,97;R$ 11,34
+14/05/2013;Centro;José Luiz;Eletrônicos;R$ 2.767,64;R$ 55,35
+14/05/2013;Centro;Ricardo;Casa e Construção;R$ 2.514,83;R$ 50,30
+15/05/2013;Sul;Adriana;Móveis e Decoração;R$ 529,65;R$ 10,59
+15/05/2013;Centro;Ana Maria;Cine e Foto;R$ 855,30;R$ 17,11
+15/05/2013;Centro;Carolina;Cama, Mesa e Banho;R$ 3.538,91;R$ 70,78
+17/05/2013;Norte;José Luiz;Esporte e Lazer;R$ 1.930,17;R$ 38,60
+18/05/2013;Leste;Ricardo;Cine e Foto;R$ 2.765,24;R$ 55,30
+18/05/2013;Nordeste;Carolina;Casa e Construção;R$ 1.072,35;R$ 21,45
+18/05/2013;Nordeste;Carolina;Roupas e Acessórios;R$ 1.434,99;R$ 28,70
+18/05/2013;Oeste;Ana Maria;Eletrodomésticos;R$ 3.959,83;R$ 79,20
+18/05/2013;Sul;João Carlos;Eletrônicos;R$ 3.439,41;R$ 68,79
+19/05/2013;Centro;Carolina;Casa e Construção;R$ 3.854,78;R$ 77,10
+19/05/2013;Sul;Ana Maria;Eletrodomésticos;R$ 3.852,77;R$ 77,06
+19/05/2013;Sul;Carolina;Cine e Foto;R$ 4.428,47;R$ 88,57
+19/05/2013;Sul;João Carlos;Cama, Mesa e Banho;R$ 4.135,47;R$ 82,71
+20/05/2013;Leste;João Carlos;Esporte e Lazer;R$ 1.492,10;R$ 29,84
+20/05/2013;Centro;José Luiz;Móveis e Decoração;R$ 2.503,11;R$ 50,06
+21/05/2013;Leste;Ricardo;Eletrodomésticos;R$ 4.995,29;R$ 99,91
+21/05/2013;Sul;João Carlos;Cama, Mesa e Banho;R$ 2.708,99;R$ 54,18
+22/05/2013;Leste;José Luiz;Eletrônicos;R$ 4.701,00;R$ 94,02
+24/05/2013;Sudeste;Ana Maria;Esporte e Lazer;R$ 310,77;R$ 6,22
+27/05/2013;Norte;Adriana;Eletrodomésticos;R$ 892,54;R$ 17,85
+27/05/2013;Sudeste;José Luiz;Roupas e Acessórios;R$ 304,19;R$ 6,08
+29/05/2013;Sudeste;José Luiz;Esporte e Lazer;R$ 2.417,03;R$ 48,34
+29/05/2013;Leste;Ana Maria;Cine e Foto;R$ 4.757,74;R$ 95,15
+29/05/2013;Oeste;João Carlos;Casa e Construção;R$ 1.954,79;R$ 39,10
+01/06/2013;Norte;José Luiz;Eletrodomésticos;R$ 2.268,84;R$ 45,38
+01/06/2013;Sudeste;Carolina;Esporte e Lazer;R$ 1.158,42;R$ 23,17
+01/06/2013;Leste;João Carlos;Eletrodomésticos;R$ 368,14;R$ 7,36
+02/06/2013;Sul;Roberto;Cine e Foto;R$ 1.784,33;R$ 35,69
+03/06/2013;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 3.247,26;R$ 64,95
+03/06/2013;Nordeste;José Luiz;Móveis e Decoração;R$ 3.364,84;R$ 67,30
+03/06/2013;Sudeste;Ana Maria;Eletrodomésticos;R$ 4.717,35;R$ 94,35
+04/06/2013;Sudeste;Carolina;Eletrônicos;R$ 3.630,21;R$ 72,60
+04/06/2013;Sudeste;Adriana;Eletrônicos;R$ 4.765,44;R$ 95,31
+04/06/2013;Norte;Ana Maria;Eletrônicos;R$ 3.839,72;R$ 76,79
+04/06/2013;Oeste;Roberto;Cine e Foto;R$ 3.489,16;R$ 69,78
+04/06/2013;Centro;Ana Maria;Casa e Construção;R$ 2.676,73;R$ 53,53
+06/06/2013;Nordeste;Carolina;Eletrodomésticos;R$ 3.340,32;R$ 66,81
+07/06/2013;Sudeste;Carolina;Esporte e Lazer;R$ 2.346,95;R$ 46,94
+08/06/2013;Sudeste;Ana Maria;Casa e Construção;R$ 253,91;R$ 5,08
+08/06/2013;Sul;Adriana;Casa e Construção;R$ 3.383,87;R$ 67,68
+09/06/2013;Centro;João Carlos;Cine e Foto;R$ 3.453,70;R$ 69,07
+10/06/2013;Sul;Simone;Casa e Construção;R$ 3.788,01;R$ 75,76
+10/06/2013;Sudeste;Carolina;Utilidades Domésticas;R$ 3.469,30;R$ 69,39
+10/06/2013;Sul;Adriana;Eletrodomésticos;R$ 510,23;R$ 10,20
+11/06/2013;Centro;Carolina;Casa e Construção;R$ 2.110,33;R$ 42,21
+11/06/2013;Centro;Ricardo;Eletrodomésticos;R$ 1.514,32;R$ 30,29
+11/06/2013;Nordeste;Ana Maria;Esporte e Lazer;R$ 209,24;R$ 4,18
+11/06/2013;Sul;Carolina;Casa e Construção;R$ 4.278,13;R$ 85,56
+11/06/2013;Centro;Carolina;Utilidades Domésticas;R$ 1.258,49;R$ 25,17
+12/06/2013;Sudeste;José Luiz;Casa e Construção;R$ 3.118,88;R$ 62,38
+14/06/2013;Sudeste;Simone;Eletrônicos;R$ 3.892,84;R$ 77,86
+15/06/2013;Leste;João Carlos;Casa e Construção;R$ 4.652,36;R$ 93,05
+15/06/2013;Sudeste;Ricardo;Roupas e Acessórios;R$ 1.150,69;R$ 23,01
+16/06/2013;Centro;Ana Maria;Roupas e Acessórios;R$ 3.830,63;R$ 76,61
+16/06/2013;Nordeste;Roberto;Móveis e Decoração;R$ 3.747,92;R$ 74,96
+16/06/2013;Centro;Ricardo;Eletrodomésticos;R$ 1.585,44;R$ 31,71
+16/06/2013;Sudeste;Adriana;Eletrodomésticos;R$ 2.246,30;R$ 44,93
+17/06/2013;Centro;Roberto;Casa e Construção;R$ 1.798,26;R$ 35,97
+17/06/2013;Norte;Carolina;Eletrodomésticos;R$ 4.083,32;R$ 81,67
+18/06/2013;Centro;Carolina;Eletrônicos;R$ 2.753,01;R$ 55,06
+18/06/2013;Nordeste;Ricardo;Eletrônicos;R$ 981,66;R$ 19,63
+19/06/2013;Nordeste;Roberto;Móveis e Decoração;R$ 2.287,59;R$ 45,75
+20/06/2013;Sudeste;Carolina;Roupas e Acessórios;R$ 4.413,18;R$ 88,26
+21/06/2013;Sudeste;Simone;Utilidades Domésticas;R$ 3.738,96;R$ 74,78
+22/06/2013;Leste;João Carlos;Casa e Construção;R$ 3.745,08;R$ 74,90
+24/06/2013;Sudeste;Carolina;Cama, Mesa e Banho;R$ 2.916,08;R$ 58,32
+25/06/2013;Sudeste;Simone;Roupas e Acessórios;R$ 3.865,04;R$ 77,30
+27/06/2013;Sudeste;João Carlos;Móveis e Decoração;R$ 2.273,47;R$ 45,47
+27/06/2013;Sudeste;Adriana;Móveis e Decoração;R$ 3.781,94;R$ 75,64
+28/06/2013;Sudeste;Carolina;Casa e Construção;R$ 3.807,25;R$ 76,15
+28/06/2013;Nordeste;Simone;Cine e Foto;R$ 4.954,96;R$ 99,10
+01/07/2013;Sudeste;Roberto;Móveis e Decoração;R$ 629,60;R$ 12,59
+01/07/2013;Centro;Ana Maria;Móveis e Decoração;R$ 849,79;R$ 17,00
+03/07/2013;Nordeste;Ricardo;Esporte e Lazer;R$ 2.270,20;R$ 45,40
+03/07/2013;Leste;João Carlos;Móveis e Decoração;R$ 4.899,67;R$ 97,99
+05/07/2013;Leste;Simone;Móveis e Decoração;R$ 2.794,99;R$ 55,90
+08/07/2013;Sudeste;Carolina;Casa e Construção;R$ 2.426,10;R$ 48,52
+08/07/2013;Leste;João Carlos;Eletrodomésticos;R$ 2.698,22;R$ 53,96
+09/07/2013;Nordeste;Adriana;Esporte e Lazer;R$ 1.475,03;R$ 29,50
+11/07/2013;Nordeste;Adriana;Eletrodomésticos;R$ 856,62;R$ 17,13
+13/07/2013;Sudeste;Ana Maria;Casa e Construção;R$ 490,12;R$ 9,80
+14/07/2013;Oeste;Ana Maria;Utilidades Domésticas;R$ 555,11;R$ 11,10
+14/07/2013;Sul;Roberto;Eletrônicos;R$ 3.737,93;R$ 74,76
+15/07/2013;Nordeste;Simone;Utilidades Domésticas;R$ 4.274,98;R$ 85,50
+17/07/2013;Sudeste;João Carlos;Eletrodomésticos;R$ 2.012,71;R$ 40,25
+17/07/2013;Oeste;João Carlos;Cama, Mesa e Banho;R$ 1.888,18;R$ 37,76
+17/07/2013;Centro;Carolina;Casa e Construção;R$ 1.230,22;R$ 24,60
+18/07/2013;Sudeste;João Carlos;Utilidades Domésticas;R$ 3.604,47;R$ 72,09
+18/07/2013;Nordeste;Carolina;Móveis e Decoração;R$ 3.510,89;R$ 70,22
+19/07/2013;Centro;Carolina;Cama, Mesa e Banho;R$ 4.370,49;R$ 87,41
+21/07/2013;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 3.191,16;R$ 63,82
+22/07/2013;Norte;José Luiz;Cine e Foto;R$ 3.974,17;R$ 79,48
+22/07/2013;Leste;Simone;Esporte e Lazer;R$ 4.490,99;R$ 89,82
+23/07/2013;Oeste;João Carlos;Roupas e Acessórios;R$ 947,24;R$ 18,94
+24/07/2013;Oeste;Simone;Cine e Foto;R$ 4.613,52;R$ 92,27
+24/07/2013;Sudeste;Carolina;Cine e Foto;R$ 2.342,96;R$ 46,86
+24/07/2013;Nordeste;Carolina;Roupas e Acessórios;R$ 2.137,09;R$ 42,74
+25/07/2013;Sul;Carolina;Utilidades Domésticas;R$ 3.562,41;R$ 71,25
+27/07/2013;Sul;João Carlos;Móveis e Decoração;R$ 306,16;R$ 6,12
+28/07/2013;Sudeste;João Carlos;Utilidades Domésticas;R$ 955,19;R$ 19,10
+29/07/2013;Sul;Ricardo;Eletrodomésticos;R$ 1.349,04;R$ 26,98
+30/07/2013;Sul;Ricardo;Cama, Mesa e Banho;R$ 2.474,96;R$ 49,50
+30/07/2013;Sudeste;João Carlos;Eletrônicos;R$ 4.425,21;R$ 88,50
+01/08/2013;Leste;João Carlos;Cama, Mesa e Banho;R$ 3.254,04;R$ 65,08
+02/08/2013;Nordeste;Ana Maria;Eletrodomésticos;R$ 1.283,47;R$ 25,67
+02/08/2013;Nordeste;Ricardo;Esporte e Lazer;R$ 4.999,70;R$ 99,99
+03/08/2013;Sudeste;Carolina;Roupas e Acessórios;R$ 2.051,46;R$ 41,03
+03/08/2013;Norte;João Carlos;Móveis e Decoração;R$ 3.429,55;R$ 68,59
+03/08/2013;Sul;Ana Maria;Casa e Construção;R$ 3.038,00;R$ 60,76
+04/08/2013;Sudeste;Carolina;Casa e Construção;R$ 3.140,14;R$ 62,80
+04/08/2013;Oeste;Ana Maria;Casa e Construção;R$ 930,26;R$ 18,61
+04/08/2013;Sudeste;Ricardo;Eletrodomésticos;R$ 2.722,16;R$ 54,44
+05/08/2013;Oeste;Carolina;Roupas e Acessórios;R$ 1.812,12;R$ 36,24
+05/08/2013;Nordeste;Simone;Eletrodomésticos;R$ 613,00;R$ 12,26
+06/08/2013;Norte;Carolina;Cama, Mesa e Banho;R$ 4.499,90;R$ 90,00
+10/08/2013;Nordeste;Ricardo;Roupas e Acessórios;R$ 2.694,26;R$ 53,89
+12/08/2013;Oeste;João Carlos;Eletrodomésticos;R$ 1.268,30;R$ 25,37
+12/08/2013;Sudeste;Ana Maria;Eletrodomésticos;R$ 3.048,32;R$ 60,97
+13/08/2013;Nordeste;João Carlos;Eletrônicos;R$ 4.626,44;R$ 92,53
+14/08/2013;Sudeste;João Carlos;Eletrodomésticos;R$ 4.194,25;R$ 83,89
+15/08/2013;Sudeste;Roberto;Utilidades Domésticas;R$ 1.581,36;R$ 31,63
+15/08/2013;Centro;Adriana;Cama, Mesa e Banho;R$ 2.517,24;R$ 50,34
+16/08/2013;Centro;Carolina;Utilidades Domésticas;R$ 4.021,18;R$ 80,42
+16/08/2013;Centro;Carolina;Cama, Mesa e Banho;R$ 275,37;R$ 5,51
+17/08/2013;Centro;João Carlos;Casa e Construção;R$ 3.142,24;R$ 62,84
+18/08/2013;Centro;Carolina;Casa e Construção;R$ 3.983,32;R$ 79,67
+19/08/2013;Nordeste;Ana Maria;Eletrodomésticos;R$ 788,98;R$ 15,78
+19/08/2013;Sudeste;João Carlos;Utilidades Domésticas;R$ 3.084,78;R$ 61,70
+19/08/2013;Sul;Ana Maria;Eletrônicos;R$ 1.657,11;R$ 33,14
+21/08/2013;Sudeste;João Carlos;Utilidades Domésticas;R$ 312,00;R$ 6,24
+23/08/2013;Sudeste;Carolina;Casa e Construção;R$ 2.547,06;R$ 50,94
+24/08/2013;Nordeste;Roberto;Cine e Foto;R$ 1.433,86;R$ 28,68
+24/08/2013;Sudeste;Ricardo;Cama, Mesa e Banho;R$ 2.989,79;R$ 59,80
+26/08/2013;Sul;Ricardo;Roupas e Acessórios;R$ 1.092,77;R$ 21,86
+26/08/2013;Sul;José Luiz;Cine e Foto;R$ 2.515,57;R$ 50,31
+26/08/2013;Nordeste;Ricardo;Eletrodomésticos;R$ 4.930,12;R$ 98,60
+27/08/2013;Leste;Roberto;Utilidades Domésticas;R$ 514,95;R$ 10,30
+28/08/2013;Leste;Simone;Eletrodomésticos;R$ 1.064,44;R$ 21,29
+28/08/2013;Sudeste;Adriana;Esporte e Lazer;R$ 4.069,34;R$ 81,39
+31/08/2013;Norte;Carolina;Roupas e Acessórios;R$ 1.351,58;R$ 27,03
+01/09/2013;Sudeste;João Carlos;Casa e Construção;R$ 949,22;R$ 18,98
+02/09/2013;Sul;João Carlos;Eletrônicos;R$ 1.294,81;R$ 25,90
+03/09/2013;Sudeste;Ana Maria;Esporte e Lazer;R$ 3.732,65;R$ 74,65
+03/09/2013;Sul;João Carlos;Utilidades Domésticas;R$ 2.496,61;R$ 49,93
+03/09/2013;Nordeste;João Carlos;Roupas e Acessórios;R$ 2.901,18;R$ 58,02
+04/09/2013;Centro;Ricardo;Móveis e Decoração;R$ 813,58;R$ 16,27
+04/09/2013;Sudeste;João Carlos;Cine e Foto;R$ 4.209,16;R$ 84,18
+05/09/2013;Sudeste;Ricardo;Casa e Construção;R$ 1.833,69;R$ 36,67
+05/09/2013;Sudeste;Carolina;Casa e Construção;R$ 4.254,65;R$ 85,09
+06/09/2013;Centro;Ana Maria;Cama, Mesa e Banho;R$ 4.100,39;R$ 82,01
+06/09/2013;Centro;João Carlos;Móveis e Decoração;R$ 1.213,74;R$ 24,27
+07/09/2013;Sudeste;Simone;Cine e Foto;R$ 2.980,40;R$ 59,61
+08/09/2013;Sudeste;Ricardo;Casa e Construção;R$ 3.506,37;R$ 70,13
+08/09/2013;Centro;Ricardo;Cama, Mesa e Banho;R$ 1.358,04;R$ 27,16
+09/09/2013;Oeste;João Carlos;Esporte e Lazer;R$ 359,44;R$ 7,19
+10/09/2013;Norte;Carolina;Casa e Construção;R$ 2.744,06;R$ 54,88
+11/09/2013;Sudeste;Carolina;Esporte e Lazer;R$ 3.394,34;R$ 67,89
+12/09/2013;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 1.929,51;R$ 38,59
+13/09/2013;Sudeste;Simone;Cine e Foto;R$ 2.163,60;R$ 43,27
+13/09/2013;Centro;João Carlos;Móveis e Decoração;R$ 1.432,23;R$ 28,64
+14/09/2013;Centro;Ricardo;Cine e Foto;R$ 2.060,17;R$ 41,20
+14/09/2013;Sul;Ricardo;Eletrônicos;R$ 4.688,32;R$ 93,77
+14/09/2013;Sul;Ana Maria;Cama, Mesa e Banho;R$ 1.833,26;R$ 36,67
+15/09/2013;Sudeste;Ana Maria;Roupas e Acessórios;R$ 4.407,24;R$ 88,14
+16/09/2013;Centro;Ricardo;Móveis e Decoração;R$ 1.767,00;R$ 35,34
+16/09/2013;Norte;Roberto;Roupas e Acessórios;R$ 4.747,09;R$ 94,94
+18/09/2013;Nordeste;João Carlos;Casa e Construção;R$ 3.683,24;R$ 73,66
+19/09/2013;Sudeste;Ricardo;Móveis e Decoração;R$ 882,33;R$ 17,65
+19/09/2013;Sudeste;Ricardo;Esporte e Lazer;R$ 2.537,86;R$ 50,76
+19/09/2013;Sudeste;Roberto;Casa e Construção;R$ 1.747,99;R$ 34,96
+21/09/2013;Centro;Ricardo;Utilidades Domésticas;R$ 3.668,36;R$ 73,37
+21/09/2013;Centro;Simone;Casa e Construção;R$ 2.663,05;R$ 53,26
+21/09/2013;Leste;João Carlos;Casa e Construção;R$ 2.754,84;R$ 55,10
+21/09/2013;Sul;João Carlos;Utilidades Domésticas;R$ 3.585,88;R$ 71,72
+22/09/2013;Sudeste;Carolina;Cama, Mesa e Banho;R$ 3.731,15;R$ 74,62
+22/09/2013;Sudeste;João Carlos;Roupas e Acessórios;R$ 1.542,49;R$ 30,85
+23/09/2013;Sudeste;Ana Maria;Roupas e Acessórios;R$ 4.646,92;R$ 92,94
+23/09/2013;Sudeste;Carolina;Esporte e Lazer;R$ 4.643,30;R$ 92,87
+24/09/2013;Centro;Ana Maria;Cine e Foto;R$ 2.832,70;R$ 56,65
+24/09/2013;Centro;Ricardo;Esporte e Lazer;R$ 1.323,98;R$ 26,48
+24/09/2013;Centro;Ana Maria;Cama, Mesa e Banho;R$ 2.321,36;R$ 46,43
+26/09/2013;Centro;Carolina;Eletrodomésticos;R$ 2.507,68;R$ 50,15
+26/09/2013;Nordeste;Carolina;Esporte e Lazer;R$ 1.067,55;R$ 21,35
+27/09/2013;Nordeste;Ana Maria;Eletrônicos;R$ 2.274,18;R$ 45,48
+28/09/2013;Sudeste;Simone;Esporte e Lazer;R$ 4.878,55;R$ 97,57
+29/09/2013;Oeste;João Carlos;Móveis e Decoração;R$ 4.518,36;R$ 90,37
+29/09/2013;Oeste;Roberto;Eletrodomésticos;R$ 3.750,60;R$ 75,01
+30/09/2013;Sul;Ricardo;Casa e Construção;R$ 320,26;R$ 6,41
+30/09/2013;Oeste;João Carlos;Móveis e Decoração;R$ 3.973,40;R$ 79,47
+30/09/2013;Sudeste;Roberto;Roupas e Acessórios;R$ 3.454,29;R$ 69,09
+30/09/2013;Sudeste;Ricardo;Eletrônicos;R$ 3.299,23;R$ 65,98
+30/09/2013;Centro;José Luiz;Utilidades Domésticas;R$ 471,89;R$ 9,44
+02/10/2013;Nordeste;José Luiz;Utilidades Domésticas;R$ 2.744,71;R$ 54,89
+04/10/2013;Centro;Adriana;Roupas e Acessórios;R$ 423,50;R$ 8,47
+04/10/2013;Centro;João Carlos;Utilidades Domésticas;R$ 4.848,00;R$ 96,96
+05/10/2013;Leste;João Carlos;Esporte e Lazer;R$ 2.302,62;R$ 46,05
+05/10/2013;Oeste;Carolina;Cine e Foto;R$ 676,07;R$ 13,52
+05/10/2013;Sudeste;Ricardo;Cama, Mesa e Banho;R$ 2.868,69;R$ 57,37
+06/10/2013;Sudeste;Ricardo;Móveis e Decoração;R$ 1.229,18;R$ 24,58
+07/10/2013;Centro;Roberto;Utilidades Domésticas;R$ 568,10;R$ 11,36
+07/10/2013;Sudeste;Roberto;Esporte e Lazer;R$ 1.763,42;R$ 35,27
+07/10/2013;Sudeste;Ricardo;Utilidades Domésticas;R$ 3.324,16;R$ 66,48
+08/10/2013;Nordeste;Adriana;Eletrônicos;R$ 4.288,33;R$ 85,77
+09/10/2013;Nordeste;Carolina;Cama, Mesa e Banho;R$ 3.127,14;R$ 62,54
+11/10/2013;Centro;Carolina;Eletrodomésticos;R$ 2.084,31;R$ 41,69
+12/10/2013;Sudeste;Carolina;Casa e Construção;R$ 4.128,71;R$ 82,57
+16/10/2013;Sudeste;Ricardo;Roupas e Acessórios;R$ 941,20;R$ 18,82
+16/10/2013;Centro;João Carlos;Utilidades Domésticas;R$ 3.482,32;R$ 69,65
+16/10/2013;Sul;Roberto;Cama, Mesa e Banho;R$ 3.540,74;R$ 70,81
+17/10/2013;Sudeste;Adriana;Roupas e Acessórios;R$ 3.289,50;R$ 65,79
+18/10/2013;Sul;Ricardo;Eletrodomésticos;R$ 995,62;R$ 19,91
+19/10/2013;Sul;João Carlos;Casa e Construção;R$ 4.331,39;R$ 86,63
+20/10/2013;Nordeste;Carolina;Cine e Foto;R$ 4.468,15;R$ 89,36
+21/10/2013;Oeste;Adriana;Esporte e Lazer;R$ 2.155,07;R$ 43,10
+22/10/2013;Centro;Carolina;Utilidades Domésticas;R$ 398,59;R$ 7,97
+22/10/2013;Centro;José Luiz;Eletrônicos;R$ 1.315,79;R$ 26,32
+24/10/2013;Sul;Adriana;Cama, Mesa e Banho;R$ 4.290,23;R$ 85,80
+24/10/2013;Centro;Carolina;Cine e Foto;R$ 1.309,30;R$ 26,19
+25/10/2013;Leste;Adriana;Roupas e Acessórios;R$ 4.838,39;R$ 96,77
+25/10/2013;Nordeste;Adriana;Eletrodomésticos;R$ 4.650,79;R$ 93,02
+26/10/2013;Sudeste;João Carlos;Eletrônicos;R$ 4.836,78;R$ 96,74
+27/10/2013;Centro;Carolina;Eletrônicos;R$ 2.062,13;R$ 41,24
+27/10/2013;Norte;João Carlos;Utilidades Domésticas;R$ 959,80;R$ 19,20
+29/10/2013;Norte;Ana Maria;Roupas e Acessórios;R$ 4.030,93;R$ 80,62
+30/10/2013;Sudeste;João Carlos;Casa e Construção;R$ 3.646,07;R$ 72,92
+30/10/2013;Sudeste;Ricardo;Utilidades Domésticas;R$ 348,53;R$ 6,97
+30/10/2013;Sul;Simone;Utilidades Domésticas;R$ 3.429,08;R$ 68,58
+30/10/2013;Nordeste;João Carlos;Eletrônicos;R$ 3.524,90;R$ 70,50
+30/10/2013;Centro;João Carlos;Cama, Mesa e Banho;R$ 2.291,56;R$ 45,83
+02/11/2013;Centro;Carolina;Roupas e Acessórios;R$ 1.749,51;R$ 34,99
+03/11/2013;Sudeste;João Carlos;Esporte e Lazer;R$ 2.244,33;R$ 44,89
+04/11/2013;Norte;Ana Maria;Eletrônicos;R$ 1.780,43;R$ 35,61
+04/11/2013;Sudeste;Ricardo;Casa e Construção;R$ 3.348,08;R$ 66,96
+04/11/2013;Sudeste;Ricardo;Cine e Foto;R$ 839,86;R$ 16,80
+05/11/2013;Sudeste;Roberto;Cama, Mesa e Banho;R$ 2.007,65;R$ 40,15
+06/11/2013;Nordeste;João Carlos;Móveis e Decoração;R$ 3.249,66;R$ 64,99
+06/11/2013;Norte;José Luiz;Cine e Foto;R$ 1.623,58;R$ 32,47
+06/11/2013;Nordeste;Ana Maria;Casa e Construção;R$ 2.997,61;R$ 59,95
+07/11/2013;Sudeste;João Carlos;Cine e Foto;R$ 2.675,90;R$ 53,52
+07/11/2013;Leste;Adriana;Roupas e Acessórios;R$ 3.752,05;R$ 75,04
+09/11/2013;Sul;Adriana;Móveis e Decoração;R$ 3.333,07;R$ 66,66
+10/11/2013;Centro;João Carlos;Eletrodomésticos;R$ 1.361,35;R$ 27,23
+10/11/2013;Nordeste;Ana Maria;Roupas e Acessórios;R$ 1.830,54;R$ 36,61
+11/11/2013;Sul;João Carlos;Casa e Construção;R$ 3.480,69;R$ 69,61
+11/11/2013;Centro;Simone;Casa e Construção;R$ 1.632,73;R$ 32,65
+12/11/2013;Sul;José Luiz;Roupas e Acessórios;R$ 2.735,39;R$ 54,71
+12/11/2013;Centro;Carolina;Cama, Mesa e Banho;R$ 1.226,04;R$ 24,52
+12/11/2013;Centro;Carolina;Eletrônicos;R$ 1.529,51;R$ 30,59
+13/11/2013;Centro;Carolina;Esporte e Lazer;R$ 3.727,03;R$ 74,54
+14/11/2013;Oeste;José Luiz;Utilidades Domésticas;R$ 732,28;R$ 14,65
+14/11/2013;Sudeste;João Carlos;Eletrodomésticos;R$ 3.301,88;R$ 66,04
+15/11/2013;Nordeste;Carolina;Utilidades Domésticas;R$ 3.720,59;R$ 74,41
+15/11/2013;Sudeste;Carolina;Eletrônicos;R$ 4.474,35;R$ 89,49
+15/11/2013;Oeste;José Luiz;Móveis e Decoração;R$ 1.339,35;R$ 26,79
+15/11/2013;Centro;João Carlos;Esporte e Lazer;R$ 4.088,04;R$ 81,76
+15/11/2013;Sul;José Luiz;Casa e Construção;R$ 705,19;R$ 14,10
+15/11/2013;Sudeste;Carolina;Casa e Construção;R$ 3.051,61;R$ 61,03
+16/11/2013;Nordeste;João Carlos;Cama, Mesa e Banho;R$ 1.775,15;R$ 35,50
+16/11/2013;Centro;Simone;Roupas e Acessórios;R$ 2.113,24;R$ 42,26
+20/11/2013;Sudeste;Carolina;Roupas e Acessórios;R$ 2.114,95;R$ 42,30
+20/11/2013;Nordeste;José Luiz;Esporte e Lazer;R$ 2.482,78;R$ 49,66
+21/11/2013;Sudeste;Adriana;Casa e Construção;R$ 2.549,70;R$ 50,99
+21/11/2013;Oeste;João Carlos;Roupas e Acessórios;R$ 1.341,13;R$ 26,82
+23/11/2013;Sul;Adriana;Cama, Mesa e Banho;R$ 4.943,10;R$ 98,86
+25/11/2013;Sul;João Carlos;Móveis e Decoração;R$ 3.678,37;R$ 73,57
+26/11/2013;Leste;João Carlos;Eletrodomésticos;R$ 3.199,08;R$ 63,98
+28/11/2013;Norte;Ricardo;Casa e Construção;R$ 4.492,17;R$ 89,84
+28/11/2013;Centro;Simone;Cama, Mesa e Banho;R$ 732,63;R$ 14,65
+28/11/2013;Sul;Carolina;Esporte e Lazer;R$ 3.286,45;R$ 65,73
+29/11/2013;Sul;João Carlos;Cine e Foto;R$ 4.751,40;R$ 95,03
+29/11/2013;Sudeste;José Luiz;Cine e Foto;R$ 1.035,87;R$ 20,72
+30/11/2013;Leste;Carolina;Eletrodomésticos;R$ 2.664,13;R$ 53,28
+01/12/2013;Sudeste;José Luiz;Móveis e Decoração;R$ 827,33;R$ 16,55
+01/12/2013;Nordeste;Carolina;Roupas e Acessórios;R$ 634,33;R$ 12,69
+02/12/2013;Sudeste;Ana Maria;Cine e Foto;R$ 1.671,95;R$ 33,44
+02/12/2013;Norte;Roberto;Móveis e Decoração;R$ 2.805,18;R$ 56,10
+02/12/2013;Nordeste;Carolina;Cama, Mesa e Banho;R$ 2.677,14;R$ 53,54
+02/12/2013;Centro;Carolina;Roupas e Acessórios;R$ 3.059,65;R$ 61,19
+04/12/2013;Centro;João Carlos;Esporte e Lazer;R$ 313,58;R$ 6,27
+05/12/2013;Oeste;João Carlos;Casa e Construção;R$ 4.921,47;R$ 98,43
+06/12/2013;Sul;João Carlos;Cine e Foto;R$ 4.011,45;R$ 80,23
+06/12/2013;Leste;João Carlos;Móveis e Decoração;R$ 3.027,68;R$ 60,55
+06/12/2013;Centro;João Carlos;Cama, Mesa e Banho;R$ 257,04;R$ 5,14
+06/12/2013;Sul;José Luiz;Cama, Mesa e Banho;R$ 4.052,01;R$ 81,04
+08/12/2013;Centro;João Carlos;Cine e Foto;R$ 4.136,13;R$ 82,72
+08/12/2013;Sudeste;Carolina;Móveis e Decoração;R$ 1.187,04;R$ 23,74
+08/12/2013;Nordeste;Adriana;Utilidades Domésticas;R$ 2.195,21;R$ 43,90
+09/12/2013;Sudeste;Carolina;Cine e Foto;R$ 2.760,78;R$ 55,22
+11/12/2013;Oeste;Ana Maria;Roupas e Acessórios;R$ 4.993,61;R$ 99,87
+13/12/2013;Sudeste;Ricardo;Roupas e Acessórios;R$ 2.031,53;R$ 40,63
+13/12/2013;Centro;Adriana;Roupas e Acessórios;R$ 4.871,91;R$ 97,44
+15/12/2013;Sudeste;Ricardo;Eletrônicos;R$ 657,04;R$ 13,14
+15/12/2013;Leste;Ricardo;Casa e Construção;R$ 4.090,24;R$ 81,80
+15/12/2013;Sudeste;João Carlos;Cama, Mesa e Banho;R$ 848,12;R$ 16,96
+16/12/2013;Sudeste;Adriana;Móveis e Decoração;R$ 2.059,39;R$ 41,19
+17/12/2013;Leste;Simone;Roupas e Acessórios;R$ 1.905,04;R$ 38,10
+18/12/2013;Norte;João Carlos;Eletrônicos;R$ 545,63;R$ 10,91
+18/12/2013;Sul;Roberto;Eletrônicos;R$ 2.787,45;R$ 55,75
+18/12/2013;Oeste;Adriana;Eletrodomésticos;R$ 4.575,06;R$ 91,50
+20/12/2013;Centro;Adriana;Utilidades Domésticas;R$ 4.259,82;R$ 85,20
+20/12/2013;Sudeste;Carolina;Esporte e Lazer;R$ 1.980,49;R$ 39,61
+20/12/2013;Sudeste;João Carlos;Esporte e Lazer;R$ 4.287,60;R$ 85,75
+21/12/2013;Centro;Carolina;Móveis e Decoração;R$ 1.357,61;R$ 27,15
+21/12/2013;Sul;João Carlos;Eletrônicos;R$ 1.043,72;R$ 20,87
+22/12/2013;Leste;José Luiz;Eletrodomésticos;R$ 3.367,92;R$ 67,36
+23/12/2013;Leste;Simone;Roupas e Acessórios;R$ 4.694,83;R$ 93,90
+23/12/2013;Sudeste;José Luiz;Móveis e Decoração;R$ 4.371,48;R$ 87,43
+23/12/2013;Oeste;João Carlos;Esporte e Lazer;R$ 2.517,60;R$ 50,35
+23/12/2013;Sul;Adriana;Móveis e Decoração;R$ 2.722,97;R$ 54,46
+25/12/2013;Sul;Ricardo;Cama, Mesa e Banho;R$ 4.141,40;R$ 82,83
+26/12/2013;Sudeste;Ana Maria;Cama, Mesa e Banho;R$ 910,37;R$ 18,21
+26/12/2013;Oeste;João Carlos;Casa e Construção;R$ 4.661,37;R$ 93,23
+27/12/2013;Centro;Carolina;Cine e Foto;R$ 4.497,80;R$ 89,96
+27/12/2013;Sul;João Carlos;Esporte e Lazer;R$ 3.606,91;R$ 72,14
+27/12/2013;Sudeste;Carolina;Roupas e Acessórios;R$ 345,43;R$ 6,91
+28/12/2013;Nordeste;Adriana;Roupas e Acessórios;R$ 3.060,33;R$ 61,21
+29/12/2013;Centro;Carolina;Roupas e Acessórios;R$ 4.175,04;R$ 83,50
+29/12/2013;Sudeste;Ricardo;Eletrônicos;R$ 2.199,43;R$ 43,99
+30/12/2013;Norte;Ana Maria;Cama, Mesa e Banho;R$ 4.703,86;R$ 94,08
+30/12/2013;Oeste;Carolina;Roupas e Acessórios;R$ 4.403,47;R$ 88,07
+31/12/2013;Leste;Ana Maria;Eletrodomésticos;R$ 3.957,18;R$ 79,14
