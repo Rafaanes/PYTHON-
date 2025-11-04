@@ -1,0 +1,46 @@
+[07/10/2025 15:40:05] === Início da execução dos scripts ===
+[07/10/2025 15:40:05] Executando script: 01. Colaboradores - PROCX.py
+[07/10/2025 15:40:07] Sucesso ao executar: 01. Colaboradores - PROCX.py
+[07/10/2025 15:40:07] Executando script: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:40:12] Sucesso ao executar: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:40:12] Executando script: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:40:14] Sucesso ao executar: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:40:14] Executando script: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:40:18] Sucesso ao executar: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:40:18] === Fim da execução dos scripts ===
+
+[07/10/2025 15:40:21] === Início da execução dos scripts ===
+[07/10/2025 15:40:21] Executando script: 01. Colaboradores - PROCX.py
+[07/10/2025 15:40:23] Sucesso ao executar: 01. Colaboradores - PROCX.py
+[07/10/2025 15:40:23] Executando script: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:40:27] Sucesso ao executar: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:40:27] Executando script: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:40:29] Sucesso ao executar: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:40:29] Executando script: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:40:32] Sucesso ao executar: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:40:32] === Fim da execução dos scripts ===
+
+[07/10/2025 15:55:47] === Início da execução dos scripts ===
+[07/10/2025 15:55:47] Usuário: mpfse
+[07/10/2025 15:55:47] Executando script: 01. Colaboradores - PROCX.py
+[07/10/2025 15:55:49] Sucesso ao executar: 01. Colaboradores - PROCX.py
+[07/10/2025 15:55:49] Executando script: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:55:54] Sucesso ao executar: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:55:54] Executando script: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:55:55] Sucesso ao executar: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:55:55] Executando script: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:55:59] Sucesso ao executar: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:55:59] === Fim da execução dos scripts ===
+
+[07/10/2025 15:57:52] === Início da execução dos scripts ===
+[07/10/2025 15:57:52] Usuário: mpfse | Computador: VAIO_CASA
+[07/10/2025 15:57:52] Executando script: 01. Colaboradores - PROCX.py
+[07/10/2025 15:57:54] Sucesso ao executar: 01. Colaboradores - PROCX.py
+[07/10/2025 15:57:54] Executando script: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:57:58] Sucesso ao executar: 02. Itens Estoque - PROCX.py
+[07/10/2025 15:57:58] Executando script: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:58:00] Sucesso ao executar: 03. Imobiliaria - PROCX.py
+[07/10/2025 15:58:00] Executando script: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:58:04] Sucesso ao executar: 04. PROCX x Arquivo x Bco.py
+[07/10/2025 15:58:04] === Fim da execução dos scripts ===
+
